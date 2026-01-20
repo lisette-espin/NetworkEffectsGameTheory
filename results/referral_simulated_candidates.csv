@@ -1,0 +1,1001 @@
+True_Fit,R1_Quality,R2_Quality,Trust_R1,Trust_R2,Selected_Referral,Network_Effect,N_Papers,Posterior_Good,Posterior_Bad,Predicted_Fit
+Good,good,bad,Yes,No,good,good,1,0.4355702158845366,0.5644297841154634,Bad
+Good,good,excellent,No,Yes,excellent,excellent,5,0.9846288857409103,0.015371114259089682,Good
+Bad,bad,very bad,Yes,No,bad,bad,4,0.38411494524413486,0.6158850547558652,Bad
+Good,average,excellent,Yes,No,average,average,8,0.9953041416896198,0.0046958583103801545,Good
+Bad,bad,bad,Yes,Yes,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Good,good,good,Yes,Yes,good,good,5,0.9678916165342273,0.03210838346577264,Good
+Bad,bad,very bad,Yes,No,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Good,good,excellent,No,Yes,excellent,excellent,4,0.9624382629795427,0.03756173702045721,Good
+Bad,very bad,good,Yes,Yes,good,good,1,0.4355702158845366,0.5644297841154634,Bad
+Bad,bad,bad,No,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Good,average,excellent,Yes,Yes,excellent,excellent,1,0.6211922573902213,0.3788077426097787,Good
+Bad,very bad,bad,Yes,Yes,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Bad,very bad,bad,No,No,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Bad,good,very bad,No,No,good,good,3,0.8282708214961547,0.1717291785038452,Good
+Bad,very bad,very bad,Yes,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Good,very bad,average,No,Yes,average,average,8,0.9953041416896198,0.0046958583103801545,Good
+Bad,excellent,bad,Yes,No,excellent,excellent,2,0.803908261723525,0.19609173827647486,Good
+Bad,very bad,good,Yes,No,very bad,very bad,3,0.11262892556477863,0.8873710744352215,Bad
+Good,excellent,excellent,No,Yes,excellent,excellent,10,0.9998401681539857,0.00015983184601427544,Good
+Good,good,average,Yes,Yes,good,good,7,0.9947202585155632,0.005279741484436876,Good
+Good,good,excellent,Yes,No,good,good,7,0.9947202585155632,0.005279741484436876,Good
+Good,excellent,good,Yes,No,excellent,excellent,6,0.9937943213792837,0.006205678620716408,Good
+Bad,very bad,very bad,Yes,No,very bad,very bad,5,0.4423615674822886,0.5576384325177113,Bad
+Bad,very bad,bad,No,No,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Bad,bad,very bad,No,No,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Bad,very bad,bad,Yes,Yes,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Bad,average,very bad,Yes,No,average,average,1,0.2577554177804674,0.7422445822195327,Bad
+Good,average,excellent,Yes,No,average,average,4,0.8443825007400562,0.15561749925994384,Good
+Good,average,average,No,No,average,average,2,0.4647145175294794,0.5352854824705207,Bad
+Good,good,excellent,Yes,No,good,good,10,0.9996604183876702,0.0003395816123298679,Good
+Bad,bad,very bad,No,No,bad,bad,4,0.38411494524413486,0.6158850547558652,Bad
+Bad,bad,very bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Good,excellent,good,Yes,Yes,excellent,excellent,6,0.9937943213792837,0.006205678620716408,Good
+Good,good,very bad,No,No,good,good,4,0.9234174539677513,0.07658254603224868,Good
+Bad,very bad,bad,No,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Good,good,very bad,No,No,good,good,5,0.9678916165342273,0.03210838346577264,Good
+Good,average,good,Yes,No,average,average,8,0.9953041416896198,0.0046958583103801545,Good
+Bad,very bad,bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Bad,very bad,bad,No,No,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Bad,very bad,very bad,No,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Good,excellent,good,No,No,excellent,excellent,5,0.9846288857409103,0.015371114259089682,Good
+Bad,bad,very bad,No,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Bad,very bad,very bad,No,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Bad,very bad,bad,No,No,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Bad,bad,bad,No,No,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Bad,very bad,very bad,No,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Good,excellent,average,No,Yes,average,average,6,0.9713570280831013,0.02864297191689871,Good
+Bad,very bad,very bad,Yes,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Bad,bad,good,No,No,good,good,2,0.6586155583247212,0.3413844416752788,Good
+Bad,very bad,bad,No,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Good,very bad,bad,Yes,Yes,bad,bad,6,0.795834930773772,0.20416506922622804,Good
+Bad,very bad,very bad,Yes,Yes,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Good,excellent,good,No,Yes,good,good,7,0.9947202585155632,0.005279741484436876,Good
+Bad,very bad,bad,Yes,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Good,excellent,excellent,No,No,excellent,excellent,10,0.9998401681539857,0.00015983184601427544,Good
+Bad,bad,average,Yes,No,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Good,good,good,No,No,good,good,9,0.9991514781827855,0.0008485218172144918,Good
+Good,good,good,No,No,good,good,3,0.8282708214961547,0.1717291785038452,Good
+Bad,very bad,very bad,Yes,No,very bad,very bad,5,0.4423615674822886,0.5576384325177113,Bad
+Bad,very bad,very bad,No,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Bad,bad,bad,No,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Good,average,excellent,Yes,Yes,excellent,excellent,8,0.9990018884949339,0.000998111505066213,Good
+Good,excellent,bad,No,Yes,bad,bad,4,0.38411494524413486,0.6158850547558652,Bad
+Good,good,excellent,No,Yes,excellent,excellent,7,0.997508451502166,0.002491548497833852,Good
+Good,excellent,good,No,No,excellent,excellent,4,0.9624382629795427,0.03756173702045721,Good
+Bad,bad,average,Yes,Yes,average,average,2,0.4647145175294794,0.5352854824705207,Bad
+Bad,very bad,very bad,No,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Bad,bad,very bad,No,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Good,good,good,Yes,No,good,good,3,0.8282708214961547,0.1717291785038452,Good
+Good,average,bad,No,No,average,average,6,0.9713570280831013,0.02864297191689871,Good
+Good,bad,excellent,No,No,excellent,excellent,4,0.9624382629795427,0.03756173702045721,Good
+Good,average,good,Yes,No,average,average,4,0.8443825007400562,0.15561749925994384,Good
+Good,very bad,bad,No,Yes,bad,bad,5,0.6092527392468644,0.3907472607531356,Good
+Bad,very bad,very bad,Yes,No,very bad,very bad,3,0.11262892556477863,0.8873710744352215,Bad
+Bad,very bad,bad,Yes,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Good,good,good,No,Yes,good,good,3,0.8282708214961547,0.1717291785038452,Good
+Bad,bad,bad,No,Yes,bad,bad,4,0.38411494524413486,0.6158850547558652,Bad
+Good,bad,good,Yes,Yes,good,good,5,0.9678916165342273,0.03210838346577264,Good
+Good,excellent,excellent,No,Yes,excellent,excellent,6,0.9937943213792837,0.006205678620716408,Good
+Good,good,bad,No,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Good,average,excellent,Yes,No,average,average,6,0.9713570280831013,0.02864297191689871,Good
+Bad,bad,good,No,No,good,good,1,0.4355702158845366,0.5644297841154634,Bad
+Good,excellent,very bad,Yes,No,excellent,excellent,8,0.9990018884949339,0.000998111505066213,Good
+Good,average,excellent,No,Yes,excellent,excellent,6,0.9937943213792837,0.006205678620716408,Good
+Good,average,good,Yes,Yes,good,good,8,0.9978813919846485,0.002118608015351499,Good
+Good,bad,excellent,No,Yes,excellent,excellent,7,0.997508451502166,0.002491548497833852,Good
+Good,excellent,average,No,No,excellent,excellent,7,0.997508451502166,0.002491548497833852,Good
+Bad,bad,very bad,Yes,No,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Good,good,average,No,Yes,average,average,2,0.4647145175294794,0.5352854824705207,Bad
+Good,excellent,bad,No,Yes,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Bad,very bad,very bad,No,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Bad,very bad,very bad,No,No,very bad,very bad,4,0.24087763078935487,0.7591223692106451,Bad
+Bad,bad,very bad,No,No,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Good,very bad,excellent,Yes,No,very bad,very bad,6,0.6647885567159726,0.3352114432840275,Good
+Bad,good,bad,Yes,No,good,good,1,0.4355702158845366,0.5644297841154634,Bad
+Bad,bad,very bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Bad,very bad,very bad,No,Yes,very bad,very bad,3,0.11262892556477863,0.8873710744352215,Bad
+Bad,very bad,very bad,No,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Good,very bad,excellent,No,No,excellent,excellent,2,0.803908261723525,0.19609173827647486,Good
+Good,bad,bad,Yes,Yes,bad,bad,5,0.6092527392468644,0.3907472607531356,Good
+Good,average,excellent,No,No,excellent,excellent,4,0.9624382629795427,0.03756173702045721,Good
+Bad,very bad,very bad,No,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Good,excellent,excellent,No,Yes,excellent,excellent,2,0.803908261723525,0.19609173827647486,Good
+Bad,bad,bad,No,No,bad,bad,5,0.6092527392468644,0.3907472607531356,Good
+Good,good,average,No,No,good,good,6,0.9869043586899429,0.013095641310057181,Good
+Bad,bad,bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Bad,excellent,very bad,Yes,No,excellent,excellent,4,0.9624382629795427,0.03756173702045721,Good
+Good,good,good,Yes,Yes,good,good,5,0.9678916165342273,0.03210838346577264,Good
+Bad,very bad,very bad,Yes,Yes,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Good,average,good,Yes,Yes,good,good,3,0.8282708214961547,0.1717291785038452,Good
+Good,excellent,average,Yes,No,excellent,excellent,7,0.997508451502166,0.002491548497833852,Good
+Bad,bad,very bad,No,Yes,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Good,good,average,Yes,Yes,good,good,5,0.9678916165342273,0.03210838346577264,Good
+Good,excellent,good,No,Yes,good,good,5,0.9678916165342273,0.03210838346577264,Good
+Bad,very bad,very bad,No,Yes,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Bad,very bad,bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Good,average,excellent,No,Yes,excellent,excellent,6,0.9937943213792837,0.006205678620716408,Good
+Good,excellent,excellent,Yes,Yes,excellent,excellent,10,0.9998401681539857,0.00015983184601427544,Good
+Good,average,average,No,No,average,average,6,0.9713570280831013,0.02864297191689871,Good
+Bad,bad,good,Yes,No,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Good,excellent,good,No,Yes,good,good,5,0.9678916165342273,0.03210838346577264,Good
+Bad,bad,bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Bad,bad,bad,No,No,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Good,excellent,good,Yes,No,excellent,excellent,8,0.9990018884949339,0.000998111505066213,Good
+Bad,bad,very bad,No,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Bad,bad,very bad,No,No,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Good,excellent,very bad,Yes,Yes,excellent,excellent,5,0.9846288857409103,0.015371114259089682,Good
+Bad,very bad,very bad,No,Yes,very bad,very bad,6,0.6647885567159726,0.3352114432840275,Good
+Good,good,good,Yes,No,good,good,5,0.9678916165342273,0.03210838346577264,Good
+Bad,very bad,very bad,Yes,No,very bad,very bad,3,0.11262892556477863,0.8873710744352215,Bad
+Good,excellent,good,No,No,excellent,excellent,3,0.9111042742577183,0.08889572574228163,Good
+Good,good,excellent,Yes,No,good,good,8,0.9978813919846485,0.002118608015351499,Good
+Bad,very bad,very bad,No,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Good,good,bad,Yes,No,good,good,1,0.4355702158845366,0.5644297841154634,Bad
+Bad,very bad,bad,Yes,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Bad,very bad,bad,Yes,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Good,average,bad,No,No,average,average,3,0.6845828856812483,0.31541711431875163,Good
+Bad,very bad,bad,No,No,bad,bad,4,0.38411494524413486,0.6158850547558652,Bad
+Good,average,good,Yes,No,average,average,6,0.9713570280831013,0.02864297191689871,Good
+Good,excellent,average,Yes,Yes,excellent,excellent,3,0.9111042742577183,0.08889572574228163,Good
+Bad,good,very bad,Yes,No,good,good,3,0.8282708214961547,0.1717291785038452,Good
+Good,excellent,bad,No,Yes,bad,bad,5,0.6092527392468644,0.3907472607531356,Good
+Good,very bad,average,Yes,Yes,average,average,10,0.9992456872679415,0.0007543127320584523,Good
+Bad,very bad,average,Yes,Yes,average,average,2,0.4647145175294794,0.5352854824705207,Bad
+Good,excellent,bad,Yes,No,excellent,excellent,6,0.9937943213792837,0.006205678620716408,Good
+Bad,very bad,very bad,Yes,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Good,excellent,good,Yes,Yes,excellent,excellent,1,0.6211922573902213,0.3788077426097787,Good
+Good,good,good,Yes,No,good,good,4,0.9234174539677513,0.07658254603224868,Good
+Bad,bad,bad,Yes,No,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Good,good,good,No,Yes,good,good,1,0.4355702158845366,0.5644297841154634,Bad
+Bad,bad,bad,Yes,No,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Good,excellent,bad,No,No,excellent,excellent,9,0.9996005161603236,0.0003994838396763672,Good
+Bad,very bad,bad,Yes,Yes,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Bad,bad,very bad,No,Yes,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Bad,very bad,bad,Yes,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Bad,bad,very bad,No,No,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Good,bad,very bad,Yes,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Bad,good,very bad,Yes,No,good,good,2,0.6586155583247212,0.3413844416752788,Good
+Good,excellent,very bad,No,Yes,very bad,very bad,4,0.24087763078935487,0.7591223692106451,Bad
+Bad,very bad,bad,No,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Bad,bad,very bad,Yes,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Good,good,very bad,Yes,Yes,good,good,5,0.9678916165342273,0.03210838346577264,Good
+Good,good,average,No,No,good,good,2,0.6586155583247212,0.3413844416752788,Good
+Good,good,average,Yes,No,good,good,4,0.9234174539677513,0.07658254603224868,Good
+Good,excellent,average,Yes,Yes,excellent,excellent,4,0.9624382629795427,0.03756173702045721,Good
+Bad,bad,bad,Yes,No,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Bad,very bad,bad,No,No,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Good,average,good,Yes,No,average,average,3,0.6845828856812483,0.31541711431875163,Good
+Good,excellent,average,No,No,excellent,excellent,8,0.9990018884949339,0.000998111505066213,Good
+Bad,bad,bad,Yes,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Good,excellent,excellent,No,Yes,excellent,excellent,4,0.9624382629795427,0.03756173702045721,Good
+Good,excellent,excellent,No,Yes,excellent,excellent,7,0.997508451502166,0.002491548497833852,Good
+Bad,bad,very bad,No,No,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Good,excellent,good,Yes,Yes,excellent,excellent,6,0.9937943213792837,0.006205678620716408,Good
+Bad,excellent,very bad,Yes,No,excellent,excellent,1,0.6211922573902213,0.3788077426097787,Good
+Good,excellent,good,Yes,No,excellent,excellent,6,0.9937943213792837,0.006205678620716408,Good
+Bad,very bad,bad,No,No,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Bad,very bad,bad,Yes,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Good,excellent,good,Yes,Yes,excellent,excellent,4,0.9624382629795427,0.03756173702045721,Good
+Good,good,average,Yes,No,good,good,7,0.9947202585155632,0.005279741484436876,Good
+Good,excellent,average,No,Yes,average,average,3,0.6845828856812483,0.31541711431875163,Good
+Bad,very bad,very bad,No,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Bad,good,very bad,No,Yes,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Good,average,very bad,Yes,Yes,average,average,8,0.9953041416896198,0.0046958583103801545,Good
+Good,bad,bad,No,Yes,bad,bad,4,0.38411494524413486,0.6158850547558652,Bad
+Good,excellent,bad,Yes,No,excellent,excellent,6,0.9937943213792837,0.006205678620716408,Good
+Bad,bad,very bad,No,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Good,average,excellent,Yes,No,average,average,4,0.8443825007400562,0.15561749925994384,Good
+Good,excellent,good,Yes,Yes,excellent,excellent,6,0.9937943213792837,0.006205678620716408,Good
+Good,average,excellent,No,No,excellent,excellent,4,0.9624382629795427,0.03756173702045721,Good
+Bad,very bad,bad,Yes,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Good,bad,average,No,No,average,average,2,0.4647145175294794,0.5352854824705207,Bad
+Bad,bad,bad,No,No,bad,bad,4,0.38411494524413486,0.6158850547558652,Bad
+Good,excellent,average,Yes,Yes,excellent,excellent,3,0.9111042742577183,0.08889572574228163,Good
+Good,excellent,bad,Yes,No,excellent,excellent,2,0.803908261723525,0.19609173827647486,Good
+Good,average,bad,Yes,No,average,average,4,0.8443825007400562,0.15561749925994384,Good
+Good,excellent,excellent,Yes,No,excellent,excellent,4,0.9624382629795427,0.03756173702045721,Good
+Bad,very bad,very bad,Yes,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Good,excellent,average,Yes,No,excellent,excellent,3,0.9111042742577183,0.08889572574228163,Good
+Good,excellent,excellent,Yes,Yes,excellent,excellent,4,0.9624382629795427,0.03756173702045721,Good
+Good,excellent,good,Yes,No,excellent,excellent,4,0.9624382629795427,0.03756173702045721,Good
+Good,excellent,very bad,Yes,Yes,excellent,excellent,9,0.9996005161603236,0.0003994838396763672,Good
+Bad,bad,bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Good,average,excellent,Yes,Yes,excellent,excellent,5,0.9846288857409103,0.015371114259089682,Good
+Bad,very bad,excellent,No,Yes,excellent,excellent,1,0.6211922573902213,0.3788077426097787,Good
+Good,very bad,good,Yes,No,very bad,very bad,5,0.4423615674822886,0.5576384325177113,Bad
+Good,excellent,good,No,No,excellent,excellent,6,0.9937943213792837,0.006205678620716408,Good
+Good,excellent,excellent,Yes,Yes,excellent,excellent,2,0.803908261723525,0.19609173827647486,Good
+Good,good,very bad,No,Yes,very bad,very bad,3,0.11262892556477863,0.8873710744352215,Bad
+Good,good,good,No,Yes,good,good,3,0.8282708214961547,0.1717291785038452,Good
+Good,average,excellent,Yes,Yes,excellent,excellent,7,0.997508451502166,0.002491548497833852,Good
+Bad,excellent,very bad,No,Yes,very bad,very bad,3,0.11262892556477863,0.8873710744352215,Bad
+Good,good,average,No,No,good,good,4,0.9234174539677513,0.07658254603224868,Good
+Good,bad,excellent,Yes,Yes,excellent,excellent,4,0.9624382629795427,0.03756173702045721,Good
+Good,average,excellent,No,Yes,excellent,excellent,6,0.9937943213792837,0.006205678620716408,Good
+Bad,bad,bad,No,No,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Good,good,good,No,No,good,good,1,0.4355702158845366,0.5644297841154634,Bad
+Bad,very bad,bad,Yes,Yes,bad,bad,4,0.38411494524413486,0.6158850547558652,Bad
+Good,average,excellent,No,Yes,excellent,excellent,4,0.9624382629795427,0.03756173702045721,Good
+Good,excellent,very bad,Yes,No,excellent,excellent,7,0.997508451502166,0.002491548497833852,Good
+Good,very bad,good,Yes,No,very bad,very bad,6,0.6647885567159726,0.3352114432840275,Good
+Good,excellent,very bad,Yes,No,excellent,excellent,5,0.9846288857409103,0.015371114259089682,Good
+Bad,very bad,bad,Yes,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Good,very bad,average,No,No,average,average,3,0.6845828856812483,0.31541711431875163,Good
+Bad,very bad,bad,Yes,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Good,good,excellent,Yes,No,good,good,7,0.9947202585155632,0.005279741484436876,Good
+Bad,very bad,very bad,No,Yes,very bad,very bad,3,0.11262892556477863,0.8873710744352215,Bad
+Bad,very bad,bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Bad,very bad,good,No,Yes,good,good,1,0.4355702158845366,0.5644297841154634,Bad
+Good,good,excellent,No,Yes,excellent,excellent,5,0.9846288857409103,0.015371114259089682,Good
+Bad,very bad,bad,No,No,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Good,average,average,Yes,No,average,average,5,0.9313424064918566,0.06865759350814335,Good
+Good,very bad,average,No,No,average,average,4,0.8443825007400562,0.15561749925994384,Good
+Bad,very bad,very bad,No,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Good,excellent,bad,Yes,No,excellent,excellent,8,0.9990018884949339,0.000998111505066213,Good
+Bad,good,very bad,Yes,No,good,good,2,0.6586155583247212,0.3413844416752788,Good
+Bad,bad,bad,No,No,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Good,excellent,excellent,Yes,Yes,excellent,excellent,4,0.9624382629795427,0.03756173702045721,Good
+Bad,average,very bad,No,Yes,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Good,good,excellent,No,Yes,excellent,excellent,8,0.9990018884949339,0.000998111505066213,Good
+Bad,bad,bad,Yes,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Bad,very bad,very bad,No,Yes,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Bad,bad,bad,Yes,No,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Good,good,bad,Yes,Yes,good,good,2,0.6586155583247212,0.3413844416752788,Good
+Good,excellent,bad,No,Yes,bad,bad,4,0.38411494524413486,0.6158850547558652,Bad
+Good,excellent,good,Yes,No,excellent,excellent,10,0.9998401681539857,0.00015983184601427544,Good
+Good,good,bad,Yes,No,good,good,10,0.9996604183876702,0.0003395816123298679,Good
+Good,excellent,good,Yes,Yes,excellent,excellent,5,0.9846288857409103,0.015371114259089682,Good
+Bad,bad,very bad,No,No,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Bad,bad,bad,No,No,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Bad,bad,very bad,No,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Bad,bad,very bad,Yes,No,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Bad,very bad,bad,No,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Bad,average,excellent,Yes,No,average,average,2,0.4647145175294794,0.5352854824705207,Bad
+Good,excellent,good,No,No,excellent,excellent,1,0.6211922573902213,0.3788077426097787,Good
+Good,excellent,excellent,No,No,excellent,excellent,9,0.9996005161603236,0.0003994838396763672,Good
+Good,bad,excellent,No,No,excellent,excellent,8,0.9990018884949339,0.000998111505066213,Good
+Good,average,excellent,No,No,excellent,excellent,5,0.9846288857409103,0.015371114259089682,Good
+Bad,average,bad,No,Yes,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Good,good,bad,Yes,Yes,good,good,6,0.9869043586899429,0.013095641310057181,Good
+Bad,bad,very bad,Yes,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Bad,very bad,average,Yes,Yes,average,average,2,0.4647145175294794,0.5352854824705207,Bad
+Bad,very bad,very bad,No,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Bad,bad,bad,Yes,No,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Bad,very bad,bad,No,Yes,bad,bad,4,0.38411494524413486,0.6158850547558652,Bad
+Good,good,very bad,Yes,Yes,good,good,3,0.8282708214961547,0.1717291785038452,Good
+Good,average,bad,No,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Bad,very bad,bad,Yes,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Bad,very bad,good,No,Yes,good,good,1,0.4355702158845366,0.5644297841154634,Bad
+Good,excellent,excellent,No,No,excellent,excellent,4,0.9624382629795427,0.03756173702045721,Good
+Good,good,bad,Yes,No,good,good,4,0.9234174539677513,0.07658254603224868,Good
+Good,good,excellent,Yes,Yes,excellent,excellent,3,0.9111042742577183,0.08889572574228163,Good
+Good,average,bad,No,No,average,average,6,0.9713570280831013,0.02864297191689871,Good
+Good,excellent,bad,No,Yes,bad,bad,6,0.795834930773772,0.20416506922622804,Good
+Bad,bad,very bad,Yes,No,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Good,bad,excellent,Yes,No,bad,bad,8,0.9605716859754803,0.03942831402451968,Good
+Bad,bad,very bad,Yes,No,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Bad,bad,very bad,Yes,No,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Good,bad,good,Yes,Yes,good,good,8,0.9978813919846485,0.002118608015351499,Good
+Good,average,very bad,Yes,Yes,average,average,2,0.4647145175294794,0.5352854824705207,Bad
+Bad,average,very bad,Yes,Yes,average,average,1,0.2577554177804674,0.7422445822195327,Bad
+Good,average,excellent,No,No,excellent,excellent,2,0.803908261723525,0.19609173827647486,Good
+Good,very bad,excellent,No,Yes,excellent,excellent,4,0.9624382629795427,0.03756173702045721,Good
+Bad,bad,very bad,Yes,No,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Bad,bad,very bad,No,Yes,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Bad,very bad,very bad,Yes,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Bad,bad,very bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Good,good,excellent,Yes,No,good,good,6,0.9869043586899429,0.013095641310057181,Good
+Good,average,good,Yes,No,average,average,6,0.9713570280831013,0.02864297191689871,Good
+Good,average,excellent,No,Yes,excellent,excellent,10,0.9998401681539857,0.00015983184601427544,Good
+Good,excellent,good,No,No,excellent,excellent,5,0.9846288857409103,0.015371114259089682,Good
+Bad,very bad,very bad,No,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Good,excellent,average,No,No,excellent,excellent,5,0.9846288857409103,0.015371114259089682,Good
+Good,average,good,No,Yes,good,good,5,0.9678916165342273,0.03210838346577264,Good
+Bad,very bad,bad,No,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Bad,bad,good,Yes,Yes,good,good,8,0.9978813919846485,0.002118608015351499,Good
+Bad,bad,very bad,No,No,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Good,bad,excellent,No,No,excellent,excellent,8,0.9990018884949339,0.000998111505066213,Good
+Bad,very bad,average,Yes,Yes,average,average,2,0.4647145175294794,0.5352854824705207,Bad
+Bad,bad,very bad,No,No,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Bad,bad,very bad,No,No,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Bad,excellent,bad,Yes,Yes,excellent,excellent,2,0.803908261723525,0.19609173827647486,Good
+Good,good,average,Yes,Yes,good,good,8,0.9978813919846485,0.002118608015351499,Good
+Good,good,good,No,No,good,good,6,0.9869043586899429,0.013095641310057181,Good
+Good,excellent,good,No,Yes,good,good,2,0.6586155583247212,0.3413844416752788,Good
+Bad,bad,bad,No,Yes,bad,bad,4,0.38411494524413486,0.6158850547558652,Bad
+Bad,bad,very bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Bad,very bad,very bad,Yes,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Good,good,average,No,No,good,good,3,0.8282708214961547,0.1717291785038452,Good
+Bad,very bad,average,Yes,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Bad,bad,very bad,No,Yes,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Good,good,good,Yes,No,good,good,8,0.9978813919846485,0.002118608015351499,Good
+Bad,bad,very bad,No,No,bad,bad,4,0.38411494524413486,0.6158850547558652,Bad
+Good,excellent,very bad,Yes,No,excellent,excellent,9,0.9996005161603236,0.0003994838396763672,Good
+Bad,very bad,very bad,Yes,No,very bad,very bad,3,0.11262892556477863,0.8873710744352215,Bad
+Good,excellent,excellent,Yes,Yes,excellent,excellent,2,0.803908261723525,0.19609173827647486,Good
+Bad,bad,very bad,Yes,Yes,bad,bad,4,0.38411494524413486,0.6158850547558652,Bad
+Good,excellent,very bad,No,Yes,very bad,very bad,5,0.4423615674822886,0.5576384325177113,Bad
+Good,good,excellent,No,No,excellent,excellent,5,0.9846288857409103,0.015371114259089682,Good
+Bad,good,average,No,Yes,average,average,3,0.6845828856812483,0.31541711431875163,Good
+Bad,bad,bad,No,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Good,excellent,excellent,No,Yes,excellent,excellent,8,0.9990018884949339,0.000998111505066213,Good
+Good,bad,average,No,Yes,average,average,6,0.9713570280831013,0.02864297191689871,Good
+Good,bad,excellent,No,No,excellent,excellent,9,0.9996005161603236,0.0003994838396763672,Good
+Bad,very bad,bad,No,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Good,excellent,excellent,Yes,Yes,excellent,excellent,4,0.9624382629795427,0.03756173702045721,Good
+Good,average,excellent,No,Yes,excellent,excellent,6,0.9937943213792837,0.006205678620716408,Good
+Good,good,good,No,No,good,good,8,0.9978813919846485,0.002118608015351499,Good
+Bad,bad,average,Yes,No,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Bad,very bad,bad,No,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Good,good,average,No,Yes,average,average,2,0.4647145175294794,0.5352854824705207,Bad
+Bad,bad,bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Bad,bad,good,No,No,good,good,1,0.4355702158845366,0.5644297841154634,Bad
+Good,good,good,No,Yes,good,good,10,0.9996604183876702,0.0003395816123298679,Good
+Bad,very bad,bad,No,Yes,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Bad,good,bad,No,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Good,excellent,average,No,No,excellent,excellent,7,0.997508451502166,0.002491548497833852,Good
+Bad,very bad,bad,Yes,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Good,excellent,good,No,No,excellent,excellent,5,0.9846288857409103,0.015371114259089682,Good
+Bad,bad,very bad,No,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Bad,very bad,excellent,No,No,excellent,excellent,2,0.803908261723525,0.19609173827647486,Good
+Good,average,very bad,No,Yes,very bad,very bad,5,0.4423615674822886,0.5576384325177113,Bad
+Bad,bad,very bad,Yes,No,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Bad,very bad,good,No,No,good,good,2,0.6586155583247212,0.3413844416752788,Good
+Bad,bad,bad,Yes,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Bad,very bad,bad,Yes,No,very bad,very bad,3,0.11262892556477863,0.8873710744352215,Bad
+Good,good,good,No,Yes,good,good,5,0.9678916165342273,0.03210838346577264,Good
+Good,average,bad,No,Yes,bad,bad,4,0.38411494524413486,0.6158850547558652,Bad
+Bad,very bad,excellent,Yes,Yes,excellent,excellent,3,0.9111042742577183,0.08889572574228163,Good
+Bad,bad,good,Yes,No,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Good,excellent,excellent,Yes,No,excellent,excellent,8,0.9990018884949339,0.000998111505066213,Good
+Bad,very bad,average,No,No,average,average,1,0.2577554177804674,0.7422445822195327,Bad
+Good,good,average,Yes,Yes,good,good,4,0.9234174539677513,0.07658254603224868,Good
+Bad,very bad,bad,No,Yes,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Bad,very bad,bad,Yes,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Bad,bad,bad,No,No,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Good,excellent,very bad,No,Yes,very bad,very bad,3,0.11262892556477863,0.8873710744352215,Bad
+Bad,bad,bad,No,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Bad,very bad,bad,Yes,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Good,average,good,No,No,good,good,7,0.9947202585155632,0.005279741484436876,Good
+Good,good,average,No,Yes,average,average,4,0.8443825007400562,0.15561749925994384,Good
+Bad,bad,bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Bad,very bad,bad,No,No,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Bad,bad,very bad,No,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Bad,bad,average,No,No,average,average,1,0.2577554177804674,0.7422445822195327,Bad
+Bad,very bad,very bad,Yes,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Bad,very bad,very bad,No,Yes,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Good,bad,very bad,No,Yes,very bad,very bad,7,0.8321578588614227,0.16784214113857723,Good
+Good,average,bad,Yes,Yes,average,average,8,0.9953041416896198,0.0046958583103801545,Good
+Good,very bad,excellent,Yes,No,very bad,very bad,5,0.4423615674822886,0.5576384325177113,Bad
+Bad,very bad,very bad,Yes,Yes,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Bad,very bad,bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Bad,bad,bad,Yes,Yes,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Bad,very bad,bad,Yes,Yes,bad,bad,4,0.38411494524413486,0.6158850547558652,Bad
+Bad,good,very bad,Yes,No,good,good,1,0.4355702158845366,0.5644297841154634,Bad
+Good,bad,average,Yes,Yes,average,average,3,0.6845828856812483,0.31541711431875163,Good
+Bad,excellent,bad,No,No,excellent,excellent,1,0.6211922573902213,0.3788077426097787,Good
+Good,average,excellent,No,No,excellent,excellent,7,0.997508451502166,0.002491548497833852,Good
+Good,excellent,excellent,No,Yes,excellent,excellent,5,0.9846288857409103,0.015371114259089682,Good
+Good,average,good,Yes,No,average,average,5,0.9313424064918566,0.06865759350814335,Good
+Bad,bad,very bad,Yes,No,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Bad,very bad,very bad,Yes,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Bad,very bad,very bad,Yes,Yes,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Bad,bad,bad,Yes,No,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Bad,average,very bad,Yes,No,average,average,1,0.2577554177804674,0.7422445822195327,Bad
+Bad,bad,bad,Yes,No,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Good,excellent,excellent,No,No,excellent,excellent,10,0.9998401681539857,0.00015983184601427544,Good
+Good,good,average,No,No,good,good,9,0.9991514781827855,0.0008485218172144918,Good
+Good,good,excellent,No,Yes,excellent,excellent,3,0.9111042742577183,0.08889572574228163,Good
+Good,bad,bad,Yes,Yes,bad,bad,5,0.6092527392468644,0.3907472607531356,Good
+Bad,bad,very bad,No,No,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Good,average,bad,No,No,average,average,2,0.4647145175294794,0.5352854824705207,Bad
+Bad,very bad,very bad,No,Yes,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Good,very bad,good,No,No,good,good,6,0.9869043586899429,0.013095641310057181,Good
+Good,excellent,average,Yes,Yes,excellent,excellent,7,0.997508451502166,0.002491548497833852,Good
+Good,excellent,excellent,Yes,Yes,excellent,excellent,4,0.9624382629795427,0.03756173702045721,Good
+Bad,bad,bad,No,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Bad,very bad,very bad,No,Yes,very bad,very bad,4,0.24087763078935487,0.7591223692106451,Bad
+Bad,bad,very bad,Yes,Yes,bad,bad,6,0.795834930773772,0.20416506922622804,Good
+Bad,bad,very bad,Yes,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Bad,very bad,very bad,Yes,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Bad,bad,very bad,Yes,Yes,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Good,average,average,No,Yes,average,average,3,0.6845828856812483,0.31541711431875163,Good
+Bad,very bad,very bad,Yes,Yes,very bad,very bad,3,0.11262892556477863,0.8873710744352215,Bad
+Bad,very bad,very bad,Yes,Yes,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Bad,good,very bad,No,No,good,good,3,0.8282708214961547,0.1717291785038452,Good
+Good,good,excellent,No,Yes,excellent,excellent,3,0.9111042742577183,0.08889572574228163,Good
+Bad,very bad,bad,No,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Good,average,good,Yes,No,average,average,3,0.6845828856812483,0.31541711431875163,Good
+Bad,very bad,very bad,Yes,Yes,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Bad,very bad,very bad,Yes,Yes,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Good,excellent,very bad,Yes,No,excellent,excellent,4,0.9624382629795427,0.03756173702045721,Good
+Bad,very bad,very bad,No,No,very bad,very bad,3,0.11262892556477863,0.8873710744352215,Bad
+Good,good,good,Yes,Yes,good,good,4,0.9234174539677513,0.07658254603224868,Good
+Good,good,average,Yes,No,good,good,3,0.8282708214961547,0.1717291785038452,Good
+Bad,bad,very bad,Yes,No,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Good,average,bad,Yes,Yes,average,average,9,0.9981163494622289,0.0018836505377710514,Good
+Good,very bad,average,No,Yes,average,average,3,0.6845828856812483,0.31541711431875163,Good
+Bad,bad,very bad,No,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Good,good,excellent,Yes,Yes,excellent,excellent,5,0.9846288857409103,0.015371114259089682,Good
+Bad,bad,very bad,No,No,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Bad,excellent,bad,Yes,No,excellent,excellent,4,0.9624382629795427,0.03756173702045721,Good
+Good,excellent,excellent,No,No,excellent,excellent,4,0.9624382629795427,0.03756173702045721,Good
+Good,excellent,excellent,Yes,Yes,excellent,excellent,4,0.9624382629795427,0.03756173702045721,Good
+Good,average,very bad,No,No,average,average,6,0.9713570280831013,0.02864297191689871,Good
+Good,excellent,bad,Yes,Yes,excellent,excellent,2,0.803908261723525,0.19609173827647486,Good
+Bad,very bad,bad,No,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Bad,bad,bad,Yes,No,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Good,good,excellent,No,No,excellent,excellent,3,0.9111042742577183,0.08889572574228163,Good
+Bad,very bad,bad,No,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Bad,good,bad,Yes,No,good,good,2,0.6586155583247212,0.3413844416752788,Good
+Good,good,good,No,No,good,good,5,0.9678916165342273,0.03210838346577264,Good
+Bad,bad,average,Yes,Yes,average,average,3,0.6845828856812483,0.31541711431875163,Good
+Bad,very bad,very bad,No,No,very bad,very bad,3,0.11262892556477863,0.8873710744352215,Bad
+Bad,very bad,very bad,Yes,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Bad,very bad,very bad,No,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Bad,excellent,very bad,No,No,excellent,excellent,2,0.803908261723525,0.19609173827647486,Good
+Bad,good,very bad,No,No,good,good,1,0.4355702158845366,0.5644297841154634,Bad
+Good,excellent,excellent,No,No,excellent,excellent,4,0.9624382629795427,0.03756173702045721,Good
+Good,good,excellent,No,Yes,excellent,excellent,5,0.9846288857409103,0.015371114259089682,Good
+Good,average,excellent,Yes,Yes,excellent,excellent,2,0.803908261723525,0.19609173827647486,Good
+Good,average,average,Yes,Yes,average,average,2,0.4647145175294794,0.5352854824705207,Bad
+Good,average,average,Yes,No,average,average,2,0.4647145175294794,0.5352854824705207,Bad
+Good,bad,average,Yes,No,bad,bad,7,0.9069334034307872,0.0930665965692128,Good
+Good,good,bad,No,No,good,good,4,0.9234174539677513,0.07658254603224868,Good
+Bad,very bad,excellent,No,Yes,excellent,excellent,2,0.803908261723525,0.19609173827647486,Good
+Bad,very bad,very bad,No,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Good,excellent,good,Yes,No,excellent,excellent,5,0.9846288857409103,0.015371114259089682,Good
+Bad,bad,bad,No,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Good,good,average,Yes,Yes,good,good,2,0.6586155583247212,0.3413844416752788,Good
+Bad,excellent,very bad,Yes,No,excellent,excellent,3,0.9111042742577183,0.08889572574228163,Good
+Bad,bad,very bad,Yes,No,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Bad,bad,very bad,No,No,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Good,bad,excellent,No,No,excellent,excellent,4,0.9624382629795427,0.03756173702045721,Good
+Bad,very bad,very bad,No,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Bad,bad,very bad,Yes,No,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Bad,bad,very bad,No,No,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Bad,very bad,bad,No,No,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Bad,bad,bad,Yes,No,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Good,very bad,very bad,No,No,very bad,very bad,4,0.24087763078935487,0.7591223692106451,Bad
+Bad,very bad,very bad,No,Yes,very bad,very bad,3,0.11262892556477863,0.8873710744352215,Bad
+Bad,very bad,excellent,No,Yes,excellent,excellent,1,0.6211922573902213,0.3788077426097787,Good
+Bad,bad,bad,No,No,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Bad,very bad,excellent,No,Yes,excellent,excellent,1,0.6211922573902213,0.3788077426097787,Good
+Bad,very bad,very bad,Yes,Yes,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Good,average,good,Yes,Yes,good,good,3,0.8282708214961547,0.1717291785038452,Good
+Good,very bad,excellent,No,No,excellent,excellent,9,0.9996005161603236,0.0003994838396763672,Good
+Good,average,excellent,Yes,No,average,average,4,0.8443825007400562,0.15561749925994384,Good
+Good,good,excellent,Yes,Yes,excellent,excellent,1,0.6211922573902213,0.3788077426097787,Good
+Bad,bad,bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Good,very bad,average,No,No,average,average,2,0.4647145175294794,0.5352854824705207,Bad
+Bad,excellent,very bad,Yes,No,excellent,excellent,2,0.803908261723525,0.19609173827647486,Good
+Good,excellent,excellent,No,No,excellent,excellent,6,0.9937943213792837,0.006205678620716408,Good
+Bad,very bad,bad,Yes,No,very bad,very bad,3,0.11262892556477863,0.8873710744352215,Bad
+Good,good,good,Yes,Yes,good,good,6,0.9869043586899429,0.013095641310057181,Good
+Bad,very bad,very bad,No,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Bad,bad,good,Yes,Yes,good,good,3,0.8282708214961547,0.1717291785038452,Good
+Bad,bad,very bad,Yes,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Bad,very bad,very bad,No,Yes,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Bad,bad,very bad,No,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Good,good,average,No,No,good,good,10,0.9996604183876702,0.0003395816123298679,Good
+Good,excellent,good,No,Yes,good,good,8,0.9978813919846485,0.002118608015351499,Good
+Good,bad,very bad,Yes,No,bad,bad,5,0.6092527392468644,0.3907472607531356,Good
+Good,bad,good,Yes,No,bad,bad,6,0.795834930773772,0.20416506922622804,Good
+Good,excellent,excellent,Yes,No,excellent,excellent,3,0.9111042742577183,0.08889572574228163,Good
+Bad,bad,bad,Yes,No,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Bad,very bad,very bad,No,No,very bad,very bad,3,0.11262892556477863,0.8873710744352215,Bad
+Bad,very bad,bad,No,No,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Good,good,good,Yes,No,good,good,7,0.9947202585155632,0.005279741484436876,Good
+Bad,very bad,very bad,Yes,No,very bad,very bad,3,0.11262892556477863,0.8873710744352215,Bad
+Good,excellent,bad,No,Yes,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Good,bad,very bad,No,Yes,very bad,very bad,6,0.6647885567159726,0.3352114432840275,Good
+Bad,average,bad,Yes,Yes,average,average,3,0.6845828856812483,0.31541711431875163,Good
+Good,very bad,excellent,No,Yes,excellent,excellent,8,0.9990018884949339,0.000998111505066213,Good
+Good,good,very bad,Yes,Yes,good,good,4,0.9234174539677513,0.07658254603224868,Good
+Good,good,excellent,No,No,excellent,excellent,2,0.803908261723525,0.19609173827647486,Good
+Good,good,excellent,No,No,excellent,excellent,5,0.9846288857409103,0.015371114259089682,Good
+Bad,average,bad,No,No,average,average,5,0.9313424064918566,0.06865759350814335,Good
+Bad,bad,very bad,Yes,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Bad,very bad,bad,No,No,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Good,excellent,good,Yes,Yes,excellent,excellent,4,0.9624382629795427,0.03756173702045721,Good
+Good,excellent,good,No,Yes,good,good,6,0.9869043586899429,0.013095641310057181,Good
+Bad,very bad,very bad,No,Yes,very bad,very bad,3,0.11262892556477863,0.8873710744352215,Bad
+Good,good,bad,No,No,good,good,4,0.9234174539677513,0.07658254603224868,Good
+Good,good,average,No,No,good,good,2,0.6586155583247212,0.3413844416752788,Good
+Good,excellent,very bad,No,Yes,very bad,very bad,10,0.9872560207097556,0.012743979290244433,Good
+Good,excellent,good,Yes,Yes,excellent,excellent,6,0.9937943213792837,0.006205678620716408,Good
+Good,excellent,good,Yes,No,excellent,excellent,3,0.9111042742577183,0.08889572574228163,Good
+Good,good,average,No,Yes,average,average,7,0.9883424674060147,0.011657532593985387,Good
+Bad,very bad,bad,No,Yes,bad,bad,5,0.6092527392468644,0.3907472607531356,Good
+Good,excellent,average,No,No,excellent,excellent,6,0.9937943213792837,0.006205678620716408,Good
+Good,average,bad,Yes,No,average,average,4,0.8443825007400562,0.15561749925994384,Good
+Good,excellent,average,No,No,excellent,excellent,3,0.9111042742577183,0.08889572574228163,Good
+Good,good,average,Yes,Yes,good,good,3,0.8282708214961547,0.1717291785038452,Good
+Good,average,excellent,Yes,Yes,excellent,excellent,3,0.9111042742577183,0.08889572574228163,Good
+Bad,very bad,bad,No,No,bad,bad,7,0.9069334034307872,0.0930665965692128,Good
+Bad,very bad,bad,No,No,bad,bad,4,0.38411494524413486,0.6158850547558652,Bad
+Good,average,excellent,No,Yes,excellent,excellent,8,0.9990018884949339,0.000998111505066213,Good
+Good,good,excellent,Yes,Yes,excellent,excellent,10,0.9998401681539857,0.00015983184601427544,Good
+Good,average,excellent,No,No,excellent,excellent,5,0.9846288857409103,0.015371114259089682,Good
+Good,excellent,excellent,No,No,excellent,excellent,1,0.6211922573902213,0.3788077426097787,Good
+Bad,bad,very bad,Yes,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Good,excellent,good,Yes,No,excellent,excellent,3,0.9111042742577183,0.08889572574228163,Good
+Good,bad,average,No,Yes,average,average,3,0.6845828856812483,0.31541711431875163,Good
+Bad,very bad,excellent,Yes,Yes,excellent,excellent,1,0.6211922573902213,0.3788077426097787,Good
+Bad,very bad,bad,No,Yes,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Good,excellent,good,No,No,excellent,excellent,5,0.9846288857409103,0.015371114259089682,Good
+Good,excellent,good,Yes,No,excellent,excellent,7,0.997508451502166,0.002491548497833852,Good
+Bad,very bad,bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Good,average,good,Yes,No,average,average,6,0.9713570280831013,0.02864297191689871,Good
+Good,average,excellent,Yes,No,average,average,2,0.4647145175294794,0.5352854824705207,Bad
+Good,average,excellent,No,No,excellent,excellent,6,0.9937943213792837,0.006205678620716408,Good
+Bad,bad,very bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Good,excellent,excellent,Yes,Yes,excellent,excellent,8,0.9990018884949339,0.000998111505066213,Good
+Bad,average,very bad,Yes,Yes,average,average,3,0.6845828856812483,0.31541711431875163,Good
+Bad,average,very bad,No,Yes,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Good,average,good,No,No,good,good,4,0.9234174539677513,0.07658254603224868,Good
+Good,good,excellent,Yes,No,good,good,6,0.9869043586899429,0.013095641310057181,Good
+Bad,very bad,bad,Yes,No,very bad,very bad,6,0.6647885567159726,0.3352114432840275,Good
+Bad,bad,very bad,No,No,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Good,good,good,No,Yes,good,good,9,0.9991514781827855,0.0008485218172144918,Good
+Good,average,average,Yes,No,average,average,7,0.9883424674060147,0.011657532593985387,Good
+Good,excellent,bad,No,Yes,bad,bad,7,0.9069334034307872,0.0930665965692128,Good
+Good,excellent,average,Yes,No,excellent,excellent,7,0.997508451502166,0.002491548497833852,Good
+Good,average,good,Yes,Yes,good,good,6,0.9869043586899429,0.013095641310057181,Good
+Good,very bad,excellent,No,No,excellent,excellent,2,0.803908261723525,0.19609173827647486,Good
+Bad,very bad,average,Yes,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Good,good,excellent,Yes,Yes,excellent,excellent,5,0.9846288857409103,0.015371114259089682,Good
+Bad,bad,very bad,No,No,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Bad,average,bad,Yes,No,average,average,3,0.6845828856812483,0.31541711431875163,Good
+Good,bad,excellent,Yes,Yes,excellent,excellent,4,0.9624382629795427,0.03756173702045721,Good
+Good,very bad,good,Yes,No,very bad,very bad,7,0.8321578588614227,0.16784214113857723,Good
+Good,excellent,good,Yes,No,excellent,excellent,5,0.9846288857409103,0.015371114259089682,Good
+Bad,very bad,very bad,Yes,Yes,very bad,very bad,3,0.11262892556477863,0.8873710744352215,Bad
+Good,excellent,good,Yes,Yes,excellent,excellent,4,0.9624382629795427,0.03756173702045721,Good
+Good,average,excellent,No,No,excellent,excellent,4,0.9624382629795427,0.03756173702045721,Good
+Bad,very bad,average,No,Yes,average,average,1,0.2577554177804674,0.7422445822195327,Bad
+Bad,very bad,very bad,No,No,very bad,very bad,3,0.11262892556477863,0.8873710744352215,Bad
+Good,average,excellent,No,No,excellent,excellent,7,0.997508451502166,0.002491548497833852,Good
+Bad,very bad,very bad,Yes,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Good,excellent,very bad,Yes,Yes,excellent,excellent,8,0.9990018884949339,0.000998111505066213,Good
+Bad,average,very bad,Yes,No,average,average,2,0.4647145175294794,0.5352854824705207,Bad
+Good,excellent,average,Yes,Yes,excellent,excellent,6,0.9937943213792837,0.006205678620716408,Good
+Bad,very bad,bad,No,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Bad,very bad,bad,No,Yes,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Good,average,excellent,Yes,No,average,average,8,0.9953041416896198,0.0046958583103801545,Good
+Good,excellent,bad,Yes,No,excellent,excellent,5,0.9846288857409103,0.015371114259089682,Good
+Bad,good,bad,Yes,No,good,good,1,0.4355702158845366,0.5644297841154634,Bad
+Good,excellent,good,No,Yes,good,good,8,0.9978813919846485,0.002118608015351499,Good
+Good,good,excellent,Yes,No,good,good,3,0.8282708214961547,0.1717291785038452,Good
+Good,excellent,average,No,Yes,average,average,5,0.9313424064918566,0.06865759350814335,Good
+Good,excellent,good,No,Yes,good,good,5,0.9678916165342273,0.03210838346577264,Good
+Bad,bad,average,No,Yes,average,average,2,0.4647145175294794,0.5352854824705207,Bad
+Good,excellent,excellent,No,No,excellent,excellent,4,0.9624382629795427,0.03756173702045721,Good
+Good,very bad,good,Yes,No,very bad,very bad,6,0.6647885567159726,0.3352114432840275,Good
+Good,good,very bad,Yes,Yes,good,good,2,0.6586155583247212,0.3413844416752788,Good
+Good,excellent,good,Yes,No,excellent,excellent,6,0.9937943213792837,0.006205678620716408,Good
+Good,excellent,excellent,Yes,Yes,excellent,excellent,4,0.9624382629795427,0.03756173702045721,Good
+Good,bad,excellent,No,No,excellent,excellent,5,0.9846288857409103,0.015371114259089682,Good
+Good,good,average,Yes,No,good,good,9,0.9991514781827855,0.0008485218172144918,Good
+Good,bad,bad,No,Yes,bad,bad,7,0.9069334034307872,0.0930665965692128,Good
+Good,good,very bad,Yes,Yes,good,good,7,0.9947202585155632,0.005279741484436876,Good
+Good,average,good,Yes,No,average,average,4,0.8443825007400562,0.15561749925994384,Good
+Bad,excellent,good,Yes,No,excellent,excellent,1,0.6211922573902213,0.3788077426097787,Good
+Bad,very bad,very bad,Yes,Yes,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Good,bad,average,No,Yes,average,average,4,0.8443825007400562,0.15561749925994384,Good
+Good,excellent,excellent,Yes,No,excellent,excellent,7,0.997508451502166,0.002491548497833852,Good
+Good,bad,good,Yes,Yes,good,good,8,0.9978813919846485,0.002118608015351499,Good
+Good,bad,excellent,Yes,Yes,excellent,excellent,7,0.997508451502166,0.002491548497833852,Good
+Bad,very bad,very bad,Yes,Yes,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Good,very bad,bad,Yes,No,very bad,very bad,4,0.24087763078935487,0.7591223692106451,Bad
+Bad,bad,average,No,No,average,average,2,0.4647145175294794,0.5352854824705207,Bad
+Good,excellent,average,Yes,Yes,excellent,excellent,9,0.9996005161603236,0.0003994838396763672,Good
+Good,good,average,No,No,good,good,5,0.9678916165342273,0.03210838346577264,Good
+Good,excellent,very bad,Yes,Yes,excellent,excellent,6,0.9937943213792837,0.006205678620716408,Good
+Bad,bad,bad,Yes,No,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Good,excellent,excellent,Yes,No,excellent,excellent,6,0.9937943213792837,0.006205678620716408,Good
+Bad,very bad,very bad,Yes,Yes,very bad,very bad,3,0.11262892556477863,0.8873710744352215,Bad
+Bad,bad,very bad,No,No,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Bad,very bad,bad,Yes,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Bad,good,very bad,Yes,No,good,good,3,0.8282708214961547,0.1717291785038452,Good
+Good,bad,excellent,Yes,Yes,excellent,excellent,4,0.9624382629795427,0.03756173702045721,Good
+Good,good,good,Yes,No,good,good,7,0.9947202585155632,0.005279741484436876,Good
+Bad,very bad,very bad,No,Yes,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Bad,very bad,very bad,Yes,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Good,excellent,very bad,No,No,excellent,excellent,6,0.9937943213792837,0.006205678620716408,Good
+Good,good,excellent,No,Yes,excellent,excellent,4,0.9624382629795427,0.03756173702045721,Good
+Good,excellent,very bad,Yes,Yes,excellent,excellent,5,0.9846288857409103,0.015371114259089682,Good
+Bad,very bad,very bad,No,No,very bad,very bad,3,0.11262892556477863,0.8873710744352215,Bad
+Good,very bad,bad,Yes,Yes,bad,bad,4,0.38411494524413486,0.6158850547558652,Bad
+Good,average,excellent,Yes,Yes,excellent,excellent,5,0.9846288857409103,0.015371114259089682,Good
+Bad,bad,bad,Yes,No,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Good,excellent,excellent,No,No,excellent,excellent,1,0.6211922573902213,0.3788077426097787,Good
+Good,good,excellent,Yes,Yes,excellent,excellent,5,0.9846288857409103,0.015371114259089682,Good
+Good,excellent,excellent,No,No,excellent,excellent,3,0.9111042742577183,0.08889572574228163,Good
+Good,very bad,excellent,Yes,Yes,excellent,excellent,5,0.9846288857409103,0.015371114259089682,Good
+Bad,bad,bad,No,No,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Bad,very bad,average,Yes,Yes,average,average,1,0.2577554177804674,0.7422445822195327,Bad
+Bad,bad,bad,Yes,No,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Good,excellent,average,No,Yes,average,average,8,0.9953041416896198,0.0046958583103801545,Good
+Good,excellent,very bad,Yes,No,excellent,excellent,5,0.9846288857409103,0.015371114259089682,Good
+Good,excellent,average,No,Yes,average,average,6,0.9713570280831013,0.02864297191689871,Good
+Bad,bad,very bad,Yes,No,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Good,very bad,excellent,No,No,excellent,excellent,5,0.9846288857409103,0.015371114259089682,Good
+Good,bad,good,No,Yes,good,good,4,0.9234174539677513,0.07658254603224868,Good
+Bad,very bad,very bad,Yes,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Bad,very bad,bad,No,No,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Bad,very bad,excellent,No,No,excellent,excellent,6,0.9937943213792837,0.006205678620716408,Good
+Good,average,good,No,No,good,good,5,0.9678916165342273,0.03210838346577264,Good
+Bad,very bad,bad,No,No,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Bad,bad,very bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Good,excellent,excellent,No,Yes,excellent,excellent,4,0.9624382629795427,0.03756173702045721,Good
+Bad,very bad,good,No,No,good,good,1,0.4355702158845366,0.5644297841154634,Bad
+Bad,bad,very bad,No,Yes,very bad,very bad,3,0.11262892556477863,0.8873710744352215,Bad
+Bad,very bad,very bad,Yes,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Bad,average,very bad,Yes,No,average,average,1,0.2577554177804674,0.7422445822195327,Bad
+Bad,bad,bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Bad,bad,average,Yes,Yes,average,average,1,0.2577554177804674,0.7422445822195327,Bad
+Good,excellent,good,No,Yes,good,good,7,0.9947202585155632,0.005279741484436876,Good
+Bad,bad,very bad,Yes,No,bad,bad,4,0.38411494524413486,0.6158850547558652,Bad
+Good,excellent,very bad,Yes,No,excellent,excellent,8,0.9990018884949339,0.000998111505066213,Good
+Good,average,good,Yes,Yes,good,good,5,0.9678916165342273,0.03210838346577264,Good
+Bad,very bad,good,Yes,Yes,good,good,4,0.9234174539677513,0.07658254603224868,Good
+Bad,bad,bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Good,good,average,Yes,Yes,good,good,2,0.6586155583247212,0.3413844416752788,Good
+Good,good,very bad,Yes,No,good,good,8,0.9978813919846485,0.002118608015351499,Good
+Bad,average,very bad,Yes,Yes,average,average,3,0.6845828856812483,0.31541711431875163,Good
+Good,bad,excellent,Yes,No,bad,bad,8,0.9605716859754803,0.03942831402451968,Good
+Bad,excellent,bad,No,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Good,good,bad,Yes,Yes,good,good,4,0.9234174539677513,0.07658254603224868,Good
+Good,excellent,excellent,Yes,Yes,excellent,excellent,6,0.9937943213792837,0.006205678620716408,Good
+Bad,very bad,very bad,Yes,No,very bad,very bad,3,0.11262892556477863,0.8873710744352215,Bad
+Bad,bad,good,Yes,Yes,good,good,3,0.8282708214961547,0.1717291785038452,Good
+Bad,excellent,average,Yes,No,excellent,excellent,4,0.9624382629795427,0.03756173702045721,Good
+Bad,very bad,bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Good,excellent,very bad,No,Yes,very bad,very bad,7,0.8321578588614227,0.16784214113857723,Good
+Bad,very bad,bad,No,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Bad,bad,bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Good,excellent,average,Yes,No,excellent,excellent,1,0.6211922573902213,0.3788077426097787,Good
+Bad,excellent,bad,No,Yes,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Good,excellent,bad,No,No,excellent,excellent,7,0.997508451502166,0.002491548497833852,Good
+Good,average,average,Yes,Yes,average,average,5,0.9313424064918566,0.06865759350814335,Good
+Bad,bad,average,No,No,average,average,1,0.2577554177804674,0.7422445822195327,Bad
+Good,very bad,good,Yes,Yes,good,good,5,0.9678916165342273,0.03210838346577264,Good
+Bad,very bad,very bad,Yes,Yes,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Bad,bad,good,Yes,No,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Good,excellent,excellent,No,Yes,excellent,excellent,9,0.9996005161603236,0.0003994838396763672,Good
+Good,good,good,No,No,good,good,4,0.9234174539677513,0.07658254603224868,Good
+Bad,bad,good,No,No,good,good,1,0.4355702158845366,0.5644297841154634,Bad
+Bad,very bad,bad,Yes,Yes,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Bad,bad,very bad,No,No,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Good,good,excellent,No,Yes,excellent,excellent,8,0.9990018884949339,0.000998111505066213,Good
+Bad,bad,bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Good,good,excellent,No,Yes,excellent,excellent,7,0.997508451502166,0.002491548497833852,Good
+Bad,very bad,bad,Yes,No,very bad,very bad,3,0.11262892556477863,0.8873710744352215,Bad
+Good,bad,good,Yes,No,bad,bad,5,0.6092527392468644,0.3907472607531356,Good
+Bad,very bad,bad,No,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Good,bad,excellent,No,No,excellent,excellent,2,0.803908261723525,0.19609173827647486,Good
+Bad,very bad,bad,Yes,Yes,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Good,good,very bad,No,No,good,good,3,0.8282708214961547,0.1717291785038452,Good
+Bad,bad,very bad,Yes,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Bad,very bad,bad,No,Yes,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Bad,bad,excellent,No,No,excellent,excellent,2,0.803908261723525,0.19609173827647486,Good
+Bad,very bad,good,Yes,No,very bad,very bad,4,0.24087763078935487,0.7591223692106451,Bad
+Good,excellent,average,Yes,Yes,excellent,excellent,5,0.9846288857409103,0.015371114259089682,Good
+Good,good,good,No,No,good,good,4,0.9234174539677513,0.07658254603224868,Good
+Good,good,good,No,No,good,good,7,0.9947202585155632,0.005279741484436876,Good
+Good,bad,excellent,Yes,Yes,excellent,excellent,4,0.9624382629795427,0.03756173702045721,Good
+Good,average,good,No,Yes,good,good,2,0.6586155583247212,0.3413844416752788,Good
+Bad,bad,very bad,No,No,bad,bad,4,0.38411494524413486,0.6158850547558652,Bad
+Good,excellent,excellent,No,Yes,excellent,excellent,5,0.9846288857409103,0.015371114259089682,Good
+Good,excellent,bad,No,No,excellent,excellent,7,0.997508451502166,0.002491548497833852,Good
+Bad,very bad,bad,No,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Bad,very bad,very bad,Yes,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Bad,very bad,very bad,No,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Good,excellent,bad,No,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Good,good,excellent,No,No,excellent,excellent,4,0.9624382629795427,0.03756173702045721,Good
+Bad,very bad,bad,No,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Good,good,good,Yes,No,good,good,7,0.9947202585155632,0.005279741484436876,Good
+Good,average,good,Yes,Yes,good,good,3,0.8282708214961547,0.1717291785038452,Good
+Bad,good,very bad,No,No,good,good,1,0.4355702158845366,0.5644297841154634,Bad
+Good,excellent,excellent,Yes,No,excellent,excellent,2,0.803908261723525,0.19609173827647486,Good
+Bad,very bad,very bad,Yes,No,very bad,very bad,3,0.11262892556477863,0.8873710744352215,Bad
+Good,good,average,No,Yes,average,average,8,0.9953041416896198,0.0046958583103801545,Good
+Good,bad,very bad,No,Yes,very bad,very bad,7,0.8321578588614227,0.16784214113857723,Good
+Good,good,excellent,No,Yes,excellent,excellent,2,0.803908261723525,0.19609173827647486,Good
+Bad,very bad,very bad,Yes,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Bad,bad,bad,No,No,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Good,average,excellent,No,No,excellent,excellent,1,0.6211922573902213,0.3788077426097787,Good
+Good,bad,good,Yes,No,bad,bad,10,0.9934753756069288,0.00652462439307127,Good
+Good,excellent,bad,No,No,excellent,excellent,2,0.803908261723525,0.19609173827647486,Good
+Good,good,average,Yes,Yes,good,good,3,0.8282708214961547,0.1717291785038452,Good
+Good,excellent,good,No,No,excellent,excellent,5,0.9846288857409103,0.015371114259089682,Good
+Good,excellent,average,No,Yes,average,average,3,0.6845828856812483,0.31541711431875163,Good
+Bad,very bad,average,Yes,Yes,average,average,5,0.9313424064918566,0.06865759350814335,Good
+Bad,average,good,No,No,good,good,2,0.6586155583247212,0.3413844416752788,Good
+Good,average,bad,Yes,Yes,average,average,7,0.9883424674060147,0.011657532593985387,Good
+Good,excellent,good,Yes,No,excellent,excellent,2,0.803908261723525,0.19609173827647486,Good
+Bad,bad,bad,Yes,No,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Good,bad,excellent,No,No,excellent,excellent,4,0.9624382629795427,0.03756173702045721,Good
+Good,bad,excellent,No,No,excellent,excellent,8,0.9990018884949339,0.000998111505066213,Good
+Bad,bad,very bad,No,No,bad,bad,4,0.38411494524413486,0.6158850547558652,Bad
+Bad,very bad,very bad,Yes,Yes,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Bad,very bad,very bad,No,Yes,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Bad,very bad,very bad,Yes,Yes,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Bad,very bad,bad,No,Yes,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Good,good,excellent,Yes,Yes,excellent,excellent,1,0.6211922573902213,0.3788077426097787,Good
+Good,good,very bad,Yes,No,good,good,5,0.9678916165342273,0.03210838346577264,Good
+Bad,bad,very bad,No,No,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Bad,very bad,very bad,Yes,No,very bad,very bad,3,0.11262892556477863,0.8873710744352215,Bad
+Good,excellent,excellent,Yes,Yes,excellent,excellent,5,0.9846288857409103,0.015371114259089682,Good
+Bad,bad,very bad,No,No,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Bad,bad,very bad,Yes,Yes,bad,bad,6,0.795834930773772,0.20416506922622804,Good
+Bad,very bad,average,Yes,Yes,average,average,1,0.2577554177804674,0.7422445822195327,Bad
+Bad,bad,excellent,Yes,Yes,excellent,excellent,2,0.803908261723525,0.19609173827647486,Good
+Good,good,good,Yes,No,good,good,6,0.9869043586899429,0.013095641310057181,Good
+Bad,bad,good,Yes,Yes,good,good,3,0.8282708214961547,0.1717291785038452,Good
+Bad,bad,very bad,No,Yes,very bad,very bad,3,0.11262892556477863,0.8873710744352215,Bad
+Good,average,average,No,Yes,average,average,8,0.9953041416896198,0.0046958583103801545,Good
+Bad,bad,very bad,No,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Bad,average,bad,Yes,Yes,average,average,2,0.4647145175294794,0.5352854824705207,Bad
+Good,excellent,good,No,Yes,good,good,6,0.9869043586899429,0.013095641310057181,Good
+Bad,very bad,very bad,Yes,No,very bad,very bad,4,0.24087763078935487,0.7591223692106451,Bad
+Good,very bad,good,No,No,good,good,8,0.9978813919846485,0.002118608015351499,Good
+Bad,good,very bad,Yes,Yes,good,good,2,0.6586155583247212,0.3413844416752788,Good
+Good,good,excellent,No,No,excellent,excellent,6,0.9937943213792837,0.006205678620716408,Good
+Bad,very bad,very bad,Yes,Yes,very bad,very bad,3,0.11262892556477863,0.8873710744352215,Bad
+Bad,good,very bad,No,Yes,very bad,very bad,3,0.11262892556477863,0.8873710744352215,Bad
+Bad,bad,bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Good,bad,excellent,No,No,excellent,excellent,7,0.997508451502166,0.002491548497833852,Good
+Good,very bad,good,Yes,No,very bad,very bad,5,0.4423615674822886,0.5576384325177113,Bad
+Bad,very bad,bad,No,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Good,average,good,No,No,good,good,4,0.9234174539677513,0.07658254603224868,Good
+Bad,bad,very bad,Yes,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Good,bad,bad,No,Yes,bad,bad,4,0.38411494524413486,0.6158850547558652,Bad
+Good,excellent,excellent,No,Yes,excellent,excellent,3,0.9111042742577183,0.08889572574228163,Good
+Good,excellent,excellent,Yes,No,excellent,excellent,7,0.997508451502166,0.002491548497833852,Good
+Good,very bad,very bad,No,No,very bad,very bad,5,0.4423615674822886,0.5576384325177113,Bad
+Good,excellent,excellent,Yes,Yes,excellent,excellent,3,0.9111042742577183,0.08889572574228163,Good
+Good,good,excellent,No,Yes,excellent,excellent,6,0.9937943213792837,0.006205678620716408,Good
+Bad,very bad,very bad,Yes,Yes,very bad,very bad,3,0.11262892556477863,0.8873710744352215,Bad
+Good,average,excellent,No,Yes,excellent,excellent,3,0.9111042742577183,0.08889572574228163,Good
+Bad,bad,bad,Yes,No,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Good,excellent,average,No,Yes,average,average,3,0.6845828856812483,0.31541711431875163,Good
+Good,excellent,good,No,Yes,good,good,5,0.9678916165342273,0.03210838346577264,Good
+Bad,very bad,bad,No,No,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Bad,very bad,bad,No,Yes,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Good,good,good,Yes,No,good,good,4,0.9234174539677513,0.07658254603224868,Good
+Good,good,good,Yes,Yes,good,good,4,0.9234174539677513,0.07658254603224868,Good
+Bad,very bad,very bad,No,No,very bad,very bad,3,0.11262892556477863,0.8873710744352215,Bad
+Good,good,bad,No,No,good,good,4,0.9234174539677513,0.07658254603224868,Good
+Bad,bad,very bad,Yes,No,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Good,excellent,bad,Yes,Yes,excellent,excellent,4,0.9624382629795427,0.03756173702045721,Good
+Bad,bad,very bad,No,No,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Good,good,excellent,Yes,Yes,excellent,excellent,8,0.9990018884949339,0.000998111505066213,Good
+Good,bad,good,Yes,Yes,good,good,7,0.9947202585155632,0.005279741484436876,Good
+Bad,very bad,very bad,No,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Bad,bad,bad,Yes,No,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Good,very bad,excellent,No,No,excellent,excellent,4,0.9624382629795427,0.03756173702045721,Good
+Bad,bad,very bad,No,No,bad,bad,5,0.6092527392468644,0.3907472607531356,Good
+Bad,excellent,good,No,No,excellent,excellent,1,0.6211922573902213,0.3788077426097787,Good
+Bad,very bad,bad,Yes,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Good,good,good,No,No,good,good,3,0.8282708214961547,0.1717291785038452,Good
+Bad,bad,very bad,Yes,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Bad,excellent,very bad,No,No,excellent,excellent,4,0.9624382629795427,0.03756173702045721,Good
+Bad,bad,bad,No,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Good,good,good,No,Yes,good,good,10,0.9996604183876702,0.0003395816123298679,Good
+Bad,very bad,bad,Yes,Yes,bad,bad,4,0.38411494524413486,0.6158850547558652,Bad
+Bad,very bad,bad,No,Yes,bad,bad,5,0.6092527392468644,0.3907472607531356,Good
+Good,excellent,good,No,No,excellent,excellent,4,0.9624382629795427,0.03756173702045721,Good
+Good,very bad,good,No,Yes,good,good,3,0.8282708214961547,0.1717291785038452,Good
+Bad,very bad,average,Yes,No,very bad,very bad,3,0.11262892556477863,0.8873710744352215,Bad
+Bad,very bad,very bad,Yes,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Bad,very bad,very bad,Yes,Yes,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Good,excellent,very bad,Yes,Yes,excellent,excellent,3,0.9111042742577183,0.08889572574228163,Good
+Bad,bad,bad,No,No,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Bad,very bad,very bad,Yes,No,very bad,very bad,4,0.24087763078935487,0.7591223692106451,Bad
+Good,good,average,Yes,No,good,good,4,0.9234174539677513,0.07658254603224868,Good
+Good,excellent,excellent,No,Yes,excellent,excellent,10,0.9998401681539857,0.00015983184601427544,Good
+Bad,very bad,very bad,Yes,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Good,excellent,excellent,No,Yes,excellent,excellent,3,0.9111042742577183,0.08889572574228163,Good
+Good,very bad,good,Yes,Yes,good,good,6,0.9869043586899429,0.013095641310057181,Good
+Bad,very bad,bad,No,No,bad,bad,4,0.38411494524413486,0.6158850547558652,Bad
+Bad,very bad,very bad,No,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Bad,bad,bad,No,No,bad,bad,4,0.38411494524413486,0.6158850547558652,Bad
+Good,excellent,excellent,No,Yes,excellent,excellent,3,0.9111042742577183,0.08889572574228163,Good
+Bad,very bad,very bad,Yes,Yes,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Bad,bad,very bad,No,Yes,very bad,very bad,5,0.4423615674822886,0.5576384325177113,Bad
+Bad,very bad,very bad,No,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Bad,bad,very bad,No,No,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Good,excellent,average,No,No,excellent,excellent,10,0.9998401681539857,0.00015983184601427544,Good
+Bad,bad,good,Yes,Yes,good,good,1,0.4355702158845366,0.5644297841154634,Bad
+Good,average,average,Yes,Yes,average,average,4,0.8443825007400562,0.15561749925994384,Good
+Good,good,good,Yes,No,good,good,5,0.9678916165342273,0.03210838346577264,Good
+Bad,bad,very bad,No,Yes,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Good,good,excellent,No,No,excellent,excellent,3,0.9111042742577183,0.08889572574228163,Good
+Bad,bad,bad,Yes,Yes,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Bad,bad,very bad,Yes,No,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Good,good,excellent,No,Yes,excellent,excellent,3,0.9111042742577183,0.08889572574228163,Good
+Bad,bad,very bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Good,excellent,good,Yes,No,excellent,excellent,2,0.803908261723525,0.19609173827647486,Good
+Good,excellent,good,Yes,No,excellent,excellent,2,0.803908261723525,0.19609173827647486,Good
+Good,average,excellent,Yes,No,average,average,10,0.9992456872679415,0.0007543127320584523,Good
+Good,bad,excellent,Yes,Yes,excellent,excellent,3,0.9111042742577183,0.08889572574228163,Good
+Bad,bad,average,Yes,No,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Good,excellent,excellent,Yes,No,excellent,excellent,2,0.803908261723525,0.19609173827647486,Good
+Bad,bad,very bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Bad,very bad,very bad,Yes,Yes,very bad,very bad,5,0.4423615674822886,0.5576384325177113,Bad
+Good,bad,average,Yes,Yes,average,average,4,0.8443825007400562,0.15561749925994384,Good
+Good,average,excellent,No,No,excellent,excellent,5,0.9846288857409103,0.015371114259089682,Good
+Bad,very bad,very bad,No,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Bad,excellent,bad,Yes,No,excellent,excellent,2,0.803908261723525,0.19609173827647486,Good
+Bad,bad,bad,Yes,No,bad,bad,4,0.38411494524413486,0.6158850547558652,Bad
+Good,average,bad,No,Yes,bad,bad,6,0.795834930773772,0.20416506922622804,Good
+Bad,very bad,bad,No,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Bad,very bad,bad,No,No,bad,bad,5,0.6092527392468644,0.3907472607531356,Good
+Good,average,bad,Yes,No,average,average,3,0.6845828856812483,0.31541711431875163,Good
+Good,excellent,excellent,No,Yes,excellent,excellent,6,0.9937943213792837,0.006205678620716408,Good
+Bad,bad,very bad,No,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Good,average,good,No,No,good,good,2,0.6586155583247212,0.3413844416752788,Good
+Bad,good,very bad,Yes,Yes,good,good,1,0.4355702158845366,0.5644297841154634,Bad
+Good,excellent,good,Yes,No,excellent,excellent,4,0.9624382629795427,0.03756173702045721,Good
+Bad,very bad,very bad,No,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Good,excellent,good,No,No,excellent,excellent,5,0.9846288857409103,0.015371114259089682,Good
+Bad,very bad,bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Bad,bad,very bad,Yes,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Good,good,excellent,Yes,No,good,good,7,0.9947202585155632,0.005279741484436876,Good
+Good,excellent,average,No,No,excellent,excellent,3,0.9111042742577183,0.08889572574228163,Good
+Bad,bad,very bad,No,No,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Bad,bad,very bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Bad,very bad,very bad,Yes,No,very bad,very bad,4,0.24087763078935487,0.7591223692106451,Bad
+Good,good,bad,Yes,No,good,good,10,0.9996604183876702,0.0003395816123298679,Good
+Bad,bad,very bad,Yes,No,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Good,bad,excellent,Yes,Yes,excellent,excellent,7,0.997508451502166,0.002491548497833852,Good
+Bad,very bad,very bad,Yes,Yes,very bad,very bad,3,0.11262892556477863,0.8873710744352215,Bad
+Bad,bad,very bad,No,No,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Bad,very bad,very bad,No,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Good,good,good,No,No,good,good,10,0.9996604183876702,0.0003395816123298679,Good
+Good,bad,excellent,Yes,Yes,excellent,excellent,6,0.9937943213792837,0.006205678620716408,Good
+Bad,bad,very bad,Yes,No,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Good,very bad,good,No,No,good,good,5,0.9678916165342273,0.03210838346577264,Good
+Good,bad,excellent,No,No,excellent,excellent,2,0.803908261723525,0.19609173827647486,Good
+Bad,bad,bad,Yes,No,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Bad,bad,bad,Yes,Yes,bad,bad,4,0.38411494524413486,0.6158850547558652,Bad
+Bad,very bad,very bad,No,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Bad,bad,bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Good,average,bad,No,No,average,average,6,0.9713570280831013,0.02864297191689871,Good
+Good,excellent,excellent,Yes,Yes,excellent,excellent,5,0.9846288857409103,0.015371114259089682,Good
+Good,good,good,No,Yes,good,good,2,0.6586155583247212,0.3413844416752788,Good
+Good,good,bad,No,Yes,bad,bad,4,0.38411494524413486,0.6158850547558652,Bad
+Good,good,good,Yes,Yes,good,good,3,0.8282708214961547,0.1717291785038452,Good
+Good,excellent,good,No,Yes,good,good,7,0.9947202585155632,0.005279741484436876,Good
+Good,good,average,Yes,No,good,good,7,0.9947202585155632,0.005279741484436876,Good
+Bad,good,bad,No,No,good,good,5,0.9678916165342273,0.03210838346577264,Good
+Bad,very bad,very bad,No,No,very bad,very bad,3,0.11262892556477863,0.8873710744352215,Bad
+Bad,bad,bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Good,excellent,excellent,No,Yes,excellent,excellent,5,0.9846288857409103,0.015371114259089682,Good
+Good,average,excellent,No,Yes,excellent,excellent,6,0.9937943213792837,0.006205678620716408,Good
+Good,excellent,average,Yes,Yes,excellent,excellent,7,0.997508451502166,0.002491548497833852,Good
+Good,good,good,No,Yes,good,good,6,0.9869043586899429,0.013095641310057181,Good
+Good,bad,very bad,No,No,bad,bad,5,0.6092527392468644,0.3907472607531356,Good
+Good,average,average,Yes,No,average,average,5,0.9313424064918566,0.06865759350814335,Good
+Good,bad,bad,Yes,Yes,bad,bad,9,0.9838465319844918,0.016153468015508193,Good
+Good,average,good,Yes,Yes,good,good,4,0.9234174539677513,0.07658254603224868,Good
+Bad,bad,very bad,Yes,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Good,very bad,excellent,No,Yes,excellent,excellent,7,0.997508451502166,0.002491548497833852,Good
+Bad,bad,very bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Good,excellent,bad,No,No,excellent,excellent,6,0.9937943213792837,0.006205678620716408,Good
+Good,average,good,No,No,good,good,9,0.9991514781827855,0.0008485218172144918,Good
+Good,good,good,No,Yes,good,good,3,0.8282708214961547,0.1717291785038452,Good
+Good,very bad,good,No,Yes,good,good,2,0.6586155583247212,0.3413844416752788,Good
+Good,excellent,excellent,Yes,No,excellent,excellent,4,0.9624382629795427,0.03756173702045721,Good
+Bad,very bad,very bad,No,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Bad,bad,very bad,No,No,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Bad,bad,bad,Yes,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Good,excellent,excellent,Yes,No,excellent,excellent,6,0.9937943213792837,0.006205678620716408,Good
+Bad,bad,very bad,No,No,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Bad,good,very bad,Yes,No,good,good,4,0.9234174539677513,0.07658254603224868,Good
+Bad,bad,bad,Yes,No,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Good,very bad,average,Yes,Yes,average,average,3,0.6845828856812483,0.31541711431875163,Good
+Bad,average,bad,No,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Good,average,good,Yes,No,average,average,2,0.4647145175294794,0.5352854824705207,Bad
+Bad,bad,very bad,No,Yes,very bad,very bad,6,0.6647885567159726,0.3352114432840275,Good
+Bad,bad,very bad,No,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Bad,bad,very bad,Yes,Yes,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Good,average,average,Yes,No,average,average,3,0.6845828856812483,0.31541711431875163,Good
+Good,very bad,excellent,No,Yes,excellent,excellent,8,0.9990018884949339,0.000998111505066213,Good
+Good,excellent,average,Yes,Yes,excellent,excellent,6,0.9937943213792837,0.006205678620716408,Good
+Bad,very bad,good,No,Yes,good,good,1,0.4355702158845366,0.5644297841154634,Bad
+Bad,bad,very bad,Yes,No,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Bad,bad,very bad,Yes,Yes,bad,bad,7,0.9069334034307872,0.0930665965692128,Good
+Bad,bad,average,No,No,average,average,1,0.2577554177804674,0.7422445822195327,Bad
+Bad,average,very bad,No,No,average,average,2,0.4647145175294794,0.5352854824705207,Bad
+Bad,bad,very bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Good,excellent,excellent,No,Yes,excellent,excellent,6,0.9937943213792837,0.006205678620716408,Good
+Good,good,good,No,Yes,good,good,6,0.9869043586899429,0.013095641310057181,Good
+Bad,very bad,average,No,Yes,average,average,1,0.2577554177804674,0.7422445822195327,Bad
+Bad,bad,very bad,No,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Good,excellent,good,Yes,Yes,excellent,excellent,4,0.9624382629795427,0.03756173702045721,Good
+Good,average,bad,Yes,No,average,average,8,0.9953041416896198,0.0046958583103801545,Good
+Bad,very bad,bad,No,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Bad,very bad,very bad,No,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Bad,very bad,very bad,Yes,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Bad,very bad,bad,Yes,No,very bad,very bad,4,0.24087763078935487,0.7591223692106451,Bad
+Good,average,good,No,Yes,good,good,3,0.8282708214961547,0.1717291785038452,Good
+Good,excellent,bad,No,Yes,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Bad,very bad,good,No,Yes,good,good,1,0.4355702158845366,0.5644297841154634,Bad
+Bad,bad,very bad,No,Yes,very bad,very bad,4,0.24087763078935487,0.7591223692106451,Bad
+Good,bad,excellent,No,Yes,excellent,excellent,1,0.6211922573902213,0.3788077426097787,Good
+Good,bad,good,No,No,good,good,2,0.6586155583247212,0.3413844416752788,Good
+Good,average,very bad,Yes,No,average,average,6,0.9713570280831013,0.02864297191689871,Good
+Good,good,excellent,No,Yes,excellent,excellent,9,0.9996005161603236,0.0003994838396763672,Good
+Good,good,average,Yes,Yes,good,good,6,0.9869043586899429,0.013095641310057181,Good
+Good,excellent,excellent,No,No,excellent,excellent,6,0.9937943213792837,0.006205678620716408,Good
+Bad,very bad,very bad,Yes,Yes,very bad,very bad,4,0.24087763078935487,0.7591223692106451,Bad
+Bad,very bad,very bad,Yes,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Bad,very bad,very bad,Yes,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Bad,very bad,bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Good,good,excellent,Yes,Yes,excellent,excellent,3,0.9111042742577183,0.08889572574228163,Good
+Good,very bad,excellent,Yes,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Bad,very bad,bad,Yes,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Good,average,bad,No,Yes,bad,bad,4,0.38411494524413486,0.6158850547558652,Bad
+Good,good,average,No,No,good,good,6,0.9869043586899429,0.013095641310057181,Good
+Good,good,excellent,No,Yes,excellent,excellent,6,0.9937943213792837,0.006205678620716408,Good
+Good,average,good,Yes,Yes,good,good,2,0.6586155583247212,0.3413844416752788,Good
+Good,good,good,Yes,No,good,good,2,0.6586155583247212,0.3413844416752788,Good
+Good,bad,excellent,No,Yes,excellent,excellent,7,0.997508451502166,0.002491548497833852,Good
+Bad,bad,very bad,No,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Good,excellent,excellent,No,No,excellent,excellent,10,0.9998401681539857,0.00015983184601427544,Good
+Good,excellent,excellent,Yes,Yes,excellent,excellent,3,0.9111042742577183,0.08889572574228163,Good
+Bad,very bad,bad,No,No,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Bad,very bad,very bad,Yes,No,very bad,very bad,5,0.4423615674822886,0.5576384325177113,Bad
+Bad,very bad,very bad,No,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Bad,bad,bad,No,No,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Bad,very bad,average,No,Yes,average,average,2,0.4647145175294794,0.5352854824705207,Bad
+Bad,very bad,bad,Yes,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Bad,bad,average,No,Yes,average,average,1,0.2577554177804674,0.7422445822195327,Bad
+Good,excellent,good,Yes,Yes,excellent,excellent,6,0.9937943213792837,0.006205678620716408,Good
+Bad,very bad,bad,Yes,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Bad,bad,very bad,No,Yes,very bad,very bad,4,0.24087763078935487,0.7591223692106451,Bad
+Bad,bad,very bad,No,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Bad,bad,excellent,No,Yes,excellent,excellent,1,0.6211922573902213,0.3788077426097787,Good
+Good,excellent,excellent,No,Yes,excellent,excellent,2,0.803908261723525,0.19609173827647486,Good
+Good,average,excellent,Yes,Yes,excellent,excellent,5,0.9846288857409103,0.015371114259089682,Good
+Bad,bad,bad,No,Yes,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Good,good,excellent,Yes,No,good,good,2,0.6586155583247212,0.3413844416752788,Good
+Bad,bad,very bad,Yes,No,bad,bad,2,0.09073445916168488,0.9092655408383151,Bad
+Bad,very bad,very bad,Yes,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Bad,very bad,average,No,No,average,average,1,0.2577554177804674,0.7422445822195327,Bad
+Good,excellent,excellent,No,Yes,excellent,excellent,5,0.9846288857409103,0.015371114259089682,Good
+Good,excellent,excellent,No,Yes,excellent,excellent,9,0.9996005161603236,0.0003994838396763672,Good
+Bad,very bad,bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Bad,bad,very bad,Yes,No,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Bad,bad,good,No,No,good,good,2,0.6586155583247212,0.3413844416752788,Good
+Good,bad,excellent,No,Yes,excellent,excellent,7,0.997508451502166,0.002491548497833852,Good
+Bad,bad,bad,No,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Bad,very bad,very bad,No,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Bad,bad,bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,Bad
+Good,average,very bad,No,Yes,very bad,very bad,4,0.24087763078935487,0.7591223692106451,Bad
+Good,good,bad,Yes,No,good,good,3,0.8282708214961547,0.1717291785038452,Good
+Bad,bad,very bad,Yes,No,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Bad,very bad,bad,Yes,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Good,excellent,very bad,No,No,excellent,excellent,1,0.6211922573902213,0.3788077426097787,Good
+Good,good,bad,No,Yes,bad,bad,5,0.6092527392468644,0.3907472607531356,Good
+Good,good,average,Yes,Yes,good,good,8,0.9978813919846485,0.002118608015351499,Good
+Good,bad,excellent,No,Yes,excellent,excellent,2,0.803908261723525,0.19609173827647486,Good
+Good,good,excellent,Yes,No,good,good,4,0.9234174539677513,0.07658254603224868,Good
+Bad,very bad,average,Yes,Yes,average,average,1,0.2577554177804674,0.7422445822195327,Bad
+Good,average,good,Yes,Yes,good,good,3,0.8282708214961547,0.1717291785038452,Good
+Good,average,excellent,Yes,No,average,average,5,0.9313424064918566,0.06865759350814335,Good
+Bad,very bad,very bad,Yes,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,Bad
+Bad,very bad,bad,Yes,Yes,bad,bad,3,0.19966183498528328,0.8003381650147167,Bad
+Good,excellent,average,Yes,No,excellent,excellent,4,0.9624382629795427,0.03756173702045721,Good
+Good,bad,good,Yes,Yes,good,good,7,0.9947202585155632,0.005279741484436876,Good
+Bad,bad,very bad,Yes,No,bad,bad,4,0.38411494524413486,0.6158850547558652,Bad
+Good,very bad,excellent,Yes,No,very bad,very bad,5,0.4423615674822886,0.5576384325177113,Bad
+Bad,very bad,average,Yes,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Good,excellent,excellent,No,Yes,excellent,excellent,7,0.997508451502166,0.002491548497833852,Good
+Bad,very bad,bad,Yes,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,Bad
+Good,average,average,Yes,No,average,average,8,0.9953041416896198,0.0046958583103801545,Good
