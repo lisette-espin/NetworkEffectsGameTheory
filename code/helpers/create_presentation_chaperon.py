@@ -26,7 +26,9 @@ def create_probability_matrix():
     except ImportError:
         # Fallback: recreate the model here
         import sys
-        sys.path.insert(0, '.')
+        sys.path.append('.')
+        sys.path.append('../')
+        sys.path.append('code')
         from batch_simulation_chaperon import BayesianHiringModel
     
     model = BayesianHiringModel(
@@ -187,6 +189,108 @@ def create_example_scenarios():
         ax.text(0.5, 0.9, decision, transform=ax.transAxes, 
                ha='center', fontsize=14, fontweight='bold',
                bbox=dict(boxstyle='round', facecolor='yellow', alpha=0.7))
+    
+    plt.tight_layout()
+    return fig
+
+
+def create_payoff_visualization():
+    """Visualize payoff structure"""
+    fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(14, 5))
+    
+    # Payoff structure
+    B = 10.0
+    b = -2.0
+    w = 5.0
+    
+    # Employer payoffs
+    categories = ['Hire Good', 'Hire Bad', 'Reject']
+    employer_payoffs = [B, b, 0]
+    colors_emp = ['#2ecc71', '#e74c3c', '#95a5a6']
+    
+    bars1 = ax1.bar(categories, employer_payoffs, color=colors_emp, alpha=0.7, 
+                   edgecolor='black', linewidth=2)
+    ax1.set_ylabel('Payoff', fontsize=12)
+    ax1.set_title('Employer Payoffs', fontsize=14, fontweight='bold')
+    ax1.grid(axis='y', alpha=0.3)
+    ax1.axhline(y=0, color='black', linestyle='--', linewidth=1)
+    
+    for bar, payoff in zip(bars1, employer_payoffs):
+        height = bar.get_height()
+        ax1.text(bar.get_x() + bar.get_width()/2., height + 0.3,
+                f'{payoff:.1f}', ha='center', fontsize=12, fontweight='bold')
+    
+    # Applicant payoffs
+    applicant_payoffs = [w, w, 0]
+    bars2 = ax2.bar(categories, applicant_payoffs, color=['#3498db', '#3498db', '#95a5a6'], 
+                   alpha=0.7, edgecolor='black', linewidth=2)
+    ax2.set_ylabel('Payoff', fontsize=12)
+    ax2.set_title('Applicant Payoffs', fontsize=14, fontweight='bold')
+    ax2.grid(axis='y', alpha=0.3)
+    ax2.axhline(y=0, color='black', linestyle='--', linewidth=1)
+    
+    for bar, payoff in zip(bars2, applicant_payoffs):
+        height = bar.get_height()
+        ax2.text(bar.get_x() + bar.get_width()/2., height + 0.3,
+                f'{payoff:.1f}', ha='center', fontsize=12, fontweight='bold')
+    
+    plt.tight_layout()
+    return fig
+
+
+def create_expected_payoff_comparison():
+    """Compare expected payoffs for different scenarios"""
+    try:
+        from batch_simulation_chaperon import BayesianHiringModel
+    except ImportError:
+        import sys
+        sys.path.insert(0, '.')
+        from batch_simulation_chaperon import BayesianHiringModel
+    
+    model = BayesianHiringModel(B=10.0, b=-2.0, w=5.0)
+    
+    scenarios = [
+        ("Network + Many Papers", True, 8),
+        ("Network + Few Papers", True, 2),
+        ("No Network + Many Papers", False, 6),
+        ("No Network + Few Papers", False, 1)
+    ]
+    
+    fig, ax = plt.subplots(figsize=(12, 6))
+    
+    scenario_names = []
+    expected_payoffs = []
+    posterior_probs = []
+    
+    for name, has_network, n_papers in scenarios:
+        posterior_good, _ = model.posterior_probability(has_network, n_papers)
+        expected_payoff = model.expected_payoff(has_network, n_papers)
+        
+        scenario_names.append(name)
+        expected_payoffs.append(expected_payoff)
+        posterior_probs.append(posterior_good)
+    
+    x = np.arange(len(scenario_names))
+    width = 0.35
+    
+    bars1 = ax.bar(x - width/2, expected_payoffs, width, label='Expected Payoff', 
+                   color='#3498db', alpha=0.7, edgecolor='black')
+    bars2 = ax.bar(x + width/2, [p * 10 for p in posterior_probs], width, 
+                   label='Posterior × 10 (scaled)', color='#e74c3c', alpha=0.7, edgecolor='black')
+    
+    ax.set_ylabel('Value', fontsize=12)
+    ax.set_title('Expected Payoff vs. Posterior Probability', fontsize=14, fontweight='bold')
+    ax.set_xticks(x)
+    ax.set_xticklabels(scenario_names, rotation=15, ha='right')
+    ax.legend(fontsize=11)
+    ax.grid(axis='y', alpha=0.3)
+    ax.axhline(y=0, color='black', linestyle='--', linewidth=1)
+    
+    # Add value labels
+    for bar in bars1:
+        height = bar.get_height()
+        ax.text(bar.get_x() + bar.get_width()/2., height + 0.2,
+               f'{height:.2f}', ha='center', fontsize=10, fontweight='bold')
     
     plt.tight_layout()
     return fig
@@ -376,6 +480,8 @@ def create_presentation(output_dir=None):
     # Add visualization
     fig = create_prior_visualization()
     img_path = 'temp_prior.png'
+    if output_dir:
+        img_path = os.path.join(output_dir, img_path)
     save_figure_to_image(fig, img_path)
     slide.shapes.add_picture(img_path, Inches(1), Inches(3.5), width=Inches(8), height=Inches(3))
     
@@ -422,6 +528,8 @@ def create_presentation(output_dir=None):
     # Add visualization
     fig = create_poisson_visualization()
     img_path = 'temp_poisson.png'
+    if output_dir:
+        img_path = os.path.join(output_dir, img_path)
     save_figure_to_image(fig, img_path)
     slide.shapes.add_picture(img_path, Inches(0.5), Inches(3), width=Inches(9), height=Inches(4))
     
@@ -479,6 +587,8 @@ def create_presentation(output_dir=None):
     matrix = create_probability_matrix()
     fig = create_heatmap_figure(matrix)
     img_path = 'temp_heatmap.png'
+    if output_dir:
+        img_path = os.path.join(output_dir, img_path)
     save_figure_to_image(fig, img_path)
     slide.shapes.add_picture(img_path, Inches(0.5), Inches(3.5), width=Inches(9), height=Inches(3.5))
     
@@ -491,6 +601,8 @@ def create_presentation(output_dir=None):
     # Add visualization
     fig = create_example_scenarios()
     img_path = 'temp_examples.png'
+    if output_dir:
+        img_path = os.path.join(output_dir, img_path)
     save_figure_to_image(fig, img_path)
     slide.shapes.add_picture(img_path, Inches(0.5), Inches(1.5), width=Inches(9), height=Inches(5.5))
     
@@ -523,35 +635,182 @@ def create_presentation(output_dir=None):
     p.font.size = Pt(18)
     p.font.color.rgb = accent_color
     
-    # Slide 11: Decision Rule
+    # Slide 11: Payoffs Introduction
     slide = prs.slides.add_slide(prs.slide_layouts[1])
     title = slide.shapes.title
-    title.text = "How to Use: Decision Rule"
+    title.text = "Beyond Probabilities: Payoffs"
     title.text_frame.paragraphs[0].font.size = Pt(44)
     
     content = slide.placeholders[1]
     tf = content.text_frame
-    tf.text = "Simple decision rule:"
+    tf.text = "Hiring decisions involve costs and benefits:"
     p = tf.add_paragraph()
-    p.text = "IF Pr(F = good | G, N) > 0.5"
-    p.font.size = Pt(24)
+    p.text = "💰 B = Payoff from hiring a GOOD candidate (e.g., 10)"
+    p.font.size = Pt(18)
+    p.font.color.rgb = accent_color
+    p = tf.add_paragraph()
+    p.text = "💰 b = Payoff from hiring a BAD candidate (e.g., 2)"
+    p.font.size = Pt(18)
+    p.font.color.rgb = danger_color
+    p = tf.add_paragraph()
+    p.text = "💰 w = Applicant payoff if hired (e.g., 5)"
+    p.font.size = Pt(18)
+    p.font.color.rgb = RGBColor(52, 152, 219)
+    p = tf.add_paragraph()
+    p.text = "Key insight: Not all mistakes cost the same!"
+    p.font.size = Pt(20)
+    p.font.bold = True
+    p.font.color.rgb = primary_color
+    
+    # Add visualization
+    fig = create_payoff_visualization()
+    img_path = 'temp_payoffs.png'
+    if output_dir:
+        img_path = os.path.join(output_dir, img_path)
+    save_figure_to_image(fig, img_path)
+    slide.shapes.add_picture(img_path, Inches(0.5), Inches(3.5), width=Inches(9), height=Inches(3))
+    
+    # Slide 12: Expected Payoff
+    slide = prs.slides.add_slide(prs.slide_layouts[1])
+    title = slide.shapes.title
+    title.text = "Expected Payoff Calculation"
+    title.text_frame.paragraphs[0].font.size = Pt(44)
+    
+    content = slide.placeholders[1]
+    tf = content.text_frame
+    tf.text = "Expected Payoff = Weighted average of possible outcomes:"
+    p = tf.add_paragraph()
+    p.text = "E[Payoff] = B × Pr(Good) + b × Pr(Bad)"
+    p.font.size = Pt(22)
+    p.font.bold = True
+    p.font.color.rgb = primary_color
+    p = tf.add_paragraph()
+    p.text = "Or equivalently:"
+    p.font.size = Pt(18)
+    p = tf.add_paragraph()
+    p.text = "E[Payoff] = b + (B - b) × Pr(Good)"
+    p.font.size = Pt(20)
+    p.font.bold = True
+    p = tf.add_paragraph()
+    p.text = "Example: If Pr(Good) = 0.6, B = 10, b = 2"
+    p.font.size = Pt(18)
+    p = tf.add_paragraph()
+    p.text = "E[Payoff] = 2 + (10 - 2) × 0.6 = 6.8"
+    p.font.size = Pt(18)
+    p.font.bold = True
+    p.font.color.rgb = accent_color
+    
+    # Slide 13: Expected Payoff Comparison
+    slide = prs.slides.add_slide(prs.slide_layouts[1])
+    title = slide.shapes.title
+    title.text = "Expected Payoff: Real Examples"
+    title.text_frame.paragraphs[0].font.size = Pt(44)
+    
+    # Add visualization
+    fig = create_expected_payoff_comparison()
+    img_path = 'temp_expected_payoff.png'
+    if output_dir:
+        img_path = os.path.join(output_dir, img_path)
+    save_figure_to_image(fig, img_path)
+    slide.shapes.add_picture(img_path, Inches(0.5), Inches(1.5), width=Inches(9), height=Inches(5))
+    
+    # Slide 14: Decision Rules
+    slide = prs.slides.add_slide(prs.slide_layouts[1])
+    title = slide.shapes.title
+    title.text = "Two Decision Approaches"
+    title.text_frame.paragraphs[0].font.size = Pt(44)
+    
+    content = slide.placeholders[1]
+    tf = content.text_frame
+    tf.text = "Approach 1: Probability-Based"
+    p = tf.add_paragraph()
+    p.text = "IF Pr(F = good | G, N) > 0.5 → HIRE"
+    p.font.size = Pt(20)
     p.font.bold = True
     p.font.color.rgb = accent_color
     p = tf.add_paragraph()
-    p.text = "   → HIRE"
-    p.font.size = Pt(28)
-    p.font.bold = True
-    p = tf.add_paragraph()
-    p.text = "ELSE"
-    p.font.size = Pt(24)
+    p.text = "ELSE → REJECT"
+    p.font.size = Pt(20)
     p.font.bold = True
     p.font.color.rgb = danger_color
     p = tf.add_paragraph()
-    p.text = "   → REJECT"
-    p.font.size = Pt(28)
+    p.text = "✓ Simple and intuitive"
+    p.font.size = Pt(18)
+    p = tf.add_paragraph()
+    p.text = "✗ Assumes symmetric costs"
+    p.font.size = Pt(18)
+    p = tf.add_paragraph()
+    p.text = ""
+    p = tf.add_paragraph()
+    p.text = "Approach 2: Payoff-Based"
+    p.font.size = Pt(20)
     p.font.bold = True
+    p.font.color.rgb = primary_color
+    p = tf.add_paragraph()
+    p.text = "IF E[Payoff] > 0 → HIRE"
+    p.font.size = Pt(20)
+    p.font.bold = True
+    p.font.color.rgb = accent_color
+    p = tf.add_paragraph()
+    p.text = "ELSE → REJECT"
+    p.font.size = Pt(20)
+    p.font.bold = True
+    p.font.color.rgb = danger_color
+    p = tf.add_paragraph()
+    p.text = "✓ Accounts for different costs/benefits"
+    p.font.size = Pt(18)
+    p = tf.add_paragraph()
+    p.text = "✓ More realistic for actual decisions"
+    p.font.size = Pt(18)
     
-    # Slide 12: Why This Matters
+    # Slide 15: When Decisions Differ
+    slide = prs.slides.add_slide(prs.slide_layouts[1])
+    title = slide.shapes.title
+    title.text = "When Do Decisions Differ?"
+    title.text_frame.paragraphs[0].font.size = Pt(44)
+    
+    content = slide.placeholders[1]
+    tf = content.text_frame
+    tf.text = "Example: Candidate with Pr(Good) = 0.55"
+    p = tf.add_paragraph()
+    p.text = "Probability-based: HIRE (55% > 50%)"
+    p.font.size = Pt(18)
+    p.font.color.rgb = accent_color
+    p = tf.add_paragraph()
+    p.text = ""
+    p = tf.add_paragraph()
+    p.text = "Payoff-based (B=10, b=2):"
+    p.font.size = Pt(18)
+    p = tf.add_paragraph()
+    p.text = "E[Payoff] = 2 + 8 × 0.55 = 6.4 > 0 → HIRE"
+    p.font.size = Pt(18)
+    p.font.bold = True
+    p = tf.add_paragraph()
+    p.text = ""
+    p = tf.add_paragraph()
+    p.text = "Payoff-based (B=10, b=-10):"
+    p.font.size = Pt(18)
+    p = tf.add_paragraph()
+    p.text = "E[Payoff] = -10 + 20 × 0.55 = 1 > 0 → HIRE"
+    p.font.size = Pt(18)
+    p.font.bold = True
+    p = tf.add_paragraph()
+    p.text = ""
+    p = tf.add_paragraph()
+    p.text = "Payoff-based (B=10, b=-30):"
+    p.font.size = Pt(18)
+    p = tf.add_paragraph()
+    p.text = "E[Payoff] = -30 + 40 × 0.55 = -8 < 0 → REJECT"
+    p.font.size = Pt(18)
+    p.font.bold = True
+    p.font.color.rgb = danger_color
+    p = tf.add_paragraph()
+    p.text = "Key insight: High cost of bad hires makes us more conservative!"
+    p.font.size = Pt(18)
+    p.font.bold = True
+    p.font.color.rgb = primary_color
+    
+    # Slide 16: Why This Matters
     slide = prs.slides.add_slide(prs.slide_layouts[1])
     title = slide.shapes.title
     title.text = "Why This Model Matters"
@@ -565,6 +824,8 @@ def create_presentation(output_dir=None):
     p = tf.add_paragraph()
     p.text = "✅ Updates beliefs based on evidence"
     p = tf.add_paragraph()
+    p.text = "✅ Accounts for costs and benefits (payoff modeling)"
+    p = tf.add_paragraph()
     p.text = "✅ Can be calibrated with real hiring data"
     p = tf.add_paragraph()
     p.text = "✅ Transparent and interpretable"
@@ -573,7 +834,7 @@ def create_presentation(output_dir=None):
         paragraph.font.size = Pt(20)
         paragraph.space_after = Pt(10)
     
-    # Slide 13: Summary
+    # Slide 17: Summary
     slide = prs.slides.add_slide(prs.slide_layouts[1])
     title = slide.shapes.title
     title.text = "Summary"
@@ -589,14 +850,16 @@ def create_presentation(output_dir=None):
     p = tf.add_paragraph()
     p.text = "4️⃣ Get posterior probability: Pr(F = good | G, N)"
     p = tf.add_paragraph()
-    p.text = "5️⃣ Make hiring decision based on probability"
+    p.text = "5️⃣ Compute expected payoff: E[Payoff] = B × Pr(Good) + b × Pr(Bad)"
+    p = tf.add_paragraph()
+    p.text = "6️⃣ Make hiring decision (probability-based or payoff-based)"
     
     for paragraph in tf.paragraphs:
-        paragraph.font.size = Pt(22)
-        paragraph.space_after = Pt(12)
+        paragraph.font.size = Pt(20)
+        paragraph.space_after = Pt(10)
         paragraph.font.bold = True
     
-    # Slide 14: Thank You
+    # Slide 18: Thank You
     slide = prs.slides.add_slide(prs.slide_layouts[0])
     title = slide.shapes.title
     title.text = "Thank You!"
@@ -608,10 +871,12 @@ def create_presentation(output_dir=None):
     subtitle.text_frame.paragraphs[0].font.size = Pt(32)
     
     # Clean up temporary files
-    temp_files = ['temp_prior.png', 'temp_poisson.png', 'temp_heatmap.png', 'temp_examples.png']
+    temp_files = ['temp_prior.png', 'temp_poisson.png', 'temp_heatmap.png', 'temp_examples.png', 
+                  'temp_payoffs.png', 'temp_expected_payoff.png']
     for f in temp_files:
-        if os.path.exists(f):
-            os.remove(f)
+        file_path = f if not output_dir else os.path.join(output_dir, f)
+        if os.path.exists(file_path):
+            os.remove(file_path)
     
     # Determine output file path
     output_filename = "Chaperon_Based_Hiring_Model.pptx"
