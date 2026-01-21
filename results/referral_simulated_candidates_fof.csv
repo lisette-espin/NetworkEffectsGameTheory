@@ -1,0 +1,1001 @@
+True_Fit,R1_Quality,R2_Quality,Trust_R1,Trust_R2,Selected_Referral,Network_Effect,N_Papers,Posterior_Good,Posterior_Bad,Expected_Payoff,Decision_Prob_Based,Decision_Payoff_Based,Predicted_Fit
+Good,good,good,Yes,No,good,good,7,0.9947202585155632,0.005279741484436876,9.936643102186759,Hire,Hire,Good
+Good,very bad,very bad,Yes,Yes,very bad,very bad,6,0.6647885567159726,0.3352114432840275,5.977462680591671,Hire,Hire,Good
+Good,average,excellent,No,No,excellent,excellent,3,0.9111042742577183,0.08889572574228163,8.93325129109262,Hire,Hire,Good
+Bad,very bad,bad,Yes,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Good,bad,very bad,Yes,Yes,bad,bad,5,0.6092527392468644,0.3907472607531356,5.311032870962372,Hire,Hire,Good
+Bad,excellent,bad,No,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Bad,very bad,very bad,Yes,No,very bad,very bad,6,0.6647885567159726,0.3352114432840275,5.977462680591671,Hire,Hire,Good
+Good,good,good,No,Yes,good,good,1,0.4355702158845366,0.5644297841154634,3.2268425906144396,Reject,Hire,Bad
+Bad,very bad,bad,No,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Good,good,excellent,No,Yes,excellent,excellent,4,0.9624382629795427,0.03756173702045721,9.549259155754513,Hire,Hire,Good
+Bad,very bad,bad,No,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Bad,bad,bad,No,Yes,bad,bad,3,0.19966183498528328,0.8003381650147167,0.3959420198233994,Reject,Hire,Bad
+Good,average,good,No,Yes,good,good,8,0.9978813919846485,0.002118608015351499,9.974576703815783,Hire,Hire,Good
+Bad,bad,good,Yes,Yes,good,good,2,0.6586155583247212,0.3413844416752788,5.903386699896655,Hire,Hire,Good
+Good,very bad,excellent,No,No,excellent,excellent,8,0.9990018884949339,0.000998111505066213,9.988022661939207,Hire,Hire,Good
+Bad,bad,very bad,Yes,Yes,bad,bad,4,0.38411494524413486,0.6158850547558652,2.609379342929618,Reject,Hire,Bad
+Good,bad,good,Yes,No,bad,bad,9,0.9838465319844918,0.016153468015508193,9.806158383813901,Hire,Hire,Good
+Good,excellent,good,No,Yes,good,good,6,0.9869043586899429,0.013095641310057181,9.842852304279313,Hire,Hire,Good
+Bad,very bad,very bad,Yes,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Good,bad,bad,No,No,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Bad,bad,very bad,Yes,No,bad,bad,5,0.6092527392468644,0.3907472607531356,5.311032870962372,Hire,Hire,Good
+Good,average,good,Yes,Yes,good,good,4,0.9234174539677513,0.07658254603224868,9.081009447613015,Hire,Hire,Good
+Good,good,bad,No,Yes,bad,bad,6,0.795834930773772,0.20416506922622804,7.550019169285264,Hire,Hire,Good
+Bad,very bad,excellent,Yes,Yes,excellent,excellent,1,0.6211922573902213,0.3788077426097787,5.454307088682656,Hire,Hire,Good
+Bad,bad,bad,Yes,No,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Bad,bad,bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Good,excellent,excellent,Yes,Yes,excellent,excellent,7,0.997508451502166,0.002491548497833852,9.970101418025992,Hire,Hire,Good
+Good,bad,average,Yes,Yes,average,average,1,0.2577554177804674,0.7422445822195327,1.0930650133656088,Reject,Hire,Bad
+Bad,bad,bad,Yes,No,bad,bad,3,0.19966183498528328,0.8003381650147167,0.3959420198233994,Reject,Hire,Bad
+Bad,very bad,bad,No,No,bad,bad,3,0.19966183498528328,0.8003381650147167,0.3959420198233994,Reject,Hire,Bad
+Good,good,average,Yes,No,good,good,4,0.9234174539677513,0.07658254603224868,9.081009447613015,Hire,Hire,Good
+Bad,average,bad,No,No,average,average,2,0.4647145175294794,0.5352854824705207,3.5765742103537526,Reject,Hire,Bad
+Good,average,good,Yes,No,average,average,2,0.4647145175294794,0.5352854824705207,3.5765742103537526,Reject,Hire,Bad
+Good,good,excellent,Yes,Yes,excellent,excellent,5,0.9846288857409103,0.015371114259089682,9.815546628890925,Hire,Hire,Good
+Good,excellent,good,Yes,No,excellent,excellent,8,0.9990018884949339,0.000998111505066213,9.988022661939207,Hire,Hire,Good
+Bad,very bad,very bad,Yes,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Good,bad,very bad,No,No,bad,bad,7,0.9069334034307872,0.0930665965692128,8.883200841169446,Hire,Hire,Good
+Good,average,average,Yes,No,average,average,4,0.8443825007400562,0.15561749925994384,8.132590008880674,Hire,Hire,Good
+Good,bad,excellent,No,No,excellent,excellent,4,0.9624382629795427,0.03756173702045721,9.549259155754513,Hire,Hire,Good
+Bad,very bad,very bad,No,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Good,good,good,Yes,No,good,good,4,0.9234174539677513,0.07658254603224868,9.081009447613015,Hire,Hire,Good
+Bad,very bad,very bad,No,Yes,very bad,very bad,4,0.24087763078935487,0.7591223692106451,0.8905315694722582,Reject,Hire,Bad
+Good,excellent,very bad,Yes,No,excellent,excellent,4,0.9624382629795427,0.03756173702045721,9.549259155754513,Hire,Hire,Good
+Bad,bad,very bad,No,Yes,very bad,very bad,4,0.24087763078935487,0.7591223692106451,0.8905315694722582,Reject,Hire,Bad
+Good,good,excellent,No,Yes,excellent,excellent,6,0.9937943213792837,0.006205678620716408,9.925531856551403,Hire,Hire,Good
+Good,bad,bad,Yes,No,bad,bad,3,0.19966183498528328,0.8003381650147167,0.3959420198233994,Reject,Hire,Bad
+Good,average,excellent,Yes,No,average,average,4,0.8443825007400562,0.15561749925994384,8.132590008880674,Hire,Hire,Good
+Good,good,bad,No,No,good,good,6,0.9869043586899429,0.013095641310057181,9.842852304279313,Hire,Hire,Good
+Bad,very bad,bad,No,No,bad,bad,4,0.38411494524413486,0.6158850547558652,2.609379342929618,Reject,Hire,Bad
+Bad,bad,excellent,No,No,excellent,excellent,2,0.803908261723525,0.19609173827647486,7.646899140682301,Hire,Hire,Good
+Good,excellent,good,Yes,No,excellent,excellent,3,0.9111042742577183,0.08889572574228163,8.93325129109262,Hire,Hire,Good
+Bad,very bad,good,Yes,Yes,good,good,1,0.4355702158845366,0.5644297841154634,3.2268425906144396,Reject,Hire,Bad
+Good,excellent,average,Yes,Yes,excellent,excellent,5,0.9846288857409103,0.015371114259089682,9.815546628890925,Hire,Hire,Good
+Good,good,excellent,No,Yes,excellent,excellent,2,0.803908261723525,0.19609173827647486,7.646899140682301,Hire,Hire,Good
+Good,good,average,No,Yes,average,average,6,0.9713570280831013,0.02864297191689871,9.656284336997215,Hire,Hire,Good
+Good,average,average,No,Yes,average,average,6,0.9713570280831013,0.02864297191689871,9.656284336997215,Hire,Hire,Good
+Good,bad,excellent,Yes,Yes,excellent,excellent,3,0.9111042742577183,0.08889572574228163,8.93325129109262,Hire,Hire,Good
+Good,excellent,average,No,Yes,average,average,6,0.9713570280831013,0.02864297191689871,9.656284336997215,Hire,Hire,Good
+Bad,bad,bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Bad,average,bad,No,No,average,average,2,0.4647145175294794,0.5352854824705207,3.5765742103537526,Reject,Hire,Bad
+Good,good,average,Yes,Yes,good,good,8,0.9978813919846485,0.002118608015351499,9.974576703815783,Hire,Hire,Good
+Bad,bad,very bad,Yes,Yes,bad,bad,4,0.38411494524413486,0.6158850547558652,2.609379342929618,Reject,Hire,Bad
+Bad,very bad,bad,Yes,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Bad,bad,very bad,No,No,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Bad,bad,excellent,Yes,Yes,excellent,excellent,3,0.9111042742577183,0.08889572574228163,8.93325129109262,Hire,Hire,Good
+Bad,bad,excellent,No,No,excellent,excellent,2,0.803908261723525,0.19609173827647486,7.646899140682301,Hire,Hire,Good
+Bad,very bad,bad,Yes,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Good,good,good,Yes,No,good,good,4,0.9234174539677513,0.07658254603224868,9.081009447613015,Hire,Hire,Good
+Bad,very bad,very bad,Yes,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Good,average,excellent,Yes,No,average,average,5,0.9313424064918566,0.06865759350814335,9.17610887790228,Hire,Hire,Good
+Bad,very bad,bad,Yes,No,very bad,very bad,3,0.11262892556477863,0.8873710744352215,-0.6484528932226565,Reject,Reject,Bad
+Good,good,excellent,Yes,No,good,good,10,0.9996604183876702,0.0003395816123298679,9.995925020652042,Hire,Hire,Good
+Good,good,excellent,Yes,Yes,excellent,excellent,9,0.9996005161603236,0.0003994838396763672,9.995206193923883,Hire,Hire,Good
+Bad,very bad,bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Good,good,excellent,Yes,No,good,good,4,0.9234174539677513,0.07658254603224868,9.081009447613015,Hire,Hire,Good
+Bad,very bad,very bad,No,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,-1.4201997926515257,Reject,Reject,Bad
+Bad,average,bad,Yes,No,average,average,3,0.6845828856812483,0.31541711431875163,6.2149946281749795,Hire,Hire,Good
+Bad,bad,average,Yes,Yes,average,average,5,0.9313424064918566,0.06865759350814335,9.17610887790228,Hire,Hire,Good
+Bad,bad,bad,No,No,bad,bad,3,0.19966183498528328,0.8003381650147167,0.3959420198233994,Reject,Hire,Bad
+Bad,very bad,bad,Yes,No,very bad,very bad,3,0.11262892556477863,0.8873710744352215,-0.6484528932226565,Reject,Reject,Bad
+Bad,very bad,very bad,No,Yes,very bad,very bad,2,0.04831668394570618,0.9516833160542938,-1.4201997926515257,Reject,Reject,Bad
+Bad,very bad,bad,No,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Bad,very bad,very bad,No,Yes,very bad,very bad,3,0.11262892556477863,0.8873710744352215,-0.6484528932226565,Reject,Reject,Bad
+Good,excellent,excellent,Yes,No,excellent,excellent,7,0.997508451502166,0.002491548497833852,9.970101418025992,Hire,Hire,Good
+Bad,bad,bad,No,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Bad,bad,very bad,Yes,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Bad,very bad,bad,Yes,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Bad,very bad,average,No,Yes,average,average,3,0.6845828856812483,0.31541711431875163,6.2149946281749795,Hire,Hire,Good
+Good,excellent,excellent,No,Yes,excellent,excellent,8,0.9990018884949339,0.000998111505066213,9.988022661939207,Hire,Hire,Good
+Good,average,very bad,No,No,average,average,4,0.8443825007400562,0.15561749925994384,8.132590008880674,Hire,Hire,Good
+Bad,very bad,good,No,Yes,good,good,3,0.8282708214961547,0.1717291785038452,7.939249857953857,Hire,Hire,Good
+Bad,bad,bad,Yes,No,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Good,good,good,No,Yes,good,good,10,0.9996604183876702,0.0003395816123298679,9.995925020652042,Hire,Hire,Good
+Bad,bad,very bad,Yes,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Bad,very bad,average,No,No,average,average,3,0.6845828856812483,0.31541711431875163,6.2149946281749795,Hire,Hire,Good
+Bad,very bad,bad,No,No,bad,bad,3,0.19966183498528328,0.8003381650147167,0.3959420198233994,Reject,Hire,Bad
+Good,excellent,very bad,No,Yes,very bad,very bad,6,0.6647885567159726,0.3352114432840275,5.977462680591671,Hire,Hire,Good
+Bad,very bad,bad,Yes,Yes,bad,bad,3,0.19966183498528328,0.8003381650147167,0.3959420198233994,Reject,Hire,Bad
+Good,bad,excellent,No,Yes,excellent,excellent,5,0.9846288857409103,0.015371114259089682,9.815546628890925,Hire,Hire,Good
+Good,average,good,No,Yes,good,good,6,0.9869043586899429,0.013095641310057181,9.842852304279313,Hire,Hire,Good
+Good,good,excellent,Yes,No,good,good,9,0.9991514781827855,0.0008485218172144918,9.989817738193425,Hire,Hire,Good
+Good,very bad,bad,Yes,No,very bad,very bad,7,0.8321578588614227,0.16784214113857723,7.985894306337072,Hire,Hire,Good
+Good,good,excellent,No,No,excellent,excellent,8,0.9990018884949339,0.000998111505066213,9.988022661939207,Hire,Hire,Good
+Good,average,very bad,Yes,Yes,average,average,2,0.4647145175294794,0.5352854824705207,3.5765742103537526,Reject,Hire,Bad
+Bad,very bad,very bad,Yes,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Good,average,good,No,Yes,good,good,5,0.9678916165342273,0.03210838346577264,9.614699398410727,Hire,Hire,Good
+Bad,bad,bad,Yes,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Good,excellent,good,No,No,excellent,excellent,5,0.9846288857409103,0.015371114259089682,9.815546628890925,Hire,Hire,Good
+Bad,bad,bad,No,Yes,bad,bad,6,0.795834930773772,0.20416506922622804,7.550019169285264,Hire,Hire,Good
+Good,average,excellent,No,No,excellent,excellent,8,0.9990018884949339,0.000998111505066213,9.988022661939207,Hire,Hire,Good
+Good,excellent,average,Yes,No,excellent,excellent,6,0.9937943213792837,0.006205678620716408,9.925531856551403,Hire,Hire,Good
+Good,average,very bad,Yes,Yes,average,average,6,0.9713570280831013,0.02864297191689871,9.656284336997215,Hire,Hire,Good
+Bad,bad,very bad,Yes,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Bad,very bad,very bad,No,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Good,very bad,excellent,No,Yes,excellent,excellent,7,0.997508451502166,0.002491548497833852,9.970101418025992,Hire,Hire,Good
+Good,very bad,excellent,No,Yes,excellent,excellent,8,0.9990018884949339,0.000998111505066213,9.988022661939207,Hire,Hire,Good
+Bad,very bad,very bad,No,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Bad,very bad,bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Good,good,average,No,No,good,good,3,0.8282708214961547,0.1717291785038452,7.939249857953857,Hire,Hire,Good
+Bad,bad,bad,Yes,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Good,average,excellent,No,No,excellent,excellent,7,0.997508451502166,0.002491548497833852,9.970101418025992,Hire,Hire,Good
+Good,very bad,good,Yes,No,very bad,very bad,3,0.11262892556477863,0.8873710744352215,-0.6484528932226565,Reject,Reject,Bad
+Bad,very bad,very bad,Yes,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,-1.4201997926515257,Reject,Reject,Bad
+Bad,very bad,bad,No,No,bad,bad,3,0.19966183498528328,0.8003381650147167,0.3959420198233994,Reject,Hire,Bad
+Bad,bad,bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Good,average,good,Yes,No,average,average,5,0.9313424064918566,0.06865759350814335,9.17610887790228,Hire,Hire,Good
+Good,bad,excellent,Yes,No,bad,bad,7,0.9069334034307872,0.0930665965692128,8.883200841169446,Hire,Hire,Good
+Good,good,excellent,Yes,Yes,excellent,excellent,2,0.803908261723525,0.19609173827647486,7.646899140682301,Hire,Hire,Good
+Bad,bad,bad,Yes,No,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Good,excellent,good,No,Yes,good,good,2,0.6586155583247212,0.3413844416752788,5.903386699896655,Hire,Hire,Good
+Good,excellent,bad,Yes,No,excellent,excellent,10,0.9998401681539857,0.00015983184601427544,9.998082017847828,Hire,Hire,Good
+Good,excellent,good,Yes,No,excellent,excellent,1,0.6211922573902213,0.3788077426097787,5.454307088682656,Hire,Hire,Good
+Good,average,good,Yes,No,average,average,8,0.9953041416896198,0.0046958583103801545,9.943649700275438,Hire,Hire,Good
+Bad,very bad,bad,Yes,No,very bad,very bad,4,0.24087763078935487,0.7591223692106451,0.8905315694722582,Reject,Hire,Bad
+Good,bad,average,No,Yes,average,average,4,0.8443825007400562,0.15561749925994384,8.132590008880674,Hire,Hire,Good
+Good,average,average,No,Yes,average,average,8,0.9953041416896198,0.0046958583103801545,9.943649700275438,Hire,Hire,Good
+Good,average,average,No,Yes,average,average,7,0.9883424674060147,0.011657532593985387,9.860109608872177,Hire,Hire,Good
+Good,very bad,excellent,Yes,No,very bad,very bad,5,0.4423615674822886,0.5576384325177113,3.3083388097874638,Reject,Hire,Bad
+Good,excellent,good,No,Yes,good,good,4,0.9234174539677513,0.07658254603224868,9.081009447613015,Hire,Hire,Good
+Good,average,excellent,No,No,excellent,excellent,7,0.997508451502166,0.002491548497833852,9.970101418025992,Hire,Hire,Good
+Good,good,good,No,Yes,good,good,4,0.9234174539677513,0.07658254603224868,9.081009447613015,Hire,Hire,Good
+Good,bad,excellent,No,No,excellent,excellent,5,0.9846288857409103,0.015371114259089682,9.815546628890925,Hire,Hire,Good
+Good,excellent,excellent,No,No,excellent,excellent,10,0.9998401681539857,0.00015983184601427544,9.998082017847828,Hire,Hire,Good
+Good,average,very bad,No,No,average,average,5,0.9313424064918566,0.06865759350814335,9.17610887790228,Hire,Hire,Good
+Good,good,excellent,Yes,Yes,excellent,excellent,7,0.997508451502166,0.002491548497833852,9.970101418025992,Hire,Hire,Good
+Good,good,excellent,No,No,excellent,excellent,10,0.9998401681539857,0.00015983184601427544,9.998082017847828,Hire,Hire,Good
+Good,excellent,very bad,Yes,Yes,excellent,excellent,3,0.9111042742577183,0.08889572574228163,8.93325129109262,Hire,Hire,Good
+Bad,bad,bad,Yes,Yes,bad,bad,4,0.38411494524413486,0.6158850547558652,2.609379342929618,Reject,Hire,Bad
+Bad,bad,very bad,No,No,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Bad,bad,bad,Yes,No,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Bad,very bad,bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Bad,bad,very bad,Yes,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Good,excellent,excellent,No,Yes,excellent,excellent,4,0.9624382629795427,0.03756173702045721,9.549259155754513,Hire,Hire,Good
+Good,average,average,Yes,Yes,average,average,6,0.9713570280831013,0.02864297191689871,9.656284336997215,Hire,Hire,Good
+Good,average,excellent,Yes,Yes,excellent,excellent,5,0.9846288857409103,0.015371114259089682,9.815546628890925,Hire,Hire,Good
+Good,good,average,Yes,Yes,good,good,5,0.9678916165342273,0.03210838346577264,9.614699398410727,Hire,Hire,Good
+Bad,bad,very bad,No,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Bad,bad,bad,No,No,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Good,good,good,No,Yes,good,good,7,0.9947202585155632,0.005279741484436876,9.936643102186759,Hire,Hire,Good
+Bad,very bad,bad,Yes,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Good,average,average,No,No,average,average,1,0.2577554177804674,0.7422445822195327,1.0930650133656088,Reject,Hire,Bad
+Good,excellent,excellent,No,No,excellent,excellent,6,0.9937943213792837,0.006205678620716408,9.925531856551403,Hire,Hire,Good
+Good,good,very bad,No,Yes,very bad,very bad,5,0.4423615674822886,0.5576384325177113,3.3083388097874638,Reject,Hire,Bad
+Good,good,very bad,No,Yes,very bad,very bad,4,0.24087763078935487,0.7591223692106451,0.8905315694722582,Reject,Hire,Bad
+Bad,average,bad,Yes,Yes,average,average,1,0.2577554177804674,0.7422445822195327,1.0930650133656088,Reject,Hire,Bad
+Good,excellent,average,Yes,Yes,excellent,excellent,3,0.9111042742577183,0.08889572574228163,8.93325129109262,Hire,Hire,Good
+Bad,very bad,very bad,Yes,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Good,bad,good,No,No,good,good,4,0.9234174539677513,0.07658254603224868,9.081009447613015,Hire,Hire,Good
+Good,excellent,good,No,No,excellent,excellent,4,0.9624382629795427,0.03756173702045721,9.549259155754513,Hire,Hire,Good
+Bad,very bad,average,No,Yes,average,average,1,0.2577554177804674,0.7422445822195327,1.0930650133656088,Reject,Hire,Bad
+Good,bad,excellent,No,Yes,excellent,excellent,4,0.9624382629795427,0.03756173702045721,9.549259155754513,Hire,Hire,Good
+Bad,very bad,very bad,No,No,very bad,very bad,4,0.24087763078935487,0.7591223692106451,0.8905315694722582,Reject,Hire,Bad
+Bad,bad,bad,No,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Bad,bad,bad,No,No,bad,bad,3,0.19966183498528328,0.8003381650147167,0.3959420198233994,Reject,Hire,Bad
+Good,average,average,Yes,No,average,average,9,0.9981163494622289,0.0018836505377710514,9.977396193546749,Hire,Hire,Good
+Bad,very bad,very bad,Yes,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,-1.4201997926515257,Reject,Reject,Bad
+Good,bad,average,No,Yes,average,average,8,0.9953041416896198,0.0046958583103801545,9.943649700275438,Hire,Hire,Good
+Bad,bad,average,Yes,Yes,average,average,2,0.4647145175294794,0.5352854824705207,3.5765742103537526,Reject,Hire,Bad
+Bad,bad,good,No,No,good,good,2,0.6586155583247212,0.3413844416752788,5.903386699896655,Hire,Hire,Good
+Good,good,very bad,Yes,Yes,good,good,4,0.9234174539677513,0.07658254603224868,9.081009447613015,Hire,Hire,Good
+Good,average,very bad,No,Yes,very bad,very bad,7,0.8321578588614227,0.16784214113857723,7.985894306337072,Hire,Hire,Good
+Good,excellent,good,No,No,excellent,excellent,4,0.9624382629795427,0.03756173702045721,9.549259155754513,Hire,Hire,Good
+Good,good,excellent,Yes,Yes,excellent,excellent,8,0.9990018884949339,0.000998111505066213,9.988022661939207,Hire,Hire,Good
+Bad,very bad,bad,No,No,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Bad,very bad,very bad,No,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Good,bad,excellent,No,No,excellent,excellent,3,0.9111042742577183,0.08889572574228163,8.93325129109262,Hire,Hire,Good
+Bad,good,bad,No,No,good,good,2,0.6586155583247212,0.3413844416752788,5.903386699896655,Hire,Hire,Good
+Bad,average,average,Yes,No,average,average,4,0.8443825007400562,0.15561749925994384,8.132590008880674,Hire,Hire,Good
+Good,excellent,bad,No,No,excellent,excellent,7,0.997508451502166,0.002491548497833852,9.970101418025992,Hire,Hire,Good
+Bad,very bad,bad,Yes,No,very bad,very bad,3,0.11262892556477863,0.8873710744352215,-0.6484528932226565,Reject,Reject,Bad
+Bad,very bad,average,No,No,average,average,2,0.4647145175294794,0.5352854824705207,3.5765742103537526,Reject,Hire,Bad
+Bad,very bad,bad,No,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Bad,very bad,very bad,Yes,Yes,very bad,very bad,2,0.04831668394570618,0.9516833160542938,-1.4201997926515257,Reject,Reject,Bad
+Bad,very bad,average,Yes,Yes,average,average,3,0.6845828856812483,0.31541711431875163,6.2149946281749795,Hire,Hire,Good
+Good,average,good,No,Yes,good,good,4,0.9234174539677513,0.07658254603224868,9.081009447613015,Hire,Hire,Good
+Bad,very bad,very bad,No,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Bad,very bad,bad,Yes,Yes,bad,bad,3,0.19966183498528328,0.8003381650147167,0.3959420198233994,Reject,Hire,Bad
+Bad,bad,very bad,Yes,Yes,bad,bad,4,0.38411494524413486,0.6158850547558652,2.609379342929618,Reject,Hire,Bad
+Bad,very bad,very bad,No,Yes,very bad,very bad,3,0.11262892556477863,0.8873710744352215,-0.6484528932226565,Reject,Reject,Bad
+Good,excellent,bad,Yes,No,excellent,excellent,5,0.9846288857409103,0.015371114259089682,9.815546628890925,Hire,Hire,Good
+Bad,very bad,bad,Yes,Yes,bad,bad,3,0.19966183498528328,0.8003381650147167,0.3959420198233994,Reject,Hire,Bad
+Bad,very bad,bad,Yes,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Good,bad,excellent,No,No,excellent,excellent,7,0.997508451502166,0.002491548497833852,9.970101418025992,Hire,Hire,Good
+Bad,very bad,bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Bad,bad,bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Good,excellent,average,No,Yes,average,average,7,0.9883424674060147,0.011657532593985387,9.860109608872177,Hire,Hire,Good
+Bad,very bad,bad,No,Yes,bad,bad,4,0.38411494524413486,0.6158850547558652,2.609379342929618,Reject,Hire,Bad
+Bad,bad,bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Good,bad,excellent,No,Yes,excellent,excellent,6,0.9937943213792837,0.006205678620716408,9.925531856551403,Hire,Hire,Good
+Good,average,average,Yes,No,average,average,4,0.8443825007400562,0.15561749925994384,8.132590008880674,Hire,Hire,Good
+Bad,good,very bad,Yes,No,good,good,2,0.6586155583247212,0.3413844416752788,5.903386699896655,Hire,Hire,Good
+Good,good,good,No,No,good,good,2,0.6586155583247212,0.3413844416752788,5.903386699896655,Hire,Hire,Good
+Bad,bad,very bad,No,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Bad,very bad,excellent,Yes,No,very bad,very bad,3,0.11262892556477863,0.8873710744352215,-0.6484528932226565,Reject,Reject,Bad
+Bad,bad,bad,No,Yes,bad,bad,3,0.19966183498528328,0.8003381650147167,0.3959420198233994,Reject,Hire,Bad
+Good,excellent,bad,Yes,Yes,excellent,excellent,1,0.6211922573902213,0.3788077426097787,5.454307088682656,Hire,Hire,Good
+Bad,bad,very bad,No,No,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Good,excellent,very bad,Yes,Yes,excellent,excellent,8,0.9990018884949339,0.000998111505066213,9.988022661939207,Hire,Hire,Good
+Bad,bad,bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Good,excellent,bad,No,Yes,bad,bad,6,0.795834930773772,0.20416506922622804,7.550019169285264,Hire,Hire,Good
+Good,good,average,No,No,good,good,3,0.8282708214961547,0.1717291785038452,7.939249857953857,Hire,Hire,Good
+Bad,very bad,very bad,No,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Bad,very bad,very bad,No,No,very bad,very bad,5,0.4423615674822886,0.5576384325177113,3.3083388097874638,Reject,Hire,Bad
+Good,very bad,good,No,No,good,good,7,0.9947202585155632,0.005279741484436876,9.936643102186759,Hire,Hire,Good
+Bad,average,bad,No,Yes,bad,bad,3,0.19966183498528328,0.8003381650147167,0.3959420198233994,Reject,Hire,Bad
+Good,good,good,Yes,Yes,good,good,5,0.9678916165342273,0.03210838346577264,9.614699398410727,Hire,Hire,Good
+Bad,very bad,good,No,Yes,good,good,1,0.4355702158845366,0.5644297841154634,3.2268425906144396,Reject,Hire,Bad
+Good,excellent,good,No,No,excellent,excellent,4,0.9624382629795427,0.03756173702045721,9.549259155754513,Hire,Hire,Good
+Bad,bad,very bad,No,No,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Good,average,good,Yes,No,average,average,3,0.6845828856812483,0.31541711431875163,6.2149946281749795,Hire,Hire,Good
+Good,good,bad,No,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Bad,excellent,very bad,No,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Good,very bad,average,Yes,No,very bad,very bad,4,0.24087763078935487,0.7591223692106451,0.8905315694722582,Reject,Hire,Bad
+Bad,bad,very bad,No,Yes,very bad,very bad,2,0.04831668394570618,0.9516833160542938,-1.4201997926515257,Reject,Reject,Bad
+Good,good,average,No,Yes,average,average,6,0.9713570280831013,0.02864297191689871,9.656284336997215,Hire,Hire,Good
+Good,excellent,excellent,No,Yes,excellent,excellent,7,0.997508451502166,0.002491548497833852,9.970101418025992,Hire,Hire,Good
+Bad,very bad,very bad,Yes,No,very bad,very bad,5,0.4423615674822886,0.5576384325177113,3.3083388097874638,Reject,Hire,Bad
+Bad,very bad,bad,No,No,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Good,average,good,Yes,No,average,average,9,0.9981163494622289,0.0018836505377710514,9.977396193546749,Hire,Hire,Good
+Bad,very bad,bad,No,No,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Bad,bad,bad,Yes,No,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Bad,very bad,excellent,No,No,excellent,excellent,3,0.9111042742577183,0.08889572574228163,8.93325129109262,Hire,Hire,Good
+Good,average,good,No,No,good,good,5,0.9678916165342273,0.03210838346577264,9.614699398410727,Hire,Hire,Good
+Bad,very bad,bad,Yes,No,very bad,very bad,4,0.24087763078935487,0.7591223692106451,0.8905315694722582,Reject,Hire,Bad
+Bad,very bad,bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Good,average,excellent,Yes,No,average,average,4,0.8443825007400562,0.15561749925994384,8.132590008880674,Hire,Hire,Good
+Bad,bad,very bad,Yes,No,bad,bad,4,0.38411494524413486,0.6158850547558652,2.609379342929618,Reject,Hire,Bad
+Bad,very bad,bad,Yes,No,very bad,very bad,5,0.4423615674822886,0.5576384325177113,3.3083388097874638,Reject,Hire,Bad
+Bad,very bad,bad,Yes,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,-1.4201997926515257,Reject,Reject,Bad
+Bad,bad,bad,No,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Good,excellent,excellent,No,No,excellent,excellent,6,0.9937943213792837,0.006205678620716408,9.925531856551403,Hire,Hire,Good
+Bad,very bad,very bad,Yes,No,very bad,very bad,3,0.11262892556477863,0.8873710744352215,-0.6484528932226565,Reject,Reject,Bad
+Good,very bad,good,Yes,No,very bad,very bad,5,0.4423615674822886,0.5576384325177113,3.3083388097874638,Reject,Hire,Bad
+Bad,very bad,very bad,No,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Good,excellent,very bad,Yes,No,excellent,excellent,2,0.803908261723525,0.19609173827647486,7.646899140682301,Hire,Hire,Good
+Bad,bad,very bad,No,Yes,very bad,very bad,3,0.11262892556477863,0.8873710744352215,-0.6484528932226565,Reject,Reject,Bad
+Bad,very bad,bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Bad,very bad,very bad,Yes,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Bad,bad,very bad,No,Yes,very bad,very bad,4,0.24087763078935487,0.7591223692106451,0.8905315694722582,Reject,Hire,Bad
+Good,excellent,bad,Yes,No,excellent,excellent,2,0.803908261723525,0.19609173827647486,7.646899140682301,Hire,Hire,Good
+Bad,good,bad,Yes,No,good,good,1,0.4355702158845366,0.5644297841154634,3.2268425906144396,Reject,Hire,Bad
+Good,excellent,average,Yes,No,excellent,excellent,3,0.9111042742577183,0.08889572574228163,8.93325129109262,Hire,Hire,Good
+Bad,very bad,excellent,Yes,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Bad,very bad,good,Yes,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Bad,bad,very bad,No,No,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Bad,very bad,bad,No,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Bad,very bad,very bad,Yes,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Bad,very bad,very bad,Yes,No,very bad,very bad,3,0.11262892556477863,0.8873710744352215,-0.6484528932226565,Reject,Reject,Bad
+Good,excellent,bad,No,No,excellent,excellent,6,0.9937943213792837,0.006205678620716408,9.925531856551403,Hire,Hire,Good
+Good,good,bad,Yes,Yes,good,good,5,0.9678916165342273,0.03210838346577264,9.614699398410727,Hire,Hire,Good
+Good,excellent,good,Yes,No,excellent,excellent,3,0.9111042742577183,0.08889572574228163,8.93325129109262,Hire,Hire,Good
+Good,bad,good,No,No,good,good,1,0.4355702158845366,0.5644297841154634,3.2268425906144396,Reject,Hire,Bad
+Good,average,bad,No,No,average,average,5,0.9313424064918566,0.06865759350814335,9.17610887790228,Hire,Hire,Good
+Bad,very bad,very bad,Yes,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Good,excellent,excellent,No,Yes,excellent,excellent,4,0.9624382629795427,0.03756173702045721,9.549259155754513,Hire,Hire,Good
+Good,good,average,No,No,good,good,7,0.9947202585155632,0.005279741484436876,9.936643102186759,Hire,Hire,Good
+Good,good,average,Yes,Yes,good,good,6,0.9869043586899429,0.013095641310057181,9.842852304279313,Hire,Hire,Good
+Bad,bad,average,Yes,No,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Bad,very bad,very bad,No,Yes,very bad,very bad,2,0.04831668394570618,0.9516833160542938,-1.4201997926515257,Reject,Reject,Bad
+Good,good,average,No,Yes,average,average,9,0.9981163494622289,0.0018836505377710514,9.977396193546749,Hire,Hire,Good
+Bad,very bad,very bad,No,No,very bad,very bad,3,0.11262892556477863,0.8873710744352215,-0.6484528932226565,Reject,Reject,Bad
+Bad,bad,bad,Yes,No,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Good,excellent,average,No,Yes,average,average,6,0.9713570280831013,0.02864297191689871,9.656284336997215,Hire,Hire,Good
+Good,excellent,bad,No,Yes,bad,bad,5,0.6092527392468644,0.3907472607531356,5.311032870962372,Hire,Hire,Good
+Bad,very bad,bad,No,No,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Bad,very bad,very bad,Yes,No,very bad,very bad,5,0.4423615674822886,0.5576384325177113,3.3083388097874638,Reject,Hire,Bad
+Good,bad,good,No,Yes,good,good,2,0.6586155583247212,0.3413844416752788,5.903386699896655,Hire,Hire,Good
+Bad,very bad,very bad,No,No,very bad,very bad,3,0.11262892556477863,0.8873710744352215,-0.6484528932226565,Reject,Reject,Bad
+Bad,bad,bad,No,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Bad,very bad,bad,No,No,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Bad,average,good,Yes,No,average,average,4,0.8443825007400562,0.15561749925994384,8.132590008880674,Hire,Hire,Good
+Bad,bad,bad,Yes,No,bad,bad,4,0.38411494524413486,0.6158850547558652,2.609379342929618,Reject,Hire,Bad
+Good,excellent,excellent,Yes,Yes,excellent,excellent,8,0.9990018884949339,0.000998111505066213,9.988022661939207,Hire,Hire,Good
+Bad,bad,very bad,Yes,No,bad,bad,3,0.19966183498528328,0.8003381650147167,0.3959420198233994,Reject,Hire,Bad
+Good,excellent,good,No,No,excellent,excellent,5,0.9846288857409103,0.015371114259089682,9.815546628890925,Hire,Hire,Good
+Good,average,very bad,No,Yes,very bad,very bad,3,0.11262892556477863,0.8873710744352215,-0.6484528932226565,Reject,Reject,Bad
+Good,excellent,good,No,Yes,good,good,10,0.9996604183876702,0.0003395816123298679,9.995925020652042,Hire,Hire,Good
+Bad,good,very bad,No,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Good,excellent,good,No,No,excellent,excellent,3,0.9111042742577183,0.08889572574228163,8.93325129109262,Hire,Hire,Good
+Good,excellent,very bad,No,No,excellent,excellent,5,0.9846288857409103,0.015371114259089682,9.815546628890925,Hire,Hire,Good
+Bad,very bad,very bad,No,No,very bad,very bad,3,0.11262892556477863,0.8873710744352215,-0.6484528932226565,Reject,Reject,Bad
+Good,very bad,average,No,No,average,average,8,0.9953041416896198,0.0046958583103801545,9.943649700275438,Hire,Hire,Good
+Bad,very bad,very bad,Yes,No,very bad,very bad,3,0.11262892556477863,0.8873710744352215,-0.6484528932226565,Reject,Reject,Bad
+Bad,bad,very bad,No,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Good,average,good,No,No,good,good,4,0.9234174539677513,0.07658254603224868,9.081009447613015,Hire,Hire,Good
+Good,excellent,excellent,No,No,excellent,excellent,3,0.9111042742577183,0.08889572574228163,8.93325129109262,Hire,Hire,Good
+Bad,average,very bad,Yes,Yes,average,average,2,0.4647145175294794,0.5352854824705207,3.5765742103537526,Reject,Hire,Bad
+Bad,very bad,very bad,No,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,-1.4201997926515257,Reject,Reject,Bad
+Good,excellent,excellent,Yes,Yes,excellent,excellent,6,0.9937943213792837,0.006205678620716408,9.925531856551403,Hire,Hire,Good
+Bad,bad,bad,Yes,No,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Good,good,excellent,No,Yes,excellent,excellent,1,0.6211922573902213,0.3788077426097787,5.454307088682656,Hire,Hire,Good
+Bad,very bad,very bad,Yes,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Good,excellent,good,No,No,excellent,excellent,5,0.9846288857409103,0.015371114259089682,9.815546628890925,Hire,Hire,Good
+Bad,very bad,bad,No,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Good,very bad,bad,Yes,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,-1.4201997926515257,Reject,Reject,Bad
+Bad,very bad,excellent,Yes,No,very bad,very bad,6,0.6647885567159726,0.3352114432840275,5.977462680591671,Hire,Hire,Good
+Good,average,excellent,No,No,excellent,excellent,5,0.9846288857409103,0.015371114259089682,9.815546628890925,Hire,Hire,Good
+Bad,average,very bad,No,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Bad,bad,very bad,No,Yes,very bad,very bad,3,0.11262892556477863,0.8873710744352215,-0.6484528932226565,Reject,Reject,Bad
+Bad,very bad,very bad,No,Yes,very bad,very bad,3,0.11262892556477863,0.8873710744352215,-0.6484528932226565,Reject,Reject,Bad
+Good,good,very bad,Yes,Yes,good,good,5,0.9678916165342273,0.03210838346577264,9.614699398410727,Hire,Hire,Good
+Good,average,bad,Yes,Yes,average,average,4,0.8443825007400562,0.15561749925994384,8.132590008880674,Hire,Hire,Good
+Good,excellent,excellent,Yes,No,excellent,excellent,4,0.9624382629795427,0.03756173702045721,9.549259155754513,Hire,Hire,Good
+Bad,very bad,very bad,No,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,-1.4201997926515257,Reject,Reject,Bad
+Bad,very bad,average,Yes,No,very bad,very bad,4,0.24087763078935487,0.7591223692106451,0.8905315694722582,Reject,Hire,Bad
+Good,bad,average,No,No,average,average,1,0.2577554177804674,0.7422445822195327,1.0930650133656088,Reject,Hire,Bad
+Good,excellent,excellent,No,No,excellent,excellent,1,0.6211922573902213,0.3788077426097787,5.454307088682656,Hire,Hire,Good
+Bad,very bad,bad,No,No,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Good,excellent,average,No,Yes,average,average,7,0.9883424674060147,0.011657532593985387,9.860109608872177,Hire,Hire,Good
+Good,good,good,Yes,Yes,good,good,5,0.9678916165342273,0.03210838346577264,9.614699398410727,Hire,Hire,Good
+Bad,bad,bad,Yes,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Bad,very bad,very bad,No,Yes,very bad,very bad,5,0.4423615674822886,0.5576384325177113,3.3083388097874638,Reject,Hire,Bad
+Bad,very bad,good,Yes,Yes,good,good,2,0.6586155583247212,0.3413844416752788,5.903386699896655,Hire,Hire,Good
+Bad,very bad,very bad,Yes,No,very bad,very bad,3,0.11262892556477863,0.8873710744352215,-0.6484528932226565,Reject,Reject,Bad
+Bad,very bad,good,Yes,No,very bad,very bad,3,0.11262892556477863,0.8873710744352215,-0.6484528932226565,Reject,Reject,Bad
+Good,excellent,excellent,Yes,Yes,excellent,excellent,5,0.9846288857409103,0.015371114259089682,9.815546628890925,Hire,Hire,Good
+Bad,very bad,bad,No,Yes,bad,bad,3,0.19966183498528328,0.8003381650147167,0.3959420198233994,Reject,Hire,Bad
+Bad,bad,very bad,No,No,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Good,excellent,average,No,Yes,average,average,5,0.9313424064918566,0.06865759350814335,9.17610887790228,Hire,Hire,Good
+Good,good,average,Yes,No,good,good,4,0.9234174539677513,0.07658254603224868,9.081009447613015,Hire,Hire,Good
+Good,good,average,No,No,good,good,1,0.4355702158845366,0.5644297841154634,3.2268425906144396,Reject,Hire,Bad
+Bad,very bad,average,No,No,average,average,4,0.8443825007400562,0.15561749925994384,8.132590008880674,Hire,Hire,Good
+Good,excellent,very bad,No,No,excellent,excellent,5,0.9846288857409103,0.015371114259089682,9.815546628890925,Hire,Hire,Good
+Bad,average,bad,Yes,Yes,average,average,2,0.4647145175294794,0.5352854824705207,3.5765742103537526,Reject,Hire,Bad
+Bad,very bad,bad,Yes,No,very bad,very bad,3,0.11262892556477863,0.8873710744352215,-0.6484528932226565,Reject,Reject,Bad
+Bad,very bad,bad,Yes,No,very bad,very bad,4,0.24087763078935487,0.7591223692106451,0.8905315694722582,Reject,Hire,Bad
+Bad,very bad,average,Yes,Yes,average,average,4,0.8443825007400562,0.15561749925994384,8.132590008880674,Hire,Hire,Good
+Good,excellent,good,Yes,Yes,excellent,excellent,6,0.9937943213792837,0.006205678620716408,9.925531856551403,Hire,Hire,Good
+Good,excellent,good,No,Yes,good,good,4,0.9234174539677513,0.07658254603224868,9.081009447613015,Hire,Hire,Good
+Good,average,bad,No,Yes,bad,bad,5,0.6092527392468644,0.3907472607531356,5.311032870962372,Hire,Hire,Good
+Bad,excellent,average,No,Yes,average,average,2,0.4647145175294794,0.5352854824705207,3.5765742103537526,Reject,Hire,Bad
+Bad,very bad,bad,Yes,No,very bad,very bad,6,0.6647885567159726,0.3352114432840275,5.977462680591671,Hire,Hire,Good
+Good,excellent,very bad,Yes,Yes,excellent,excellent,7,0.997508451502166,0.002491548497833852,9.970101418025992,Hire,Hire,Good
+Bad,bad,very bad,No,Yes,very bad,very bad,2,0.04831668394570618,0.9516833160542938,-1.4201997926515257,Reject,Reject,Bad
+Good,bad,good,Yes,Yes,good,good,1,0.4355702158845366,0.5644297841154634,3.2268425906144396,Reject,Hire,Bad
+Good,good,average,Yes,No,good,good,3,0.8282708214961547,0.1717291785038452,7.939249857953857,Hire,Hire,Good
+Good,bad,average,Yes,No,bad,bad,6,0.795834930773772,0.20416506922622804,7.550019169285264,Hire,Hire,Good
+Good,excellent,excellent,Yes,Yes,excellent,excellent,8,0.9990018884949339,0.000998111505066213,9.988022661939207,Hire,Hire,Good
+Good,good,average,No,No,good,good,4,0.9234174539677513,0.07658254603224868,9.081009447613015,Hire,Hire,Good
+Good,average,good,Yes,Yes,good,good,5,0.9678916165342273,0.03210838346577264,9.614699398410727,Hire,Hire,Good
+Good,bad,very bad,No,No,bad,bad,7,0.9069334034307872,0.0930665965692128,8.883200841169446,Hire,Hire,Good
+Bad,very bad,very bad,Yes,No,very bad,very bad,3,0.11262892556477863,0.8873710744352215,-0.6484528932226565,Reject,Reject,Bad
+Bad,very bad,bad,Yes,No,very bad,very bad,4,0.24087763078935487,0.7591223692106451,0.8905315694722582,Reject,Hire,Bad
+Bad,very bad,bad,No,No,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Bad,average,very bad,No,No,average,average,1,0.2577554177804674,0.7422445822195327,1.0930650133656088,Reject,Hire,Bad
+Good,average,good,Yes,No,average,average,6,0.9713570280831013,0.02864297191689871,9.656284336997215,Hire,Hire,Good
+Good,average,bad,No,Yes,bad,bad,7,0.9069334034307872,0.0930665965692128,8.883200841169446,Hire,Hire,Good
+Bad,very bad,bad,No,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Bad,very bad,very bad,No,Yes,very bad,very bad,3,0.11262892556477863,0.8873710744352215,-0.6484528932226565,Reject,Reject,Bad
+Bad,bad,very bad,No,No,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Bad,bad,bad,No,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Good,excellent,excellent,Yes,Yes,excellent,excellent,6,0.9937943213792837,0.006205678620716408,9.925531856551403,Hire,Hire,Good
+Bad,bad,very bad,No,Yes,very bad,very bad,2,0.04831668394570618,0.9516833160542938,-1.4201997926515257,Reject,Reject,Bad
+Bad,bad,very bad,Yes,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Bad,very bad,very bad,Yes,No,very bad,very bad,3,0.11262892556477863,0.8873710744352215,-0.6484528932226565,Reject,Reject,Bad
+Good,excellent,excellent,Yes,No,excellent,excellent,9,0.9996005161603236,0.0003994838396763672,9.995206193923883,Hire,Hire,Good
+Good,very bad,average,Yes,Yes,average,average,2,0.4647145175294794,0.5352854824705207,3.5765742103537526,Reject,Hire,Bad
+Good,good,very bad,Yes,No,good,good,6,0.9869043586899429,0.013095641310057181,9.842852304279313,Hire,Hire,Good
+Good,good,average,No,No,good,good,3,0.8282708214961547,0.1717291785038452,7.939249857953857,Hire,Hire,Good
+Bad,average,bad,Yes,No,average,average,5,0.9313424064918566,0.06865759350814335,9.17610887790228,Hire,Hire,Good
+Good,excellent,excellent,Yes,Yes,excellent,excellent,3,0.9111042742577183,0.08889572574228163,8.93325129109262,Hire,Hire,Good
+Bad,average,bad,Yes,No,average,average,2,0.4647145175294794,0.5352854824705207,3.5765742103537526,Reject,Hire,Bad
+Bad,bad,bad,Yes,Yes,bad,bad,5,0.6092527392468644,0.3907472607531356,5.311032870962372,Hire,Hire,Good
+Bad,very bad,bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Good,very bad,good,No,No,good,good,2,0.6586155583247212,0.3413844416752788,5.903386699896655,Hire,Hire,Good
+Good,average,average,Yes,Yes,average,average,6,0.9713570280831013,0.02864297191689871,9.656284336997215,Hire,Hire,Good
+Bad,very bad,average,No,No,average,average,3,0.6845828856812483,0.31541711431875163,6.2149946281749795,Hire,Hire,Good
+Bad,very bad,very bad,No,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Bad,very bad,bad,No,No,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Good,good,excellent,No,Yes,excellent,excellent,4,0.9624382629795427,0.03756173702045721,9.549259155754513,Hire,Hire,Good
+Good,excellent,bad,Yes,No,excellent,excellent,1,0.6211922573902213,0.3788077426097787,5.454307088682656,Hire,Hire,Good
+Bad,very bad,very bad,Yes,No,very bad,very bad,4,0.24087763078935487,0.7591223692106451,0.8905315694722582,Reject,Hire,Bad
+Good,bad,good,Yes,No,bad,bad,6,0.795834930773772,0.20416506922622804,7.550019169285264,Hire,Hire,Good
+Good,excellent,good,No,No,excellent,excellent,5,0.9846288857409103,0.015371114259089682,9.815546628890925,Hire,Hire,Good
+Bad,bad,bad,No,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Good,very bad,excellent,No,Yes,excellent,excellent,5,0.9846288857409103,0.015371114259089682,9.815546628890925,Hire,Hire,Good
+Good,good,bad,No,No,good,good,4,0.9234174539677513,0.07658254603224868,9.081009447613015,Hire,Hire,Good
+Bad,bad,bad,No,No,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Good,excellent,excellent,No,Yes,excellent,excellent,7,0.997508451502166,0.002491548497833852,9.970101418025992,Hire,Hire,Good
+Bad,very bad,average,No,Yes,average,average,1,0.2577554177804674,0.7422445822195327,1.0930650133656088,Reject,Hire,Bad
+Bad,bad,very bad,No,No,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Good,bad,good,Yes,No,bad,bad,8,0.9605716859754803,0.03942831402451968,9.526860231705765,Hire,Hire,Good
+Bad,bad,bad,Yes,Yes,bad,bad,3,0.19966183498528328,0.8003381650147167,0.3959420198233994,Reject,Hire,Bad
+Bad,bad,bad,No,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Bad,very bad,good,No,Yes,good,good,1,0.4355702158845366,0.5644297841154634,3.2268425906144396,Reject,Hire,Bad
+Good,excellent,excellent,No,No,excellent,excellent,3,0.9111042742577183,0.08889572574228163,8.93325129109262,Hire,Hire,Good
+Bad,bad,very bad,No,Yes,very bad,very bad,2,0.04831668394570618,0.9516833160542938,-1.4201997926515257,Reject,Reject,Bad
+Good,good,good,Yes,Yes,good,good,2,0.6586155583247212,0.3413844416752788,5.903386699896655,Hire,Hire,Good
+Good,average,bad,No,Yes,bad,bad,5,0.6092527392468644,0.3907472607531356,5.311032870962372,Hire,Hire,Good
+Good,very bad,very bad,No,No,very bad,very bad,5,0.4423615674822886,0.5576384325177113,3.3083388097874638,Reject,Hire,Bad
+Bad,very bad,very bad,No,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,-1.4201997926515257,Reject,Reject,Bad
+Bad,very bad,bad,No,No,bad,bad,3,0.19966183498528328,0.8003381650147167,0.3959420198233994,Reject,Hire,Bad
+Bad,average,very bad,No,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Bad,bad,very bad,No,Yes,very bad,very bad,3,0.11262892556477863,0.8873710744352215,-0.6484528932226565,Reject,Reject,Bad
+Bad,very bad,bad,Yes,No,very bad,very bad,5,0.4423615674822886,0.5576384325177113,3.3083388097874638,Reject,Hire,Bad
+Bad,bad,very bad,No,No,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Good,good,good,Yes,Yes,good,good,3,0.8282708214961547,0.1717291785038452,7.939249857953857,Hire,Hire,Good
+Bad,very bad,bad,Yes,Yes,bad,bad,3,0.19966183498528328,0.8003381650147167,0.3959420198233994,Reject,Hire,Bad
+Good,excellent,good,No,No,excellent,excellent,2,0.803908261723525,0.19609173827647486,7.646899140682301,Hire,Hire,Good
+Good,excellent,bad,Yes,No,excellent,excellent,5,0.9846288857409103,0.015371114259089682,9.815546628890925,Hire,Hire,Good
+Good,good,good,No,No,good,good,2,0.6586155583247212,0.3413844416752788,5.903386699896655,Hire,Hire,Good
+Bad,very bad,average,No,No,average,average,1,0.2577554177804674,0.7422445822195327,1.0930650133656088,Reject,Hire,Bad
+Bad,very bad,very bad,No,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Good,average,excellent,Yes,No,average,average,6,0.9713570280831013,0.02864297191689871,9.656284336997215,Hire,Hire,Good
+Good,excellent,excellent,Yes,No,excellent,excellent,7,0.997508451502166,0.002491548497833852,9.970101418025992,Hire,Hire,Good
+Good,good,excellent,Yes,No,good,good,5,0.9678916165342273,0.03210838346577264,9.614699398410727,Hire,Hire,Good
+Bad,very bad,good,No,Yes,good,good,1,0.4355702158845366,0.5644297841154634,3.2268425906144396,Reject,Hire,Bad
+Good,good,good,Yes,Yes,good,good,10,0.9996604183876702,0.0003395816123298679,9.995925020652042,Hire,Hire,Good
+Bad,good,bad,Yes,No,good,good,2,0.6586155583247212,0.3413844416752788,5.903386699896655,Hire,Hire,Good
+Bad,good,very bad,Yes,Yes,good,good,2,0.6586155583247212,0.3413844416752788,5.903386699896655,Hire,Hire,Good
+Good,bad,average,Yes,No,bad,bad,6,0.795834930773772,0.20416506922622804,7.550019169285264,Hire,Hire,Good
+Bad,very bad,bad,No,No,bad,bad,3,0.19966183498528328,0.8003381650147167,0.3959420198233994,Reject,Hire,Bad
+Good,excellent,good,Yes,No,excellent,excellent,4,0.9624382629795427,0.03756173702045721,9.549259155754513,Hire,Hire,Good
+Good,good,excellent,No,No,excellent,excellent,5,0.9846288857409103,0.015371114259089682,9.815546628890925,Hire,Hire,Good
+Good,very bad,excellent,Yes,Yes,excellent,excellent,5,0.9846288857409103,0.015371114259089682,9.815546628890925,Hire,Hire,Good
+Bad,very bad,average,Yes,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,-1.4201997926515257,Reject,Reject,Bad
+Bad,very bad,very bad,No,No,very bad,very bad,5,0.4423615674822886,0.5576384325177113,3.3083388097874638,Reject,Hire,Bad
+Bad,very bad,very bad,No,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Good,good,bad,Yes,Yes,good,good,4,0.9234174539677513,0.07658254603224868,9.081009447613015,Hire,Hire,Good
+Good,good,bad,No,No,good,good,3,0.8282708214961547,0.1717291785038452,7.939249857953857,Hire,Hire,Good
+Good,average,good,No,No,good,good,9,0.9991514781827855,0.0008485218172144918,9.989817738193425,Hire,Hire,Good
+Bad,bad,very bad,Yes,No,bad,bad,3,0.19966183498528328,0.8003381650147167,0.3959420198233994,Reject,Hire,Bad
+Good,average,excellent,Yes,No,average,average,4,0.8443825007400562,0.15561749925994384,8.132590008880674,Hire,Hire,Good
+Bad,bad,average,Yes,No,bad,bad,3,0.19966183498528328,0.8003381650147167,0.3959420198233994,Reject,Hire,Bad
+Bad,very bad,bad,Yes,Yes,bad,bad,3,0.19966183498528328,0.8003381650147167,0.3959420198233994,Reject,Hire,Bad
+Good,very bad,excellent,No,No,excellent,excellent,4,0.9624382629795427,0.03756173702045721,9.549259155754513,Hire,Hire,Good
+Bad,very bad,bad,Yes,Yes,bad,bad,4,0.38411494524413486,0.6158850547558652,2.609379342929618,Reject,Hire,Bad
+Bad,very bad,bad,No,No,bad,bad,4,0.38411494524413486,0.6158850547558652,2.609379342929618,Reject,Hire,Bad
+Good,average,very bad,No,Yes,very bad,very bad,9,0.968737661662888,0.031262338337112006,9.624851939954656,Hire,Hire,Good
+Good,good,bad,No,Yes,bad,bad,3,0.19966183498528328,0.8003381650147167,0.3959420198233994,Reject,Hire,Bad
+Bad,bad,very bad,No,No,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Bad,very bad,very bad,Yes,No,very bad,very bad,3,0.11262892556477863,0.8873710744352215,-0.6484528932226565,Reject,Reject,Bad
+Bad,very bad,average,Yes,No,very bad,very bad,3,0.11262892556477863,0.8873710744352215,-0.6484528932226565,Reject,Reject,Bad
+Bad,bad,very bad,Yes,No,bad,bad,3,0.19966183498528328,0.8003381650147167,0.3959420198233994,Reject,Hire,Bad
+Bad,very bad,average,No,Yes,average,average,3,0.6845828856812483,0.31541711431875163,6.2149946281749795,Hire,Hire,Good
+Bad,very bad,bad,No,No,bad,bad,5,0.6092527392468644,0.3907472607531356,5.311032870962372,Hire,Hire,Good
+Bad,very bad,very bad,Yes,Yes,very bad,very bad,4,0.24087763078935487,0.7591223692106451,0.8905315694722582,Reject,Hire,Bad
+Bad,very bad,average,Yes,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Good,average,average,Yes,Yes,average,average,3,0.6845828856812483,0.31541711431875163,6.2149946281749795,Hire,Hire,Good
+Bad,good,average,Yes,No,good,good,2,0.6586155583247212,0.3413844416752788,5.903386699896655,Hire,Hire,Good
+Bad,bad,average,Yes,No,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Good,excellent,excellent,Yes,No,excellent,excellent,4,0.9624382629795427,0.03756173702045721,9.549259155754513,Hire,Hire,Good
+Bad,average,very bad,Yes,No,average,average,5,0.9313424064918566,0.06865759350814335,9.17610887790228,Hire,Hire,Good
+Good,average,excellent,Yes,No,average,average,7,0.9883424674060147,0.011657532593985387,9.860109608872177,Hire,Hire,Good
+Bad,good,very bad,No,Yes,very bad,very bad,5,0.4423615674822886,0.5576384325177113,3.3083388097874638,Reject,Hire,Bad
+Bad,very bad,very bad,No,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,-1.4201997926515257,Reject,Reject,Bad
+Good,good,good,Yes,No,good,good,1,0.4355702158845366,0.5644297841154634,3.2268425906144396,Reject,Hire,Bad
+Bad,average,bad,Yes,No,average,average,3,0.6845828856812483,0.31541711431875163,6.2149946281749795,Hire,Hire,Good
+Bad,bad,bad,Yes,No,bad,bad,4,0.38411494524413486,0.6158850547558652,2.609379342929618,Reject,Hire,Bad
+Bad,very bad,very bad,Yes,Yes,very bad,very bad,2,0.04831668394570618,0.9516833160542938,-1.4201997926515257,Reject,Reject,Bad
+Good,good,good,No,Yes,good,good,10,0.9996604183876702,0.0003395816123298679,9.995925020652042,Hire,Hire,Good
+Good,excellent,average,Yes,Yes,excellent,excellent,3,0.9111042742577183,0.08889572574228163,8.93325129109262,Hire,Hire,Good
+Good,bad,excellent,No,No,excellent,excellent,5,0.9846288857409103,0.015371114259089682,9.815546628890925,Hire,Hire,Good
+Good,excellent,excellent,No,Yes,excellent,excellent,5,0.9846288857409103,0.015371114259089682,9.815546628890925,Hire,Hire,Good
+Good,average,bad,No,Yes,bad,bad,9,0.9838465319844918,0.016153468015508193,9.806158383813901,Hire,Hire,Good
+Good,bad,good,Yes,Yes,good,good,5,0.9678916165342273,0.03210838346577264,9.614699398410727,Hire,Hire,Good
+Good,bad,good,No,Yes,good,good,5,0.9678916165342273,0.03210838346577264,9.614699398410727,Hire,Hire,Good
+Good,good,very bad,No,No,good,good,8,0.9978813919846485,0.002118608015351499,9.974576703815783,Hire,Hire,Good
+Bad,very bad,bad,Yes,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,-1.4201997926515257,Reject,Reject,Bad
+Bad,very bad,very bad,No,Yes,very bad,very bad,2,0.04831668394570618,0.9516833160542938,-1.4201997926515257,Reject,Reject,Bad
+Good,average,bad,Yes,No,average,average,6,0.9713570280831013,0.02864297191689871,9.656284336997215,Hire,Hire,Good
+Bad,very bad,bad,No,Yes,bad,bad,3,0.19966183498528328,0.8003381650147167,0.3959420198233994,Reject,Hire,Bad
+Good,good,excellent,Yes,Yes,excellent,excellent,3,0.9111042742577183,0.08889572574228163,8.93325129109262,Hire,Hire,Good
+Good,excellent,excellent,No,Yes,excellent,excellent,5,0.9846288857409103,0.015371114259089682,9.815546628890925,Hire,Hire,Good
+Good,very bad,excellent,Yes,Yes,excellent,excellent,4,0.9624382629795427,0.03756173702045721,9.549259155754513,Hire,Hire,Good
+Good,bad,average,No,Yes,average,average,8,0.9953041416896198,0.0046958583103801545,9.943649700275438,Hire,Hire,Good
+Bad,bad,good,Yes,Yes,good,good,1,0.4355702158845366,0.5644297841154634,3.2268425906144396,Reject,Hire,Bad
+Good,excellent,excellent,Yes,No,excellent,excellent,6,0.9937943213792837,0.006205678620716408,9.925531856551403,Hire,Hire,Good
+Good,average,good,Yes,No,average,average,3,0.6845828856812483,0.31541711431875163,6.2149946281749795,Hire,Hire,Good
+Good,excellent,excellent,No,No,excellent,excellent,4,0.9624382629795427,0.03756173702045721,9.549259155754513,Hire,Hire,Good
+Good,good,good,No,Yes,good,good,4,0.9234174539677513,0.07658254603224868,9.081009447613015,Hire,Hire,Good
+Bad,very bad,bad,Yes,Yes,bad,bad,3,0.19966183498528328,0.8003381650147167,0.3959420198233994,Reject,Hire,Bad
+Good,bad,average,Yes,Yes,average,average,3,0.6845828856812483,0.31541711431875163,6.2149946281749795,Hire,Hire,Good
+Bad,very bad,very bad,Yes,No,very bad,very bad,4,0.24087763078935487,0.7591223692106451,0.8905315694722582,Reject,Hire,Bad
+Good,excellent,good,No,No,excellent,excellent,7,0.997508451502166,0.002491548497833852,9.970101418025992,Hire,Hire,Good
+Good,excellent,excellent,No,Yes,excellent,excellent,4,0.9624382629795427,0.03756173702045721,9.549259155754513,Hire,Hire,Good
+Bad,very bad,very bad,Yes,Yes,very bad,very bad,3,0.11262892556477863,0.8873710744352215,-0.6484528932226565,Reject,Reject,Bad
+Bad,very bad,bad,Yes,Yes,bad,bad,3,0.19966183498528328,0.8003381650147167,0.3959420198233994,Reject,Hire,Bad
+Good,good,excellent,No,Yes,excellent,excellent,3,0.9111042742577183,0.08889572574228163,8.93325129109262,Hire,Hire,Good
+Bad,very bad,bad,Yes,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,-1.4201997926515257,Reject,Reject,Bad
+Good,excellent,excellent,Yes,No,excellent,excellent,5,0.9846288857409103,0.015371114259089682,9.815546628890925,Hire,Hire,Good
+Good,bad,excellent,No,Yes,excellent,excellent,6,0.9937943213792837,0.006205678620716408,9.925531856551403,Hire,Hire,Good
+Good,excellent,average,No,No,excellent,excellent,4,0.9624382629795427,0.03756173702045721,9.549259155754513,Hire,Hire,Good
+Bad,bad,very bad,No,Yes,very bad,very bad,2,0.04831668394570618,0.9516833160542938,-1.4201997926515257,Reject,Reject,Bad
+Good,very bad,good,No,No,good,good,5,0.9678916165342273,0.03210838346577264,9.614699398410727,Hire,Hire,Good
+Bad,very bad,very bad,No,No,very bad,very bad,4,0.24087763078935487,0.7591223692106451,0.8905315694722582,Reject,Hire,Bad
+Good,excellent,excellent,Yes,No,excellent,excellent,10,0.9998401681539857,0.00015983184601427544,9.998082017847828,Hire,Hire,Good
+Good,excellent,good,Yes,No,excellent,excellent,4,0.9624382629795427,0.03756173702045721,9.549259155754513,Hire,Hire,Good
+Good,good,good,Yes,Yes,good,good,4,0.9234174539677513,0.07658254603224868,9.081009447613015,Hire,Hire,Good
+Good,excellent,excellent,No,Yes,excellent,excellent,7,0.997508451502166,0.002491548497833852,9.970101418025992,Hire,Hire,Good
+Bad,bad,bad,Yes,Yes,bad,bad,3,0.19966183498528328,0.8003381650147167,0.3959420198233994,Reject,Hire,Bad
+Bad,very bad,average,No,No,average,average,2,0.4647145175294794,0.5352854824705207,3.5765742103537526,Reject,Hire,Bad
+Good,good,average,No,Yes,average,average,4,0.8443825007400562,0.15561749925994384,8.132590008880674,Hire,Hire,Good
+Good,bad,good,No,No,good,good,1,0.4355702158845366,0.5644297841154634,3.2268425906144396,Reject,Hire,Bad
+Good,excellent,excellent,No,No,excellent,excellent,6,0.9937943213792837,0.006205678620716408,9.925531856551403,Hire,Hire,Good
+Bad,average,bad,Yes,No,average,average,1,0.2577554177804674,0.7422445822195327,1.0930650133656088,Reject,Hire,Bad
+Good,average,excellent,Yes,No,average,average,3,0.6845828856812483,0.31541711431875163,6.2149946281749795,Hire,Hire,Good
+Bad,bad,very bad,No,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Good,excellent,good,Yes,No,excellent,excellent,5,0.9846288857409103,0.015371114259089682,9.815546628890925,Hire,Hire,Good
+Good,bad,excellent,No,Yes,excellent,excellent,3,0.9111042742577183,0.08889572574228163,8.93325129109262,Hire,Hire,Good
+Bad,very bad,very bad,No,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Good,good,excellent,Yes,No,good,good,6,0.9869043586899429,0.013095641310057181,9.842852304279313,Hire,Hire,Good
+Good,average,excellent,Yes,Yes,excellent,excellent,7,0.997508451502166,0.002491548497833852,9.970101418025992,Hire,Hire,Good
+Good,very bad,excellent,Yes,Yes,excellent,excellent,5,0.9846288857409103,0.015371114259089682,9.815546628890925,Hire,Hire,Good
+Good,average,good,No,No,good,good,3,0.8282708214961547,0.1717291785038452,7.939249857953857,Hire,Hire,Good
+Good,bad,average,No,Yes,average,average,7,0.9883424674060147,0.011657532593985387,9.860109608872177,Hire,Hire,Good
+Good,very bad,good,Yes,Yes,good,good,6,0.9869043586899429,0.013095641310057181,9.842852304279313,Hire,Hire,Good
+Bad,very bad,very bad,No,No,very bad,very bad,5,0.4423615674822886,0.5576384325177113,3.3083388097874638,Reject,Hire,Bad
+Bad,very bad,bad,No,Yes,bad,bad,5,0.6092527392468644,0.3907472607531356,5.311032870962372,Hire,Hire,Good
+Good,excellent,good,Yes,Yes,excellent,excellent,5,0.9846288857409103,0.015371114259089682,9.815546628890925,Hire,Hire,Good
+Bad,bad,very bad,No,No,bad,bad,3,0.19966183498528328,0.8003381650147167,0.3959420198233994,Reject,Hire,Bad
+Good,average,good,No,No,good,good,4,0.9234174539677513,0.07658254603224868,9.081009447613015,Hire,Hire,Good
+Bad,bad,very bad,Yes,No,bad,bad,3,0.19966183498528328,0.8003381650147167,0.3959420198233994,Reject,Hire,Bad
+Good,excellent,excellent,Yes,No,excellent,excellent,2,0.803908261723525,0.19609173827647486,7.646899140682301,Hire,Hire,Good
+Good,average,good,No,No,good,good,2,0.6586155583247212,0.3413844416752788,5.903386699896655,Hire,Hire,Good
+Bad,very bad,bad,Yes,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Good,excellent,good,Yes,Yes,excellent,excellent,6,0.9937943213792837,0.006205678620716408,9.925531856551403,Hire,Hire,Good
+Bad,bad,bad,Yes,Yes,bad,bad,4,0.38411494524413486,0.6158850547558652,2.609379342929618,Reject,Hire,Bad
+Good,excellent,average,Yes,No,excellent,excellent,4,0.9624382629795427,0.03756173702045721,9.549259155754513,Hire,Hire,Good
+Bad,bad,very bad,No,No,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Good,excellent,excellent,No,No,excellent,excellent,3,0.9111042742577183,0.08889572574228163,8.93325129109262,Hire,Hire,Good
+Good,average,bad,Yes,No,average,average,6,0.9713570280831013,0.02864297191689871,9.656284336997215,Hire,Hire,Good
+Good,excellent,bad,Yes,Yes,excellent,excellent,7,0.997508451502166,0.002491548497833852,9.970101418025992,Hire,Hire,Good
+Bad,very bad,very bad,Yes,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Bad,very bad,average,No,No,average,average,1,0.2577554177804674,0.7422445822195327,1.0930650133656088,Reject,Hire,Bad
+Bad,very bad,bad,No,No,bad,bad,3,0.19966183498528328,0.8003381650147167,0.3959420198233994,Reject,Hire,Bad
+Good,excellent,bad,No,No,excellent,excellent,10,0.9998401681539857,0.00015983184601427544,9.998082017847828,Hire,Hire,Good
+Good,average,average,Yes,No,average,average,3,0.6845828856812483,0.31541711431875163,6.2149946281749795,Hire,Hire,Good
+Bad,bad,very bad,Yes,No,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Bad,bad,bad,Yes,No,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Bad,bad,very bad,No,No,bad,bad,5,0.6092527392468644,0.3907472607531356,5.311032870962372,Hire,Hire,Good
+Good,excellent,good,Yes,No,excellent,excellent,2,0.803908261723525,0.19609173827647486,7.646899140682301,Hire,Hire,Good
+Bad,bad,very bad,No,Yes,very bad,very bad,2,0.04831668394570618,0.9516833160542938,-1.4201997926515257,Reject,Reject,Bad
+Bad,very bad,very bad,Yes,Yes,very bad,very bad,2,0.04831668394570618,0.9516833160542938,-1.4201997926515257,Reject,Reject,Bad
+Good,average,average,No,No,average,average,9,0.9981163494622289,0.0018836505377710514,9.977396193546749,Hire,Hire,Good
+Bad,bad,bad,No,No,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Bad,bad,bad,No,No,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Good,excellent,very bad,Yes,No,excellent,excellent,4,0.9624382629795427,0.03756173702045721,9.549259155754513,Hire,Hire,Good
+Good,average,average,Yes,No,average,average,5,0.9313424064918566,0.06865759350814335,9.17610887790228,Hire,Hire,Good
+Bad,very bad,very bad,Yes,Yes,very bad,very bad,4,0.24087763078935487,0.7591223692106451,0.8905315694722582,Reject,Hire,Bad
+Good,good,good,Yes,Yes,good,good,5,0.9678916165342273,0.03210838346577264,9.614699398410727,Hire,Hire,Good
+Bad,excellent,bad,Yes,No,excellent,excellent,1,0.6211922573902213,0.3788077426097787,5.454307088682656,Hire,Hire,Good
+Good,good,excellent,Yes,Yes,excellent,excellent,6,0.9937943213792837,0.006205678620716408,9.925531856551403,Hire,Hire,Good
+Bad,bad,very bad,No,No,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Good,excellent,excellent,No,Yes,excellent,excellent,6,0.9937943213792837,0.006205678620716408,9.925531856551403,Hire,Hire,Good
+Bad,excellent,very bad,No,No,excellent,excellent,2,0.803908261723525,0.19609173827647486,7.646899140682301,Hire,Hire,Good
+Good,excellent,bad,No,Yes,bad,bad,4,0.38411494524413486,0.6158850547558652,2.609379342929618,Reject,Hire,Bad
+Bad,bad,bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Bad,bad,very bad,No,Yes,very bad,very bad,2,0.04831668394570618,0.9516833160542938,-1.4201997926515257,Reject,Reject,Bad
+Bad,bad,bad,Yes,No,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Good,very bad,excellent,Yes,Yes,excellent,excellent,9,0.9996005161603236,0.0003994838396763672,9.995206193923883,Hire,Hire,Good
+Good,excellent,bad,Yes,No,excellent,excellent,2,0.803908261723525,0.19609173827647486,7.646899140682301,Hire,Hire,Good
+Bad,bad,very bad,Yes,No,bad,bad,4,0.38411494524413486,0.6158850547558652,2.609379342929618,Reject,Hire,Bad
+Bad,good,bad,No,No,good,good,3,0.8282708214961547,0.1717291785038452,7.939249857953857,Hire,Hire,Good
+Bad,very bad,bad,No,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Bad,very bad,bad,No,No,bad,bad,3,0.19966183498528328,0.8003381650147167,0.3959420198233994,Reject,Hire,Bad
+Bad,excellent,average,No,No,excellent,excellent,5,0.9846288857409103,0.015371114259089682,9.815546628890925,Hire,Hire,Good
+Good,average,good,No,Yes,good,good,4,0.9234174539677513,0.07658254603224868,9.081009447613015,Hire,Hire,Good
+Good,bad,good,Yes,No,bad,bad,3,0.19966183498528328,0.8003381650147167,0.3959420198233994,Reject,Hire,Bad
+Good,very bad,bad,No,No,bad,bad,6,0.795834930773772,0.20416506922622804,7.550019169285264,Hire,Hire,Good
+Bad,very bad,very bad,No,Yes,very bad,very bad,2,0.04831668394570618,0.9516833160542938,-1.4201997926515257,Reject,Reject,Bad
+Good,good,good,Yes,No,good,good,3,0.8282708214961547,0.1717291785038452,7.939249857953857,Hire,Hire,Good
+Good,excellent,average,No,Yes,average,average,1,0.2577554177804674,0.7422445822195327,1.0930650133656088,Reject,Hire,Bad
+Bad,bad,bad,No,No,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Good,excellent,average,No,No,excellent,excellent,2,0.803908261723525,0.19609173827647486,7.646899140682301,Hire,Hire,Good
+Bad,very bad,very bad,No,Yes,very bad,very bad,4,0.24087763078935487,0.7591223692106451,0.8905315694722582,Reject,Hire,Bad
+Bad,excellent,bad,No,No,excellent,excellent,3,0.9111042742577183,0.08889572574228163,8.93325129109262,Hire,Hire,Good
+Bad,very bad,bad,Yes,Yes,bad,bad,4,0.38411494524413486,0.6158850547558652,2.609379342929618,Reject,Hire,Bad
+Good,good,bad,Yes,No,good,good,5,0.9678916165342273,0.03210838346577264,9.614699398410727,Hire,Hire,Good
+Bad,bad,very bad,No,Yes,very bad,very bad,2,0.04831668394570618,0.9516833160542938,-1.4201997926515257,Reject,Reject,Bad
+Bad,bad,bad,No,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Good,good,excellent,No,No,excellent,excellent,9,0.9996005161603236,0.0003994838396763672,9.995206193923883,Hire,Hire,Good
+Good,excellent,good,No,No,excellent,excellent,6,0.9937943213792837,0.006205678620716408,9.925531856551403,Hire,Hire,Good
+Good,excellent,excellent,Yes,No,excellent,excellent,8,0.9990018884949339,0.000998111505066213,9.988022661939207,Hire,Hire,Good
+Bad,very bad,very bad,No,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Good,excellent,good,No,Yes,good,good,5,0.9678916165342273,0.03210838346577264,9.614699398410727,Hire,Hire,Good
+Bad,bad,bad,No,Yes,bad,bad,3,0.19966183498528328,0.8003381650147167,0.3959420198233994,Reject,Hire,Bad
+Bad,bad,average,Yes,No,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Good,good,excellent,Yes,Yes,excellent,excellent,6,0.9937943213792837,0.006205678620716408,9.925531856551403,Hire,Hire,Good
+Good,average,average,Yes,Yes,average,average,2,0.4647145175294794,0.5352854824705207,3.5765742103537526,Reject,Hire,Bad
+Bad,average,bad,No,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Bad,very bad,very bad,No,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,-1.4201997926515257,Reject,Reject,Bad
+Bad,bad,good,Yes,No,bad,bad,3,0.19966183498528328,0.8003381650147167,0.3959420198233994,Reject,Hire,Bad
+Good,excellent,good,Yes,No,excellent,excellent,3,0.9111042742577183,0.08889572574228163,8.93325129109262,Hire,Hire,Good
+Good,bad,average,Yes,Yes,average,average,5,0.9313424064918566,0.06865759350814335,9.17610887790228,Hire,Hire,Good
+Good,excellent,average,No,Yes,average,average,5,0.9313424064918566,0.06865759350814335,9.17610887790228,Hire,Hire,Good
+Bad,bad,bad,No,No,bad,bad,3,0.19966183498528328,0.8003381650147167,0.3959420198233994,Reject,Hire,Bad
+Bad,very bad,bad,Yes,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Bad,very bad,very bad,No,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Bad,bad,very bad,No,Yes,very bad,very bad,3,0.11262892556477863,0.8873710744352215,-0.6484528932226565,Reject,Reject,Bad
+Bad,average,excellent,Yes,No,average,average,1,0.2577554177804674,0.7422445822195327,1.0930650133656088,Reject,Hire,Bad
+Bad,bad,bad,No,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Good,bad,average,Yes,No,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Bad,bad,very bad,Yes,No,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Bad,very bad,very bad,No,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Good,average,good,No,No,good,good,8,0.9978813919846485,0.002118608015351499,9.974576703815783,Hire,Hire,Good
+Good,very bad,excellent,No,Yes,excellent,excellent,5,0.9846288857409103,0.015371114259089682,9.815546628890925,Hire,Hire,Good
+Good,good,good,No,No,good,good,4,0.9234174539677513,0.07658254603224868,9.081009447613015,Hire,Hire,Good
+Good,excellent,good,Yes,Yes,excellent,excellent,5,0.9846288857409103,0.015371114259089682,9.815546628890925,Hire,Hire,Good
+Good,good,good,No,No,good,good,3,0.8282708214961547,0.1717291785038452,7.939249857953857,Hire,Hire,Good
+Bad,very bad,bad,No,No,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Bad,bad,bad,Yes,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Bad,very bad,very bad,Yes,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Good,good,good,Yes,Yes,good,good,4,0.9234174539677513,0.07658254603224868,9.081009447613015,Hire,Hire,Good
+Bad,very bad,bad,No,No,bad,bad,3,0.19966183498528328,0.8003381650147167,0.3959420198233994,Reject,Hire,Bad
+Good,excellent,average,Yes,No,excellent,excellent,5,0.9846288857409103,0.015371114259089682,9.815546628890925,Hire,Hire,Good
+Bad,average,very bad,Yes,No,average,average,1,0.2577554177804674,0.7422445822195327,1.0930650133656088,Reject,Hire,Bad
+Good,bad,good,No,Yes,good,good,9,0.9991514781827855,0.0008485218172144918,9.989817738193425,Hire,Hire,Good
+Bad,bad,very bad,Yes,No,bad,bad,4,0.38411494524413486,0.6158850547558652,2.609379342929618,Reject,Hire,Bad
+Bad,bad,very bad,No,No,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Good,excellent,excellent,No,Yes,excellent,excellent,6,0.9937943213792837,0.006205678620716408,9.925531856551403,Hire,Hire,Good
+Good,bad,average,Yes,Yes,average,average,3,0.6845828856812483,0.31541711431875163,6.2149946281749795,Hire,Hire,Good
+Good,good,average,Yes,No,good,good,10,0.9996604183876702,0.0003395816123298679,9.995925020652042,Hire,Hire,Good
+Bad,very bad,good,Yes,Yes,good,good,1,0.4355702158845366,0.5644297841154634,3.2268425906144396,Reject,Hire,Bad
+Good,excellent,very bad,Yes,Yes,excellent,excellent,2,0.803908261723525,0.19609173827647486,7.646899140682301,Hire,Hire,Good
+Good,good,good,Yes,No,good,good,7,0.9947202585155632,0.005279741484436876,9.936643102186759,Hire,Hire,Good
+Bad,very bad,very bad,No,No,very bad,very bad,3,0.11262892556477863,0.8873710744352215,-0.6484528932226565,Reject,Reject,Bad
+Good,good,good,Yes,Yes,good,good,5,0.9678916165342273,0.03210838346577264,9.614699398410727,Hire,Hire,Good
+Bad,bad,very bad,No,No,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Good,excellent,excellent,Yes,Yes,excellent,excellent,9,0.9996005161603236,0.0003994838396763672,9.995206193923883,Hire,Hire,Good
+Bad,excellent,very bad,No,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Good,good,bad,No,Yes,bad,bad,8,0.9605716859754803,0.03942831402451968,9.526860231705765,Hire,Hire,Good
+Bad,very bad,bad,Yes,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,-1.4201997926515257,Reject,Reject,Bad
+Good,good,very bad,Yes,Yes,good,good,7,0.9947202585155632,0.005279741484436876,9.936643102186759,Hire,Hire,Good
+Good,good,very bad,Yes,No,good,good,4,0.9234174539677513,0.07658254603224868,9.081009447613015,Hire,Hire,Good
+Bad,very bad,average,No,No,average,average,4,0.8443825007400562,0.15561749925994384,8.132590008880674,Hire,Hire,Good
+Good,good,average,Yes,No,good,good,3,0.8282708214961547,0.1717291785038452,7.939249857953857,Hire,Hire,Good
+Good,bad,good,Yes,No,bad,bad,5,0.6092527392468644,0.3907472607531356,5.311032870962372,Hire,Hire,Good
+Bad,very bad,bad,No,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Good,average,average,Yes,No,average,average,2,0.4647145175294794,0.5352854824705207,3.5765742103537526,Reject,Hire,Bad
+Good,average,good,No,Yes,good,good,6,0.9869043586899429,0.013095641310057181,9.842852304279313,Hire,Hire,Good
+Bad,very bad,very bad,Yes,Yes,very bad,very bad,6,0.6647885567159726,0.3352114432840275,5.977462680591671,Hire,Hire,Good
+Good,excellent,average,Yes,Yes,excellent,excellent,4,0.9624382629795427,0.03756173702045721,9.549259155754513,Hire,Hire,Good
+Good,bad,very bad,No,No,bad,bad,10,0.9934753756069288,0.00652462439307127,9.921704507283145,Hire,Hire,Good
+Bad,excellent,very bad,Yes,No,excellent,excellent,3,0.9111042742577183,0.08889572574228163,8.93325129109262,Hire,Hire,Good
+Bad,bad,bad,Yes,No,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Bad,bad,very bad,Yes,Yes,bad,bad,3,0.19966183498528328,0.8003381650147167,0.3959420198233994,Reject,Hire,Bad
+Good,bad,bad,No,Yes,bad,bad,4,0.38411494524413486,0.6158850547558652,2.609379342929618,Reject,Hire,Bad
+Good,average,excellent,Yes,Yes,excellent,excellent,5,0.9846288857409103,0.015371114259089682,9.815546628890925,Hire,Hire,Good
+Bad,average,bad,No,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Bad,very bad,average,No,No,average,average,1,0.2577554177804674,0.7422445822195327,1.0930650133656088,Reject,Hire,Bad
+Bad,very bad,good,No,Yes,good,good,1,0.4355702158845366,0.5644297841154634,3.2268425906144396,Reject,Hire,Bad
+Bad,very bad,bad,Yes,No,very bad,very bad,5,0.4423615674822886,0.5576384325177113,3.3083388097874638,Reject,Hire,Bad
+Good,excellent,excellent,No,No,excellent,excellent,6,0.9937943213792837,0.006205678620716408,9.925531856551403,Hire,Hire,Good
+Bad,bad,very bad,Yes,Yes,bad,bad,3,0.19966183498528328,0.8003381650147167,0.3959420198233994,Reject,Hire,Bad
+Good,excellent,excellent,No,No,excellent,excellent,2,0.803908261723525,0.19609173827647486,7.646899140682301,Hire,Hire,Good
+Bad,bad,very bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Good,average,excellent,No,No,excellent,excellent,1,0.6211922573902213,0.3788077426097787,5.454307088682656,Hire,Hire,Good
+Bad,very bad,very bad,Yes,No,very bad,very bad,3,0.11262892556477863,0.8873710744352215,-0.6484528932226565,Reject,Reject,Bad
+Bad,very bad,bad,No,Yes,bad,bad,3,0.19966183498528328,0.8003381650147167,0.3959420198233994,Reject,Hire,Bad
+Good,excellent,excellent,Yes,Yes,excellent,excellent,9,0.9996005161603236,0.0003994838396763672,9.995206193923883,Hire,Hire,Good
+Bad,bad,very bad,No,No,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Good,good,good,Yes,Yes,good,good,1,0.4355702158845366,0.5644297841154634,3.2268425906144396,Reject,Hire,Bad
+Good,good,excellent,Yes,Yes,excellent,excellent,6,0.9937943213792837,0.006205678620716408,9.925531856551403,Hire,Hire,Good
+Good,average,good,No,Yes,good,good,7,0.9947202585155632,0.005279741484436876,9.936643102186759,Hire,Hire,Good
+Good,excellent,bad,No,No,excellent,excellent,9,0.9996005161603236,0.0003994838396763672,9.995206193923883,Hire,Hire,Good
+Bad,bad,bad,Yes,No,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Bad,bad,very bad,Yes,No,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Good,bad,excellent,No,Yes,excellent,excellent,4,0.9624382629795427,0.03756173702045721,9.549259155754513,Hire,Hire,Good
+Bad,bad,bad,No,No,bad,bad,4,0.38411494524413486,0.6158850547558652,2.609379342929618,Reject,Hire,Bad
+Bad,average,bad,No,No,average,average,2,0.4647145175294794,0.5352854824705207,3.5765742103537526,Reject,Hire,Bad
+Bad,bad,bad,No,No,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Good,excellent,bad,Yes,Yes,excellent,excellent,4,0.9624382629795427,0.03756173702045721,9.549259155754513,Hire,Hire,Good
+Bad,bad,good,No,No,good,good,1,0.4355702158845366,0.5644297841154634,3.2268425906144396,Reject,Hire,Bad
+Bad,very bad,bad,Yes,No,very bad,very bad,4,0.24087763078935487,0.7591223692106451,0.8905315694722582,Reject,Hire,Bad
+Bad,very bad,average,No,Yes,average,average,1,0.2577554177804674,0.7422445822195327,1.0930650133656088,Reject,Hire,Bad
+Bad,very bad,very bad,Yes,No,very bad,very bad,3,0.11262892556477863,0.8873710744352215,-0.6484528932226565,Reject,Reject,Bad
+Bad,bad,bad,Yes,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Bad,bad,bad,No,No,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Bad,very bad,average,No,Yes,average,average,4,0.8443825007400562,0.15561749925994384,8.132590008880674,Hire,Hire,Good
+Good,average,good,Yes,No,average,average,3,0.6845828856812483,0.31541711431875163,6.2149946281749795,Hire,Hire,Good
+Bad,very bad,average,No,Yes,average,average,2,0.4647145175294794,0.5352854824705207,3.5765742103537526,Reject,Hire,Bad
+Bad,very bad,very bad,No,No,very bad,very bad,4,0.24087763078935487,0.7591223692106451,0.8905315694722582,Reject,Hire,Bad
+Good,excellent,bad,No,Yes,bad,bad,10,0.9934753756069288,0.00652462439307127,9.921704507283145,Hire,Hire,Good
+Bad,very bad,very bad,Yes,Yes,very bad,very bad,3,0.11262892556477863,0.8873710744352215,-0.6484528932226565,Reject,Reject,Bad
+Good,average,good,Yes,No,average,average,3,0.6845828856812483,0.31541711431875163,6.2149946281749795,Hire,Hire,Good
+Good,excellent,good,Yes,No,excellent,excellent,7,0.997508451502166,0.002491548497833852,9.970101418025992,Hire,Hire,Good
+Bad,good,average,No,No,good,good,1,0.4355702158845366,0.5644297841154634,3.2268425906144396,Reject,Hire,Bad
+Good,excellent,good,Yes,No,excellent,excellent,5,0.9846288857409103,0.015371114259089682,9.815546628890925,Hire,Hire,Good
+Good,good,good,No,Yes,good,good,2,0.6586155583247212,0.3413844416752788,5.903386699896655,Hire,Hire,Good
+Good,excellent,bad,No,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Good,excellent,very bad,Yes,Yes,excellent,excellent,5,0.9846288857409103,0.015371114259089682,9.815546628890925,Hire,Hire,Good
+Good,excellent,excellent,Yes,Yes,excellent,excellent,6,0.9937943213792837,0.006205678620716408,9.925531856551403,Hire,Hire,Good
+Bad,bad,bad,No,No,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Good,very bad,excellent,No,Yes,excellent,excellent,5,0.9846288857409103,0.015371114259089682,9.815546628890925,Hire,Hire,Good
+Bad,bad,bad,Yes,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Bad,very bad,bad,No,No,bad,bad,4,0.38411494524413486,0.6158850547558652,2.609379342929618,Reject,Hire,Bad
+Bad,average,very bad,Yes,No,average,average,4,0.8443825007400562,0.15561749925994384,8.132590008880674,Hire,Hire,Good
+Good,excellent,good,No,No,excellent,excellent,3,0.9111042742577183,0.08889572574228163,8.93325129109262,Hire,Hire,Good
+Bad,bad,good,Yes,No,bad,bad,3,0.19966183498528328,0.8003381650147167,0.3959420198233994,Reject,Hire,Bad
+Good,bad,excellent,Yes,No,bad,bad,6,0.795834930773772,0.20416506922622804,7.550019169285264,Hire,Hire,Good
+Good,excellent,average,No,No,excellent,excellent,1,0.6211922573902213,0.3788077426097787,5.454307088682656,Hire,Hire,Good
+Bad,very bad,bad,No,No,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Good,good,excellent,Yes,No,good,good,6,0.9869043586899429,0.013095641310057181,9.842852304279313,Hire,Hire,Good
+Good,excellent,very bad,Yes,No,excellent,excellent,3,0.9111042742577183,0.08889572574228163,8.93325129109262,Hire,Hire,Good
+Bad,very bad,bad,Yes,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Bad,bad,very bad,Yes,No,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Good,excellent,bad,No,No,excellent,excellent,6,0.9937943213792837,0.006205678620716408,9.925531856551403,Hire,Hire,Good
+Good,excellent,bad,No,Yes,bad,bad,4,0.38411494524413486,0.6158850547558652,2.609379342929618,Reject,Hire,Bad
+Good,good,average,Yes,Yes,good,good,9,0.9991514781827855,0.0008485218172144918,9.989817738193425,Hire,Hire,Good
+Bad,very bad,very bad,Yes,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Bad,very bad,bad,No,Yes,bad,bad,3,0.19966183498528328,0.8003381650147167,0.3959420198233994,Reject,Hire,Bad
+Good,bad,good,No,Yes,good,good,9,0.9991514781827855,0.0008485218172144918,9.989817738193425,Hire,Hire,Good
+Bad,very bad,bad,No,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Bad,very bad,bad,No,No,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Bad,excellent,very bad,No,No,excellent,excellent,3,0.9111042742577183,0.08889572574228163,8.93325129109262,Hire,Hire,Good
+Good,bad,good,No,No,good,good,4,0.9234174539677513,0.07658254603224868,9.081009447613015,Hire,Hire,Good
+Bad,bad,bad,No,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Bad,good,excellent,Yes,Yes,excellent,excellent,1,0.6211922573902213,0.3788077426097787,5.454307088682656,Hire,Hire,Good
+Good,bad,excellent,No,Yes,excellent,excellent,5,0.9846288857409103,0.015371114259089682,9.815546628890925,Hire,Hire,Good
+Good,average,average,No,No,average,average,4,0.8443825007400562,0.15561749925994384,8.132590008880674,Hire,Hire,Good
+Good,good,good,Yes,No,good,good,2,0.6586155583247212,0.3413844416752788,5.903386699896655,Hire,Hire,Good
+Good,excellent,average,Yes,Yes,excellent,excellent,5,0.9846288857409103,0.015371114259089682,9.815546628890925,Hire,Hire,Good
+Good,very bad,excellent,Yes,Yes,excellent,excellent,5,0.9846288857409103,0.015371114259089682,9.815546628890925,Hire,Hire,Good
+Bad,bad,very bad,No,Yes,very bad,very bad,2,0.04831668394570618,0.9516833160542938,-1.4201997926515257,Reject,Reject,Bad
+Bad,bad,very bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Good,good,excellent,Yes,No,good,good,3,0.8282708214961547,0.1717291785038452,7.939249857953857,Hire,Hire,Good
+Good,bad,excellent,Yes,Yes,excellent,excellent,6,0.9937943213792837,0.006205678620716408,9.925531856551403,Hire,Hire,Good
+Good,very bad,good,Yes,No,very bad,very bad,4,0.24087763078935487,0.7591223692106451,0.8905315694722582,Reject,Hire,Bad
+Good,average,good,No,Yes,good,good,2,0.6586155583247212,0.3413844416752788,5.903386699896655,Hire,Hire,Good
+Good,average,average,No,No,average,average,3,0.6845828856812483,0.31541711431875163,6.2149946281749795,Hire,Hire,Good
+Bad,average,very bad,Yes,Yes,average,average,1,0.2577554177804674,0.7422445822195327,1.0930650133656088,Reject,Hire,Bad
+Good,excellent,good,No,Yes,good,good,5,0.9678916165342273,0.03210838346577264,9.614699398410727,Hire,Hire,Good
+Bad,bad,very bad,Yes,No,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Good,very bad,excellent,Yes,Yes,excellent,excellent,2,0.803908261723525,0.19609173827647486,7.646899140682301,Hire,Hire,Good
+Good,good,bad,Yes,No,good,good,9,0.9991514781827855,0.0008485218172144918,9.989817738193425,Hire,Hire,Good
+Good,good,average,Yes,Yes,good,good,7,0.9947202585155632,0.005279741484436876,9.936643102186759,Hire,Hire,Good
+Bad,very bad,very bad,No,Yes,very bad,very bad,4,0.24087763078935487,0.7591223692106451,0.8905315694722582,Reject,Hire,Bad
+Bad,average,good,No,No,good,good,4,0.9234174539677513,0.07658254603224868,9.081009447613015,Hire,Hire,Good
+Good,bad,bad,Yes,No,bad,bad,3,0.19966183498528328,0.8003381650147167,0.3959420198233994,Reject,Hire,Bad
+Good,average,excellent,No,Yes,excellent,excellent,2,0.803908261723525,0.19609173827647486,7.646899140682301,Hire,Hire,Good
+Good,bad,very bad,No,Yes,very bad,very bad,7,0.8321578588614227,0.16784214113857723,7.985894306337072,Hire,Hire,Good
+Good,good,excellent,Yes,Yes,excellent,excellent,8,0.9990018884949339,0.000998111505066213,9.988022661939207,Hire,Hire,Good
+Good,good,excellent,Yes,Yes,excellent,excellent,5,0.9846288857409103,0.015371114259089682,9.815546628890925,Hire,Hire,Good
+Good,good,average,Yes,No,good,good,6,0.9869043586899429,0.013095641310057181,9.842852304279313,Hire,Hire,Good
+Bad,very bad,very bad,Yes,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Good,bad,excellent,Yes,Yes,excellent,excellent,6,0.9937943213792837,0.006205678620716408,9.925531856551403,Hire,Hire,Good
+Good,average,excellent,Yes,No,average,average,6,0.9713570280831013,0.02864297191689871,9.656284336997215,Hire,Hire,Good
+Bad,very bad,very bad,Yes,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Bad,very bad,very bad,No,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,-1.4201997926515257,Reject,Reject,Bad
+Good,average,good,No,No,good,good,4,0.9234174539677513,0.07658254603224868,9.081009447613015,Hire,Hire,Good
+Bad,very bad,very bad,No,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Bad,very bad,bad,No,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Good,good,excellent,Yes,No,good,good,7,0.9947202585155632,0.005279741484436876,9.936643102186759,Hire,Hire,Good
+Bad,very bad,very bad,Yes,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Good,good,excellent,Yes,No,good,good,6,0.9869043586899429,0.013095641310057181,9.842852304279313,Hire,Hire,Good
+Good,bad,average,No,Yes,average,average,7,0.9883424674060147,0.011657532593985387,9.860109608872177,Hire,Hire,Good
+Good,excellent,bad,No,Yes,bad,bad,4,0.38411494524413486,0.6158850547558652,2.609379342929618,Reject,Hire,Bad
+Good,excellent,excellent,No,No,excellent,excellent,2,0.803908261723525,0.19609173827647486,7.646899140682301,Hire,Hire,Good
+Good,average,average,Yes,No,average,average,2,0.4647145175294794,0.5352854824705207,3.5765742103537526,Reject,Hire,Bad
+Good,very bad,average,No,Yes,average,average,7,0.9883424674060147,0.011657532593985387,9.860109608872177,Hire,Hire,Good
+Good,very bad,average,No,Yes,average,average,3,0.6845828856812483,0.31541711431875163,6.2149946281749795,Hire,Hire,Good
+Good,good,good,Yes,No,good,good,10,0.9996604183876702,0.0003395816123298679,9.995925020652042,Hire,Hire,Good
+Bad,average,very bad,Yes,No,average,average,1,0.2577554177804674,0.7422445822195327,1.0930650133656088,Reject,Hire,Bad
+Good,very bad,bad,Yes,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Good,good,good,Yes,No,good,good,5,0.9678916165342273,0.03210838346577264,9.614699398410727,Hire,Hire,Good
+Bad,bad,very bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Good,good,average,Yes,Yes,good,good,3,0.8282708214961547,0.1717291785038452,7.939249857953857,Hire,Hire,Good
+Bad,good,very bad,No,No,good,good,1,0.4355702158845366,0.5644297841154634,3.2268425906144396,Reject,Hire,Bad
+Good,very bad,good,No,Yes,good,good,3,0.8282708214961547,0.1717291785038452,7.939249857953857,Hire,Hire,Good
+Good,good,excellent,Yes,Yes,excellent,excellent,7,0.997508451502166,0.002491548497833852,9.970101418025992,Hire,Hire,Good
+Good,excellent,bad,No,No,excellent,excellent,6,0.9937943213792837,0.006205678620716408,9.925531856551403,Hire,Hire,Good
+Bad,bad,very bad,Yes,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Bad,bad,very bad,Yes,No,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Bad,bad,very bad,Yes,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Bad,very bad,very bad,Yes,No,very bad,very bad,4,0.24087763078935487,0.7591223692106451,0.8905315694722582,Reject,Hire,Bad
+Bad,bad,bad,Yes,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Bad,bad,very bad,No,No,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Bad,very bad,very bad,No,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Good,average,average,No,Yes,average,average,4,0.8443825007400562,0.15561749925994384,8.132590008880674,Hire,Hire,Good
+Bad,very bad,very bad,No,Yes,very bad,very bad,3,0.11262892556477863,0.8873710744352215,-0.6484528932226565,Reject,Reject,Bad
+Bad,average,very bad,No,No,average,average,1,0.2577554177804674,0.7422445822195327,1.0930650133656088,Reject,Hire,Bad
+Bad,very bad,good,No,Yes,good,good,1,0.4355702158845366,0.5644297841154634,3.2268425906144396,Reject,Hire,Bad
+Good,good,very bad,Yes,Yes,good,good,4,0.9234174539677513,0.07658254603224868,9.081009447613015,Hire,Hire,Good
+Good,excellent,excellent,No,No,excellent,excellent,3,0.9111042742577183,0.08889572574228163,8.93325129109262,Hire,Hire,Good
+Good,excellent,average,Yes,Yes,excellent,excellent,3,0.9111042742577183,0.08889572574228163,8.93325129109262,Hire,Hire,Good
+Bad,average,bad,Yes,Yes,average,average,2,0.4647145175294794,0.5352854824705207,3.5765742103537526,Reject,Hire,Bad
+Bad,bad,bad,Yes,Yes,bad,bad,4,0.38411494524413486,0.6158850547558652,2.609379342929618,Reject,Hire,Bad
+Bad,very bad,bad,Yes,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Good,average,average,No,No,average,average,9,0.9981163494622289,0.0018836505377710514,9.977396193546749,Hire,Hire,Good
+Good,good,excellent,No,Yes,excellent,excellent,4,0.9624382629795427,0.03756173702045721,9.549259155754513,Hire,Hire,Good
+Good,very bad,very bad,No,Yes,very bad,very bad,7,0.8321578588614227,0.16784214113857723,7.985894306337072,Hire,Hire,Good
+Good,excellent,average,No,No,excellent,excellent,8,0.9990018884949339,0.000998111505066213,9.988022661939207,Hire,Hire,Good
+Good,good,good,No,No,good,good,5,0.9678916165342273,0.03210838346577264,9.614699398410727,Hire,Hire,Good
+Bad,very bad,bad,No,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Bad,very bad,bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Bad,bad,very bad,No,No,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Good,average,good,No,Yes,good,good,8,0.9978813919846485,0.002118608015351499,9.974576703815783,Hire,Hire,Good
+Bad,very bad,very bad,Yes,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Good,good,average,Yes,Yes,good,good,5,0.9678916165342273,0.03210838346577264,9.614699398410727,Hire,Hire,Good
+Bad,bad,bad,No,Yes,bad,bad,3,0.19966183498528328,0.8003381650147167,0.3959420198233994,Reject,Hire,Bad
+Good,very bad,excellent,No,No,excellent,excellent,7,0.997508451502166,0.002491548497833852,9.970101418025992,Hire,Hire,Good
+Bad,very bad,bad,Yes,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Bad,bad,very bad,No,No,bad,bad,4,0.38411494524413486,0.6158850547558652,2.609379342929618,Reject,Hire,Bad
+Bad,very bad,bad,No,No,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Good,excellent,excellent,Yes,Yes,excellent,excellent,10,0.9998401681539857,0.00015983184601427544,9.998082017847828,Hire,Hire,Good
+Bad,very bad,bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Bad,bad,bad,No,No,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Bad,very bad,very bad,No,Yes,very bad,very bad,2,0.04831668394570618,0.9516833160542938,-1.4201997926515257,Reject,Reject,Bad
+Bad,very bad,bad,Yes,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,-1.4201997926515257,Reject,Reject,Bad
+Good,good,bad,No,Yes,bad,bad,7,0.9069334034307872,0.0930665965692128,8.883200841169446,Hire,Hire,Good
+Good,excellent,excellent,Yes,Yes,excellent,excellent,3,0.9111042742577183,0.08889572574228163,8.93325129109262,Hire,Hire,Good
+Bad,bad,very bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Good,very bad,good,No,Yes,good,good,7,0.9947202585155632,0.005279741484436876,9.936643102186759,Hire,Hire,Good
+Good,excellent,excellent,Yes,No,excellent,excellent,2,0.803908261723525,0.19609173827647486,7.646899140682301,Hire,Hire,Good
+Good,good,average,Yes,Yes,good,good,3,0.8282708214961547,0.1717291785038452,7.939249857953857,Hire,Hire,Good
+Bad,bad,bad,No,No,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Bad,very bad,bad,Yes,No,very bad,very bad,3,0.11262892556477863,0.8873710744352215,-0.6484528932226565,Reject,Reject,Bad
+Good,average,average,No,No,average,average,5,0.9313424064918566,0.06865759350814335,9.17610887790228,Hire,Hire,Good
+Bad,average,bad,No,No,average,average,4,0.8443825007400562,0.15561749925994384,8.132590008880674,Hire,Hire,Good
+Bad,very bad,very bad,Yes,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,-1.4201997926515257,Reject,Reject,Bad
+Bad,very bad,bad,Yes,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,-1.4201997926515257,Reject,Reject,Bad
+Bad,average,very bad,Yes,Yes,average,average,2,0.4647145175294794,0.5352854824705207,3.5765742103537526,Reject,Hire,Bad
+Good,good,very bad,Yes,Yes,good,good,5,0.9678916165342273,0.03210838346577264,9.614699398410727,Hire,Hire,Good
+Good,average,very bad,No,Yes,very bad,very bad,8,0.9253449894545681,0.07465501054543196,9.104139873454818,Hire,Hire,Good
+Bad,very bad,very bad,No,No,very bad,very bad,5,0.4423615674822886,0.5576384325177113,3.3083388097874638,Reject,Hire,Bad
+Bad,bad,very bad,Yes,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Bad,very bad,very bad,No,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Bad,bad,bad,Yes,No,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Good,very bad,bad,Yes,Yes,bad,bad,4,0.38411494524413486,0.6158850547558652,2.609379342929618,Reject,Hire,Bad
+Good,good,excellent,Yes,Yes,excellent,excellent,5,0.9846288857409103,0.015371114259089682,9.815546628890925,Hire,Hire,Good
+Bad,very bad,very bad,No,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Bad,excellent,very bad,Yes,Yes,excellent,excellent,3,0.9111042742577183,0.08889572574228163,8.93325129109262,Hire,Hire,Good
+Bad,bad,average,No,No,average,average,2,0.4647145175294794,0.5352854824705207,3.5765742103537526,Reject,Hire,Bad
+Good,average,bad,No,No,average,average,9,0.9981163494622289,0.0018836505377710514,9.977396193546749,Hire,Hire,Good
+Bad,good,bad,No,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Bad,bad,very bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Bad,very bad,very bad,Yes,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,-1.4201997926515257,Reject,Reject,Bad
+Good,average,average,Yes,Yes,average,average,3,0.6845828856812483,0.31541711431875163,6.2149946281749795,Hire,Hire,Good
+Good,bad,excellent,Yes,No,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Bad,bad,very bad,No,Yes,very bad,very bad,2,0.04831668394570618,0.9516833160542938,-1.4201997926515257,Reject,Reject,Bad
+Bad,very bad,very bad,Yes,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Good,very bad,excellent,No,No,excellent,excellent,6,0.9937943213792837,0.006205678620716408,9.925531856551403,Hire,Hire,Good
+Good,bad,average,Yes,Yes,average,average,6,0.9713570280831013,0.02864297191689871,9.656284336997215,Hire,Hire,Good
+Good,bad,average,No,Yes,average,average,4,0.8443825007400562,0.15561749925994384,8.132590008880674,Hire,Hire,Good
+Bad,bad,bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Bad,bad,bad,No,No,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Bad,very bad,average,No,No,average,average,1,0.2577554177804674,0.7422445822195327,1.0930650133656088,Reject,Hire,Bad
+Bad,very bad,very bad,Yes,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,-1.4201997926515257,Reject,Reject,Bad
+Good,very bad,bad,No,Yes,bad,bad,8,0.9605716859754803,0.03942831402451968,9.526860231705765,Hire,Hire,Good
+Bad,bad,bad,No,Yes,bad,bad,5,0.6092527392468644,0.3907472607531356,5.311032870962372,Hire,Hire,Good
+Good,average,good,No,Yes,good,good,6,0.9869043586899429,0.013095641310057181,9.842852304279313,Hire,Hire,Good
+Bad,very bad,bad,No,No,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Bad,very bad,average,No,No,average,average,2,0.4647145175294794,0.5352854824705207,3.5765742103537526,Reject,Hire,Bad
+Bad,good,bad,No,No,good,good,3,0.8282708214961547,0.1717291785038452,7.939249857953857,Hire,Hire,Good
+Bad,bad,good,No,Yes,good,good,2,0.6586155583247212,0.3413844416752788,5.903386699896655,Hire,Hire,Good
+Good,excellent,excellent,Yes,Yes,excellent,excellent,3,0.9111042742577183,0.08889572574228163,8.93325129109262,Hire,Hire,Good
+Good,bad,excellent,Yes,Yes,excellent,excellent,3,0.9111042742577183,0.08889572574228163,8.93325129109262,Hire,Hire,Good
+Good,average,excellent,Yes,No,average,average,5,0.9313424064918566,0.06865759350814335,9.17610887790228,Hire,Hire,Good
+Bad,very bad,average,Yes,Yes,average,average,3,0.6845828856812483,0.31541711431875163,6.2149946281749795,Hire,Hire,Good
+Good,bad,average,No,Yes,average,average,4,0.8443825007400562,0.15561749925994384,8.132590008880674,Hire,Hire,Good
+Good,excellent,average,No,Yes,average,average,2,0.4647145175294794,0.5352854824705207,3.5765742103537526,Reject,Hire,Bad
+Bad,bad,very bad,No,No,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Bad,very bad,very bad,Yes,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,-1.4201997926515257,Reject,Reject,Bad
+Good,very bad,excellent,Yes,No,very bad,very bad,7,0.8321578588614227,0.16784214113857723,7.985894306337072,Hire,Hire,Good
+Bad,very bad,bad,Yes,Yes,bad,bad,6,0.795834930773772,0.20416506922622804,7.550019169285264,Hire,Hire,Good
+Bad,very bad,bad,Yes,Yes,bad,bad,3,0.19966183498528328,0.8003381650147167,0.3959420198233994,Reject,Hire,Bad
+Bad,bad,bad,Yes,No,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Bad,very bad,bad,No,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Bad,bad,bad,No,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Bad,very bad,very bad,No,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Bad,bad,very bad,No,No,bad,bad,3,0.19966183498528328,0.8003381650147167,0.3959420198233994,Reject,Hire,Bad
+Good,excellent,good,No,Yes,good,good,2,0.6586155583247212,0.3413844416752788,5.903386699896655,Hire,Hire,Good
+Good,good,excellent,No,No,excellent,excellent,3,0.9111042742577183,0.08889572574228163,8.93325129109262,Hire,Hire,Good
+Good,average,average,Yes,Yes,average,average,3,0.6845828856812483,0.31541711431875163,6.2149946281749795,Hire,Hire,Good
+Bad,bad,bad,No,No,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Good,good,excellent,No,No,excellent,excellent,7,0.997508451502166,0.002491548497833852,9.970101418025992,Hire,Hire,Good
+Bad,bad,bad,Yes,Yes,bad,bad,4,0.38411494524413486,0.6158850547558652,2.609379342929618,Reject,Hire,Bad
+Bad,very bad,bad,Yes,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,-1.4201997926515257,Reject,Reject,Bad
+Good,good,excellent,Yes,Yes,excellent,excellent,7,0.997508451502166,0.002491548497833852,9.970101418025992,Hire,Hire,Good
+Good,average,bad,No,No,average,average,8,0.9953041416896198,0.0046958583103801545,9.943649700275438,Hire,Hire,Good
+Good,excellent,very bad,Yes,Yes,excellent,excellent,5,0.9846288857409103,0.015371114259089682,9.815546628890925,Hire,Hire,Good
+Bad,very bad,bad,No,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Good,excellent,average,No,No,excellent,excellent,4,0.9624382629795427,0.03756173702045721,9.549259155754513,Hire,Hire,Good
+Good,average,good,No,Yes,good,good,7,0.9947202585155632,0.005279741484436876,9.936643102186759,Hire,Hire,Good
+Bad,bad,bad,No,No,bad,bad,3,0.19966183498528328,0.8003381650147167,0.3959420198233994,Reject,Hire,Bad
+Bad,bad,bad,No,Yes,bad,bad,3,0.19966183498528328,0.8003381650147167,0.3959420198233994,Reject,Hire,Bad
+Bad,bad,bad,No,No,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Good,average,average,Yes,Yes,average,average,4,0.8443825007400562,0.15561749925994384,8.132590008880674,Hire,Hire,Good
+Good,excellent,excellent,Yes,No,excellent,excellent,7,0.997508451502166,0.002491548497833852,9.970101418025992,Hire,Hire,Good
+Good,good,good,No,Yes,good,good,4,0.9234174539677513,0.07658254603224868,9.081009447613015,Hire,Hire,Good
+Good,good,excellent,Yes,No,good,good,3,0.8282708214961547,0.1717291785038452,7.939249857953857,Hire,Hire,Good
+Good,bad,bad,No,Yes,bad,bad,5,0.6092527392468644,0.3907472607531356,5.311032870962372,Hire,Hire,Good
+Bad,very bad,very bad,Yes,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Bad,bad,very bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Bad,very bad,excellent,Yes,Yes,excellent,excellent,1,0.6211922573902213,0.3788077426097787,5.454307088682656,Hire,Hire,Good
+Good,average,bad,Yes,No,average,average,7,0.9883424674060147,0.011657532593985387,9.860109608872177,Hire,Hire,Good
+Bad,very bad,very bad,Yes,Yes,very bad,very bad,2,0.04831668394570618,0.9516833160542938,-1.4201997926515257,Reject,Reject,Bad
+Good,average,good,No,No,good,good,1,0.4355702158845366,0.5644297841154634,3.2268425906144396,Reject,Hire,Bad
+Bad,bad,bad,Yes,Yes,bad,bad,6,0.795834930773772,0.20416506922622804,7.550019169285264,Hire,Hire,Good
+Bad,very bad,very bad,No,No,very bad,very bad,3,0.11262892556477863,0.8873710744352215,-0.6484528932226565,Reject,Reject,Bad
+Good,good,excellent,No,Yes,excellent,excellent,3,0.9111042742577183,0.08889572574228163,8.93325129109262,Hire,Hire,Good
+Bad,average,very bad,No,No,average,average,4,0.8443825007400562,0.15561749925994384,8.132590008880674,Hire,Hire,Good
+Bad,very bad,bad,Yes,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Good,excellent,excellent,Yes,Yes,excellent,excellent,7,0.997508451502166,0.002491548497833852,9.970101418025992,Hire,Hire,Good
+Bad,very bad,very bad,No,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,-1.4201997926515257,Reject,Reject,Bad
+Bad,good,very bad,Yes,Yes,good,good,1,0.4355702158845366,0.5644297841154634,3.2268425906144396,Reject,Hire,Bad
+Bad,bad,very bad,No,Yes,very bad,very bad,4,0.24087763078935487,0.7591223692106451,0.8905315694722582,Reject,Hire,Bad
+Good,excellent,excellent,No,No,excellent,excellent,6,0.9937943213792837,0.006205678620716408,9.925531856551403,Hire,Hire,Good
+Bad,bad,bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Good,excellent,good,No,Yes,good,good,8,0.9978813919846485,0.002118608015351499,9.974576703815783,Hire,Hire,Good
+Good,average,good,No,No,good,good,5,0.9678916165342273,0.03210838346577264,9.614699398410727,Hire,Hire,Good
+Bad,very bad,very bad,Yes,Yes,very bad,very bad,5,0.4423615674822886,0.5576384325177113,3.3083388097874638,Reject,Hire,Bad
+Bad,bad,bad,Yes,Yes,bad,bad,3,0.19966183498528328,0.8003381650147167,0.3959420198233994,Reject,Hire,Bad
+Good,average,good,No,No,good,good,4,0.9234174539677513,0.07658254603224868,9.081009447613015,Hire,Hire,Good
+Good,excellent,excellent,Yes,Yes,excellent,excellent,2,0.803908261723525,0.19609173827647486,7.646899140682301,Hire,Hire,Good
+Bad,bad,bad,Yes,No,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Bad,average,bad,No,Yes,bad,bad,4,0.38411494524413486,0.6158850547558652,2.609379342929618,Reject,Hire,Bad
+Good,very bad,excellent,No,No,excellent,excellent,3,0.9111042742577183,0.08889572574228163,8.93325129109262,Hire,Hire,Good
+Bad,average,very bad,No,No,average,average,3,0.6845828856812483,0.31541711431875163,6.2149946281749795,Hire,Hire,Good
+Bad,bad,bad,Yes,No,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Bad,very bad,very bad,Yes,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Bad,very bad,very bad,No,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,-1.4201997926515257,Reject,Reject,Bad
+Bad,average,very bad,No,No,average,average,1,0.2577554177804674,0.7422445822195327,1.0930650133656088,Reject,Hire,Bad
+Bad,very bad,bad,No,No,bad,bad,4,0.38411494524413486,0.6158850547558652,2.609379342929618,Reject,Hire,Bad
+Good,very bad,excellent,Yes,Yes,excellent,excellent,5,0.9846288857409103,0.015371114259089682,9.815546628890925,Hire,Hire,Good
+Bad,very bad,bad,Yes,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Bad,very bad,bad,Yes,No,very bad,very bad,7,0.8321578588614227,0.16784214113857723,7.985894306337072,Hire,Hire,Good
+Good,excellent,good,Yes,Yes,excellent,excellent,2,0.803908261723525,0.19609173827647486,7.646899140682301,Hire,Hire,Good
+Good,average,excellent,No,No,excellent,excellent,5,0.9846288857409103,0.015371114259089682,9.815546628890925,Hire,Hire,Good
+Bad,bad,average,Yes,Yes,average,average,3,0.6845828856812483,0.31541711431875163,6.2149946281749795,Hire,Hire,Good
+Bad,very bad,very bad,Yes,Yes,very bad,very bad,2,0.04831668394570618,0.9516833160542938,-1.4201997926515257,Reject,Reject,Bad
+Bad,very bad,very bad,Yes,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,-1.4201997926515257,Reject,Reject,Bad
+Bad,bad,good,No,No,good,good,5,0.9678916165342273,0.03210838346577264,9.614699398410727,Hire,Hire,Good
+Good,excellent,good,No,Yes,good,good,8,0.9978813919846485,0.002118608015351499,9.974576703815783,Hire,Hire,Good
+Good,excellent,good,No,Yes,good,good,5,0.9678916165342273,0.03210838346577264,9.614699398410727,Hire,Hire,Good
+Good,excellent,average,Yes,Yes,excellent,excellent,6,0.9937943213792837,0.006205678620716408,9.925531856551403,Hire,Hire,Good
+Good,good,excellent,No,No,excellent,excellent,1,0.6211922573902213,0.3788077426097787,5.454307088682656,Hire,Hire,Good
+Good,very bad,good,No,No,good,good,4,0.9234174539677513,0.07658254603224868,9.081009447613015,Hire,Hire,Good
+Good,excellent,excellent,Yes,No,excellent,excellent,7,0.997508451502166,0.002491548497833852,9.970101418025992,Hire,Hire,Good
+Bad,bad,bad,Yes,No,bad,bad,3,0.19966183498528328,0.8003381650147167,0.3959420198233994,Reject,Hire,Bad
+Good,good,average,No,Yes,average,average,5,0.9313424064918566,0.06865759350814335,9.17610887790228,Hire,Hire,Good
+Bad,very bad,bad,No,No,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Good,average,excellent,No,No,excellent,excellent,5,0.9846288857409103,0.015371114259089682,9.815546628890925,Hire,Hire,Good
+Bad,bad,bad,Yes,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Bad,very bad,very bad,No,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Bad,very bad,very bad,No,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Bad,very bad,very bad,No,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,-1.4201997926515257,Reject,Reject,Bad
+Bad,bad,bad,No,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Good,good,excellent,Yes,No,good,good,7,0.9947202585155632,0.005279741484436876,9.936643102186759,Hire,Hire,Good
+Good,good,good,Yes,Yes,good,good,5,0.9678916165342273,0.03210838346577264,9.614699398410727,Hire,Hire,Good
+Good,good,average,No,Yes,average,average,7,0.9883424674060147,0.011657532593985387,9.860109608872177,Hire,Hire,Good
+Bad,very bad,very bad,Yes,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Bad,bad,very bad,Yes,No,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Good,excellent,good,No,Yes,good,good,10,0.9996604183876702,0.0003395816123298679,9.995925020652042,Hire,Hire,Good
+Bad,bad,very bad,No,No,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Bad,bad,bad,Yes,No,bad,bad,4,0.38411494524413486,0.6158850547558652,2.609379342929618,Reject,Hire,Bad
+Good,excellent,bad,Yes,No,excellent,excellent,6,0.9937943213792837,0.006205678620716408,9.925531856551403,Hire,Hire,Good
+Bad,very bad,very bad,Yes,Yes,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Good,good,very bad,Yes,No,good,good,4,0.9234174539677513,0.07658254603224868,9.081009447613015,Hire,Hire,Good
+Bad,bad,good,No,Yes,good,good,1,0.4355702158845366,0.5644297841154634,3.2268425906144396,Reject,Hire,Bad
+Good,very bad,excellent,Yes,Yes,excellent,excellent,5,0.9846288857409103,0.015371114259089682,9.815546628890925,Hire,Hire,Good
+Good,good,good,Yes,No,good,good,2,0.6586155583247212,0.3413844416752788,5.903386699896655,Hire,Hire,Good
+Bad,very bad,very bad,Yes,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Good,excellent,very bad,Yes,Yes,excellent,excellent,2,0.803908261723525,0.19609173827647486,7.646899140682301,Hire,Hire,Good
+Good,excellent,excellent,No,Yes,excellent,excellent,3,0.9111042742577183,0.08889572574228163,8.93325129109262,Hire,Hire,Good
+Bad,very bad,very bad,Yes,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,-1.4201997926515257,Reject,Reject,Bad
+Good,excellent,good,No,Yes,good,good,8,0.9978813919846485,0.002118608015351499,9.974576703815783,Hire,Hire,Good
+Bad,very bad,very bad,No,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,-1.4201997926515257,Reject,Reject,Bad
+Good,good,very bad,No,Yes,very bad,very bad,3,0.11262892556477863,0.8873710744352215,-0.6484528932226565,Reject,Reject,Bad
+Good,excellent,excellent,No,Yes,excellent,excellent,4,0.9624382629795427,0.03756173702045721,9.549259155754513,Hire,Hire,Good
+Bad,very bad,very bad,Yes,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Bad,very bad,good,No,Yes,good,good,1,0.4355702158845366,0.5644297841154634,3.2268425906144396,Reject,Hire,Bad
+Bad,bad,very bad,Yes,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Good,excellent,average,Yes,Yes,excellent,excellent,5,0.9846288857409103,0.015371114259089682,9.815546628890925,Hire,Hire,Good
+Bad,very bad,very bad,Yes,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Good,good,average,Yes,Yes,good,good,7,0.9947202585155632,0.005279741484436876,9.936643102186759,Hire,Hire,Good
+Bad,bad,bad,No,Yes,bad,bad,2,0.09073445916168488,0.9092655408383151,-0.9111864900597815,Reject,Reject,Bad
+Bad,bad,very bad,Yes,No,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Bad,very bad,average,Yes,No,very bad,very bad,1,0.019903681511655263,0.9800963184883448,-1.7611558218601369,Reject,Reject,Bad
+Good,good,excellent,No,No,excellent,excellent,2,0.803908261723525,0.19609173827647486,7.646899140682301,Hire,Hire,Good
+Good,average,average,Yes,Yes,average,average,8,0.9953041416896198,0.0046958583103801545,9.943649700275438,Hire,Hire,Good
+Good,good,average,No,Yes,average,average,3,0.6845828856812483,0.31541711431875163,6.2149946281749795,Hire,Hire,Good
+Good,good,excellent,No,Yes,excellent,excellent,9,0.9996005161603236,0.0003994838396763672,9.995206193923883,Hire,Hire,Good
+Bad,very bad,bad,Yes,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,-1.4201997926515257,Reject,Reject,Bad
+Good,bad,good,Yes,Yes,good,good,4,0.9234174539677513,0.07658254603224868,9.081009447613015,Hire,Hire,Good
+Bad,bad,bad,Yes,Yes,bad,bad,1,0.03838340199727915,0.9616165980027209,-1.5393991760326502,Reject,Reject,Bad
+Bad,very bad,average,No,No,average,average,2,0.4647145175294794,0.5352854824705207,3.5765742103537526,Reject,Hire,Bad
+Good,excellent,average,No,No,excellent,excellent,1,0.6211922573902213,0.3788077426097787,5.454307088682656,Hire,Hire,Good
+Bad,very bad,very bad,No,No,very bad,very bad,2,0.04831668394570618,0.9516833160542938,-1.4201997926515257,Reject,Reject,Bad

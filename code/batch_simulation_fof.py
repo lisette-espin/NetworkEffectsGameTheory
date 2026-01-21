@@ -709,7 +709,7 @@ def main(output_dir=None, p=0.5, lambda_good=5.0, lambda_bad=2.0,
     analyze_referral_selection(candidates_df)
     
     # Save simulation results
-    candidates_csv_path = 'referral_simulated_candidates.csv'
+    candidates_csv_path = 'referral_simulated_candidates_fof.csv'
     if output_dir:
         candidates_csv_path = os.path.join(output_dir, candidates_csv_path)
     candidates_df.to_csv(candidates_csv_path, index=False)
