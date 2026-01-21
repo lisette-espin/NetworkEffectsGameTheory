@@ -418,7 +418,7 @@ def main(output_dir=None, p=0.5, q_good=0.7, q_bad=0.3, lambda_good=5.0,
     
     # Visualize matrix
     print("\nGenerating visualization...")
-    heatmap_path = 'probability_heatmap.png'
+    heatmap_path = 'chaperone_probability_heatmap.png'
     if output_dir:
         heatmap_path = os.path.join(output_dir, heatmap_path)
     model.visualize_matrix(prob_matrix, save_path=heatmap_path)
@@ -461,7 +461,7 @@ def main(output_dir=None, p=0.5, q_good=0.7, q_bad=0.3, lambda_good=5.0,
         print(f"Average Expected Payoff (Probability-based hires): {avg_payoff_prob:.2f}")
     
     # Save simulation results
-    candidates_csv_path = 'simulated_candidates_chaperon.csv'
+    candidates_csv_path = 'chaperone_simulated_candidates.csv'
     if output_dir:
         candidates_csv_path = os.path.join(output_dir, candidates_csv_path)
     candidates_df.to_csv(candidates_csv_path, index=False)
